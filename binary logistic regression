@@ -1,0 +1,127 @@
+install.packages("modeldata")
+library(modeldata)
+data("mlc_churn")
+str(mlc_churn) 
+# 이동 통신사 고객 이탈 데이터 
+# churn 변수는 이항 로지스틱변수의 결과 변수 
+
+churn <- mlc_churn
+churn <- churn[-c(1,3)] # state 와 area_code 제외 
+churn$churn <- factor(ifelse(churn$churn=="no", 1,2),
+                      levels=c(1, 2),
+                      labels = c("no","yes"))
+# 고객 이탈이 사건 발생으로 해석될 수 있도록 churn 변수값을 고객미이탈의 경우 1로
+# 고객 이탈의 경우 2로 재코딩. >> 원래와 반대
+str(churn)
+churn.train <- churn[1:3333,] # 훈련데이터 
+churn.test <- churn[3334:5000,] # 테스트데이터
+table(churn.train$churn) # 훈련데이터셋에 포함된 3333개의 케이스 가운데 이탈고객은 483명 
+prop.table((table(churn.train$churn))) # 전체의 약 14퍼센트 차지
+
+table(churn.test$churn) # 테스트 데이터셋에 포함된 케이스 중 이탈고객 224명 
+prop.table((table(churn.test$churn))) # 전체의 약 13퍼센트 
+
+# 훈련데이터와 테스트데이터간 차이가 별로 없기때문에 적절한 분할로 평가 >> 모델링 시작
+
+
+churn.logit <- glm(churn ~ ., data=churn.train,
+                   family = binomial(link = "logit")) # 결과변수 = churn , 예측변수 = 모두 
+
+summary(churn.logit)
+# 예측 변수에 포함된 범주형 변수는 모두 더미변수로 자동 변환 별도의 작업 필요x
+# international_planyes, voice_mail_planyes 두 개의 범주형 변수 >> no 와 yes 변수 변환
+# 자동으로 생성된 더미 변수명을 보면 끝에 yes가 붙어있음. 
+
+exp(coef(churn.logit)) # 회귀계수 추출 후 exp 함수 적용 = 오즈비(odds) 계산 
+
+# 로지스틱 회귀모델의 통계적 유의성 
+# Null deviance: 2758.3  on 3332  degrees of freedom (NULL 모델은 상수항만이 포함)
+# Residual deviance: 2158.7  on 3315  degrees of freedom (예측변수 모두 포함)
+# deviance > 이탈도 = 모델의 적합도를 나타내는 정도 ( 이탈도가 클수록 나쁜 모델)
+# NULL 모델보다 Residual 모델의 적합도가 개선(이탈도가 작아짐)
+# = 결과 변수를 예측하는 변수가 많기 때문.
+# 이탈도가 작아지는 정도가 통계적으로 유의한지 검정해야함. 
+# 차이 검정은 자유도의 감소 폭만큼 충분히 이탈도의 감소가 있는지 관찰. 
+# NULL 모델의 자유도는 관측값의 개수에서 우리가 추정해야 할 상수항의 개수를 뺀 3332개.
+# 예측 모델은 17개의 예측 변수를 포함하고 있기 때문에, 17개의 예측 변수 + 상수항 총 18개의 파라미터 추정 
+# 3333 의 관측값에서 18을 뺀 3315가 자유도가 됌. 
+# NULL 모델과 예측 모델의 자유도 차이는 17인데, 자유도 차이만큼 예측 모델의 이탈도가 충분히
+# 개선이 되어있는지 통계적으로 검정. 
+# 이탈도는 카이스퀘어 검정으로 통계적 검정.
+
+pchisq(q=2758.3 - 2158.7, df=3332-3315, 
+       lower.tail = FALSE)
+# 이탈도 차이 , 자유도 차이 
+# 매우 작은 유의확률 > 통계적으로 의미가 있는 유의한 차이. 
+
+pchisq(q=churn.logit$null.deviance - churn.logit$deviance,
+       df = churn.logit$df.null - churn.logit$df.residual,
+       lower.tail = FALSE)
+
+churn.logit.pred <- predict(churn.logit, newdata = churn.test,
+                            type="response")
+
+head(churn.logit.pred)
+
+churn.logit.pred <- factor(churn.logit.pred > 0.5,
+                           levels = c(FALSE,TRUE),
+                           labels = c("no", "yes"))
+
+head(churn.logit.pred)
+# 0.5를 판정 기준으로 했을 때, 모두 고객 미이탈로 분류됌.
+
+# 테스트 데이터에 포함되어있는 모든 관측값 
+table(churn.logit.pred)
+
+# 실제 판정 결과와 로지스틱 회귀모델에 의한 예측결과를 비교하기 위해 혼동행렬 생성
+
+table(churn.test$churn, churn.logit.pred,
+      dnn = c("Actual", "Predicted"))
+
+mean(churn.test$churn == churn.logit.pred)
+
+churn.logit2 <- step(churn.logit) 
+# step 함수를 통해 더 간명한 모델을 얻을 수 있음.
+summary(churn.logit2)
+# 새로운 모델은 모두 통꼐적으로 유의한 변수들로만 구성됨.
+
+
+
+# 관심있는 특정 변수가 사건 발생 확률에 어떤 영향을 미치는지 확인 가능.
+
+table(churn.test$number_customer_service_calls)
+
+testdata <- data.frame(number_customer_service_calls=c(0:7),
+                       international_plan="no",
+                       voice_mail_plan="no",
+                       number_vmail_messages=mean(churn.test$number_vmail_messages),
+                       total_day_charge=mean(churn.test$total_day_charge),
+                       total_eve_minutes=mean(churn.test$total_eve_minutes),
+                       total_night_charge=mean(churn.test$total_night_charge),
+                       total_intl_calls=mean(churn.test$total_intl_calls),      
+                       total_intl_charge=mean(churn.test$total_intl_charge)
+                       )
+str(testdata)
+
+testdata$prob <- predict(churn.logit2,
+                         newdata=testdata,
+                         type="response")
+
+head(testdata$prob)
+
+testdata[c("number_customer_service_calls", "prob")]
+# 서비스센터 전화 횟수 증가에 따른 고객 이탈 확률 증가
+# 다른 예측 변수들은 일정하다는 가정하에 실시.
+
+# 로지스틱 회귀분석을 실행할 때는 과산포 문제가 발생할 수 있음.
+# 과산포 = 결과 변수에 실제 관측된 분산이 이항분포로부터 기대되는 분산보다 더 클때 발생
+# 과산포는 표준오차를 왜곡시켜 회귀계수의 유의성 검정을 부정확하게 만들 수 있음.
+
+# glm()에서 binomial 대신 quasibinominal 적용 
+# 과산포를 확인하기 위해서는 이항분포가 적용된 로지스틱 회귀모델에서 이탈도와 자유도의 비율 확인
+# 이탈도: 자유도 > 2 라면 과산포 의심
+
+deviance(churn.logit2)/df.residual(churn.logit2)
+# 2보다 작기때문에 과산포 x 
+
+
