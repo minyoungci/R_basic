@@ -1,0 +1,2931 @@
+"MS.Zoning","Overall.Qual","Year.Built","Year.Remod.Add","Exter.Qual","Exter.Cond","Garage.Qual","Garage.Cond","Sale.Type","Sale.Condition","SalePrice"
+"RL",6,1960,1960,"TA","TA","TA","TA","WD ","Normal",215000
+"RH",5,1961,1961,"TA","TA","TA","TA","WD ","Normal",105000
+"RL",6,1958,1958,"TA","TA","TA","TA","WD ","Normal",172000
+"RL",7,1968,1968,"Gd","TA","TA","TA","WD ","Normal",244000
+"RL",5,1997,1998,"TA","TA","TA","TA","WD ","Normal",189900
+"RL",6,1998,1998,"TA","TA","TA","TA","WD ","Normal",195500
+"RL",8,2001,2001,"Gd","TA","TA","TA","WD ","Normal",213500
+"RL",8,1992,1992,"Gd","TA","TA","TA","WD ","Normal",191500
+"RL",8,1995,1996,"Gd","TA","TA","TA","WD ","Normal",236500
+"RL",7,1999,1999,"TA","TA","TA","TA","WD ","Normal",189000
+"RL",6,1993,1994,"TA","TA","TA","TA","WD ","Normal",175900
+"RL",6,1992,2007,"TA","Gd","TA","TA","WD ","Normal",185000
+"RL",6,1998,1998,"TA","TA","TA","TA","WD ","Normal",180400
+"RL",7,1990,1990,"TA","TA","TA","TA","WD ","Normal",171500
+"RL",8,1985,1985,"Gd","TA","TA","TA","WD ","Normal",212000
+"RL",8,2003,2003,"Ex","TA","TA","TA","WD ","Normal",538000
+"RL",8,1988,2005,"Gd","TA","TA","TA","WD ","Normal",164000
+"RL",9,2010,2010,"Gd","TA","TA","TA","New","Partial",394432
+"RL",4,1951,1951,"TA","TA","TA","TA","WD ","Normal",141000
+"RL",6,1978,1988,"TA","TA","TA","TA","WD ","Normal",210000
+"RL",6,1977,1977,"TA","TA","TA","TA","COD","Normal",190000
+"RL",7,1974,1974,"TA","TA","TA","TA","WD ","Family",170000
+"FV",7,2000,2000,"Gd","TA","TA","TA","WD ","Normal",216000
+"RL",6,1970,1970,"TA","TA","TA","TA","WD ","Normal",149000
+"RL",5,1971,2008,"TA","TA","TA","TA","WD ","Normal",149900
+"RL",5,1968,1968,"TA","TA","TA","TA","WD ","Normal",142000
+"RL",4,1970,1970,"TA","TA","TA","TA","WD ","Normal",126000
+"RL",4,1971,1971,"TA","TA",NA,NA,"ConLI","Normal",115000
+"RH",7,1999,1999,"Gd","TA","TA","TA","WD ","Normal",184000
+"RM",6,1971,1971,"TA","TA","TA","TA","COD","Normal",96000
+"RM",5,1971,1971,"TA","TA","TA","TA","WD ","Normal",105500
+"RM",6,1971,1971,"TA","TA","TA","TA","WD ","Family",88000
+"RL",6,1977,1977,"TA","TA","TA","TA","WD ","Normal",127500
+"RL",6,1975,1975,"TA","TA","TA","TA","WD ","Normal",149900
+"RL",7,1975,1975,"TA","TA","TA","TA","WD ","Normal",120000
+"RL",6,1978,1978,"TA","TA","TA","TA","WD ","Normal",146000
+"RL",9,2009,2010,"Ex","TA","TA","TA","New","Partial",376162
+"RL",8,2007,2008,"Gd","TA","TA","TA","WD ","Normal",306000
+"RL",9,2009,2010,"Ex","TA","TA","TA","New","Partial",395192
+"RL",8,2009,2010,"Gd","TA","TA","TA","New","Partial",290941
+"RL",7,2005,2005,"Gd","TA","TA","TA","New","Partial",220000
+"RL",9,2005,2005,"Gd","TA","TA","TA","WD ","Normal",275000
+"RL",8,2005,2006,"Gd","TA","TA","TA","WD ","Normal",259000
+"RL",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",214000
+"RL",9,2009,2010,"Ex","TA","TA","TA","New","Partial",611657
+"RL",7,2009,2010,"Gd","TA","TA","TA","New","Partial",224000
+"RL",9,2003,2004,"Ex","TA","TA","TA","WD ","Normal",500000
+"RL",8,2002,2002,"Gd","TA","TA","TA","WD ","Normal",320000
+"RL",9,2005,2005,"Ex","TA","TA","TA","WD ","Normal",319900
+"RL",8,2006,2006,"Gd","TA","TA","TA","WD ","Normal",205000
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",175500
+"RL",6,2005,2005,"Gd","TA","TA","TA","WD ","Normal",199500
+"RL",7,2006,2006,"Gd","TA","TA","TA","WD ","Normal",160000
+"RL",8,2004,2005,"Gd","TA","TA","TA","WD ","Normal",192000
+"RL",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",184500
+"RL",6,2002,2002,"Gd","TA","TA","TA","WD ","Normal",216500
+"RL",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",185088
+"RL",7,2000,2000,"TA","TA","TA","TA","WD ","Normal",180000
+"RL",7,2001,2001,"Gd","TA","TA","TA","WD ","Normal",222500
+"RL",9,1999,1999,"Gd","TA","TA","TA","WD ","Normal",333168
+"RL",8,1998,1998,"Gd","TA","TA","TA","WD ","Normal",355000
+"RL",7,1996,1996,"Gd","TA","TA","TA","WD ","Normal",260400
+"RL",8,1994,1995,"Gd","TA","TA","TA","WD ","Normal",325000
+"RL",8,1999,2007,"Gd","TA","TA","TA","WD ","Normal",290000
+"RL",7,1998,1998,"Gd","TA","TA","TA","WD ","Normal",221000
+"RL",8,1995,1996,"Gd","TA","TA","TA","WD ","Normal",410000
+"RL",8,2005,2006,"Gd","TA","TA","TA","WD ","Normal",221500
+"FV",7,2009,2010,"Gd","TA","TA","TA","New","Partial",204500
+"FV",7,2009,2009,"TA","TA","TA","TA","Con","Normal",215200
+"FV",8,2008,2008,"Gd","TA","TA","TA","WD ","Normal",262500
+"FV",7,2004,2005,"Gd","TA","TA","TA","WD ","Normal",254900
+"FV",6,2005,2005,"Gd","TA","TA","TA","WD ","Normal",271500
+"RL",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",233000
+"RL",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",181000
+"RL",7,1994,2002,"Gd","TA","TA","TA","WD ","Normal",205000
+"RL",6,1980,1980,"TA","TA","TA","TA","WD ","Normal",143000
+"RL",6,1992,1992,"Gd","TA","TA","TA","WD ","Normal",189000
+"RL",6,1979,1979,"TA","TA","TA","TA","WD ","Normal",99500
+"RL",6,1984,1984,"TA","TA","TA","TA","WD ","Normal",125000
+"RL",7,1993,2003,"Gd","TA","TA","TA","WD ","Normal",194500
+"RL",6,1984,1985,"TA","TA","TA","TA","WD ","Normal",152000
+"RL",6,1980,1981,"TA","TA","TA","TA","WD ","Normal",171000
+"RH",5,1920,1950,"TA","Fa","TA","TA","WD ","Normal",67500
+"RM",6,1978,1978,"TA","TA","TA","TA","WD ","Normal",112000
+"RL",5,1961,1995,"TA","TA","TA","TA","WD ","Normal",148000
+"RL",5,1965,2009,"TA","Gd","TA","TA","WD ","Normal",138500
+"RL",5,1967,1967,"TA","Gd","TA","TA","WD ","Normal",122000
+"RL",5,1963,1963,"TA","TA","TA","TA","WD ","Normal",133000
+"RL",5,1962,2010,"TA","Gd","TA","TA","WD ","Normal",127000
+"RL",6,1974,2002,"TA","Gd","TA","TA","WD ","Abnorml",169000
+"RL",7,1992,1992,"Gd","TA","TA","TA","WD ","Normal",190000
+"RL",8,1993,1993,"Gd","TA","TA","TA","WD ","Normal",362500
+"RL",8,1992,1993,"Gd","TA","TA","TA","WD ","Normal",285000
+"FV",7,2004,2005,"Gd","TA","TA","TA","WD ","Normal",260000
+"FV",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",190000
+"FV",7,2004,2004,"Gd","TA","TA","TA","ConLD","Normal",155000
+"FV",7,2004,2005,"Gd","TA","TA","TA","WD ","Normal",151000
+"FV",7,2004,2005,"Gd","TA","TA","TA","WD ","Normal",149500
+"FV",6,2005,2005,"Gd","TA","TA","TA","WD ","Normal",152000
+"FV",7,2009,2009,"Ex","TA","TA","TA","New","Partial",222000
+"FV",6,2000,2000,"Gd","TA","TA","TA","WD ","Normal",177500
+"FV",6,2000,2000,"Gd","TA","TA","TA","WD ","Normal",177000
+"FV",7,1999,1999,"Gd","TA","TA","TA","WD ","Normal",155000
+"FV",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",147110
+"FV",8,2010,2010,"Gd","TA","TA","TA","New","Partial",267916
+"FV",8,2000,2000,"Gd","TA","TA","TA","WD ","Normal",254000
+"RL",8,1980,1980,"Gd","TA","TA","TA","WD ","Normal",155000
+"RL",8,1978,1978,"Gd","TA","TA","TA","WD ","Normal",206000
+"RL",6,1976,2005,"Gd","TA","TA","TA","WD ","Normal",130500
+"FV",7,2002,2002,"Gd","TA","TA","TA","WD ","Normal",230000
+"RL",6,1967,1967,"TA","TA","TA","TA","WD ","Normal",218500
+"RL",6,1993,1993,"TA","TA","TA","TA","WD ","Normal",243500
+"RL",6,1977,2001,"TA","TA","TA","TA","WD ","Normal",205000
+"RL",6,1978,1978,"TA","TA","TA","TA","WD ","Normal",212500
+"RL",7,1988,1988,"TA","TA","TA","TA","WD ","Normal",196500
+"RL",6,1972,2006,"TA","TA","TA","TA","WD ","Normal",197500
+"RL",6,1971,1971,"TA","TA","TA","TA","WD ","Normal",171000
+"RL",5,1966,1966,"TA","TA","TA","TA","WD ","Normal",142250
+"RL",6,1963,1963,"TA","TA","TA","TA","WD ","Normal",143000
+"RL",4,1959,1959,"TA","TA",NA,NA,"WD ","Normal",128950
+"RL",5,1966,1966,"TA","TA","TA","TA","ConLD","Normal",159000
+"RL",5,1967,1967,"TA","TA","TA","TA","WD ","Normal",178900
+"RL",6,1964,1964,"TA","TA","TA","TA","COD","Family",136300
+"RL",5,1964,1964,"TA","TA","TA","TA","WD ","Normal",180500
+"RL",6,1963,1963,"TA","Gd","TA","TA","WD ","Abnorml",137500
+"RL",5,1962,2001,"TA","TA",NA,NA,"Oth","Abnorml",84900
+"RL",5,1950,1996,"TA","TA","TA","TA","WD ","Normal",142125
+"RL",5,1952,2002,"Gd","TA","TA","TA","WD ","Normal",197600
+"RL",6,1949,1950,"TA","Gd","TA","TA","WD ","Normal",172500
+"RL",5,1958,2008,"TA","Gd",NA,NA,"WD ","Normal",116500
+"RL",3,1940,1966,"TA","Po",NA,NA,"WD ","Normal",76500
+"RL",5,1954,1954,"TA","TA","TA","TA","WD ","Normal",128000
+"RL",6,1955,1972,"TA","TA","TA","TA","WD ","Normal",153000
+"RL",5,1954,1954,"TA","TA","TA","TA","WD ","Normal",132000
+"RL",6,1966,2008,"TA","TA","TA","TA","WD ","Normal",178000
+"RL",5,1960,1960,"TA","TA","TA","TA","WD ","Normal",154300
+"RL",7,1970,1989,"TA","TA","TA","TA","WD ","Normal",180000
+"RL",6,1966,2002,"Gd","TA","TA","TA","WD ","Normal",190000
+"RL",5,1958,1958,"TA","TA","TA","TA","WD ","Normal",135000
+"RL",7,2003,2009,"Gd","TA","TA","TA","WD ","Normal",214000
+"RL",5,1959,1959,"TA","TA","TA","TA","WD ","Normal",136000
+"RL",5,1959,1959,"TA","TA","TA","TA","WD ","Normal",165500
+"RL",5,1957,1957,"TA","Gd","TA","TA","WD ","Normal",145000
+"RL",6,1959,1959,"TA","TA","TA","TA","WD ","Normal",148000
+"RL",5,1959,1959,"TA","TA","TA","TA","COD","Abnorml",142000
+"RL",5,1960,1960,"TA","TA","TA","TA","WD ","Normal",167500
+"RL",5,1959,1959,"TA","TA","TA","TA","WD ","Normal",108538
+"RL",6,1959,1959,"TA","TA","TA","TA","WD ","Normal",159500
+"RL",4,1956,1956,"TA","TA","TA","TA","WD ","Normal",108000
+"RL",5,1952,1952,"TA","TA","TA","TA","WD ","Normal",135000
+"RL",5,1955,1955,"TA","Gd","TA","TA","WD ","Normal",122500
+"RL",5,1958,1958,"TA","TA","TA","TA","WD ","Abnorml",119000
+"RL",5,1953,2007,"TA","Gd","TA","TA","WD ","Abnorml",109000
+"RL",4,1920,1994,"TA","TA","TA","TA","WD ","Normal",105000
+"RL",5,1955,2007,"TA","TA","TA","TA","WD ","Normal",107500
+"RL",5,1954,2003,"TA","TA","TA","TA","WD ","Normal",144900
+"RL",5,1956,2000,"TA","TA","TA","TA","WD ","Normal",129000
+"RL",6,1948,1950,"TA","TA","TA","TA","WD ","Abnorml",97500
+"RL",6,1980,1980,"TA","TA","TA","TA","WD ","Normal",144000
+"RL",5,1959,2006,"TA","Gd","TA","TA","WD ","Normal",162000
+"RL",7,1967,2007,"Gd","Gd","TA","TA","WD ","Normal",242000
+"RL",6,1948,2004,"TA","TA","TA","TA","WD ","Normal",132000
+"RL",5,1959,1994,"TA","TA","TA","TA","WD ","Normal",154000
+"RL",5,1952,1952,"TA","Fa","TA","TA","WD ","Normal",166000
+"RL",5,1951,2000,"TA","TA","TA","TA","WD ","Normal",134800
+"RL",6,1962,1962,"TA","TA","TA","TA","WD ","Normal",160000
+"RL",5,1960,1960,"TA","TA","TA","TA","WD ","Normal",148000
+"RL",6,1963,1984,"TA","TA","TA","TA","WD ","Normal",192000
+"RL",6,1966,1966,"TA","TA","TA","TA","WD ","Normal",155000
+"RM",4,1900,1954,"TA","TA","TA","TA","COD","Abnorml",80400
+"RM",4,1910,2004,"TA","TA",NA,NA,"WD ","Normal",96500
+"RM",5,1920,1950,"TA","TA",NA,NA,"WD ","Normal",109500
+"RM",5,1927,1950,"TA","TA","TA","TA","WD ","Normal",115000
+"RM",5,1957,1957,"TA","TA","TA","TA","WD ","Normal",143000
+"RM",3,1915,1950,"Gd","Gd","TA","TA","WD ","Normal",107400
+"RM",4,1945,1950,"TA","Gd","TA","TA","WD ","Normal",80000
+"RM",5,1940,1992,"TA","Gd","TA","TA","WD ","Abnorml",119000
+"RM",5,1929,2001,"TA","TA","TA","TA","WD ","Normal",130000
+"RM",6,1938,2000,"TA","TA","Fa","TA","WD ","Normal",119000
+"RM",5,1948,2009,"TA","Gd","TA","TA","WD ","Normal",129000
+"RM",5,1920,1962,"TA","TA","TA","TA","WD ","Normal",100000
+"RM",2,1923,1970,"TA","Fa","Fa","Fa","WD ","Abnorml",12789
+"RM",6,1928,2003,"TA","Gd","TA","TA","WD ","Normal",105900
+"RM",8,1900,2003,"Gd","Gd","TA","TA","WD ","Abnorml",150000
+"RM",5,1915,1950,"TA","Gd","TA","TA","WD ","Normal",139000
+"RM",8,1890,2002,"Gd","Gd","TA","TA","WD ","Normal",240000
+"RM",5,1910,1950,"TA","Fa",NA,NA,"WD ","Abnorml",76500
+"RM",6,1957,1996,"TA","TA","TA","TA","WD ","Normal",149700
+"RM",4,1910,1950,"TA","TA","TA","TA","WD ","Normal",125500
+"RM",4,1885,1950,"TA","TA","TA","TA","WD ","Normal",122500
+"RM",6,1922,1994,"TA","TA","TA","TA","WD ","Normal",140750
+"RM",5,1950,1997,"TA","Gd","TA","TA","WD ","Normal",128500
+"RL",7,1922,2005,"TA","TA","TA","TA","WD ","Normal",209500
+"RM",4,1925,1950,"TA","TA","Fa","TA","WD ","Normal",87000
+"RM",6,1939,1950,"TA","TA","TA","TA","WD ","Abnorml",134000
+"RM",6,1940,1950,"TA","Gd","TA","TA","WD ","Normal",128000
+"RM",5,1942,1950,"TA","TA","TA","TA","WD ","Normal",132000
+"RM",6,1948,1950,"TA","TA","TA","TA","WD ","Normal",139900
+"RM",5,1936,1980,"TA","TA","TA","TA","WD ","Normal",123900
+"RM",5,1930,1950,"TA","TA","TA","TA","WD ","Normal",138400
+"RM",6,1923,1950,"TA","TA","TA","TA","WD ","Normal",109500
+"RM",7,1921,1950,"TA","TA","TA","TA","WD ","Normal",140000
+"RM",4,1915,1950,"TA","Fa","TA","TA","WD ","Normal",149500
+"RM",6,1912,2009,"Gd","Gd",NA,NA,"WD ","Normal",159900
+"RM",6,1920,1993,"TA","Gd","TA","TA","WD ","Normal",122000
+"RM",5,1963,1963,"Fa","TA","TA","TA","WD ","Normal",110000
+"RM",4,1930,1950,"Fa","Fa",NA,NA,"WD ","Normal",55000
+"RM",5,1900,1996,"TA","Gd","TA","TA","WD ","Normal",140000
+"RL",7,1940,1950,"TA","Gd","TA","TA","COD","Normal",244400
+"RL",5,1959,1959,"TA","TA","TA","TA","WD ","Normal",173000
+"RL",5,1917,1950,"TA","TA","Fa","Fa","COD","Normal",107500
+"RL",5,1915,1950,"Fa","Fa",NA,NA,"ConLD","Normal",100000
+"RL",6,1940,1950,"TA","TA","TA","TA","WD ","Normal",95000
+"C (all)",4,1907,1950,"TA","TA",NA,NA,"WD ","Abnorml",93369
+"RH",5,1910,1950,"TA","Gd","TA","Fa","COD","Normal",114900
+"RL",5,1875,1996,"TA","Gd",NA,NA,"WD ","Normal",94000
+"RL",4,1967,1967,"Fa","Fa",NA,NA,"WD ","Normal",136000
+"RL",4,1968,1968,"TA","TA",NA,NA,"WD ","Normal",136500
+"RL",5,1965,1965,"TA","TA","TA","TA","WD ","Normal",131500
+"RL",5,1957,1996,"TA","TA","TA","TA","WD ","Normal",121500
+"RL",5,1967,1967,"TA","TA","TA","TA","WD ","Normal",125000
+"RL",5,1968,2001,"TA","Gd","TA","TA","WD ","Normal",154000
+"RL",5,1966,2008,"TA","TA","TA","TA","WD ","Normal",137900
+"RL",6,1969,1969,"TA","TA","TA","TA","WD ","Normal",158000
+"RL",5,1968,1968,"TA","TA","TA","TA","WD ","Normal",137250
+"RL",5,1978,1978,"TA","TA","TA","TA","WD ","Normal",160250
+"RL",5,1968,1968,"TA","Gd","TA","TA","WD ","Normal",163000
+"RL",6,1978,1978,"TA","TA","TA","TA","WD ","Abnorml",158900
+"RL",7,1996,1997,"Gd","TA","TA","TA","WD ","Normal",328000
+"RL",7,1977,2001,"Gd","Gd","TA","TA","WD ","Normal",270000
+"RL",4,1927,1950,"TA","TA","TA","TA","WD ","Normal",85000
+"RL",4,1950,1995,"TA","TA","TA","TA","WD ","Normal",128000
+"RL",7,1979,1979,"Gd","TA","TA","TA","WD ","Normal",260000
+"RL",6,1978,1992,"TA","TA","TA","TA","WD ","Normal",230000
+"RL",3,1938,1990,"TA","TA","TA","TA","WD ","Normal",124000
+"RL",5,1920,1950,"TA","TA","Fa","TA","COD","Abnorml",83000
+"RL",6,1950,1987,"TA","TA","TA","TA","WD ","Normal",144500
+"RL",5,1956,1956,"TA","TA","TA","TA","WD ","Normal",129000
+"RL",4,1947,1979,"TA","TA","Fa","TA","WD ","Normal",127000
+"RL",5,1954,1998,"TA","TA","TA","TA","WD ","Normal",128000
+"RL",6,2009,2009,"TA","TA","TA","TA","WD ","Normal",186000
+"RL",7,2009,2010,"Gd","TA","TA","TA","Con","Partial",308030
+"RL",5,1964,1964,"TA","Fa","TA","Fa","COD","Normal",114000
+"RL",4,1946,2006,"TA","TA","TA","TA","WD ","Abnorml",84900
+"RL",6,1985,1985,"Gd","TA","TA","TA","WD ","Normal",178000
+"RL",7,1987,1987,"Gd","TA","Gd","Gd","WD ","Normal",270000
+"RL",6,1993,1993,"Gd","Gd","TA","TA","WD ","Normal",218000
+"RL",7,1993,1994,"Gd","TA","TA","TA","WD ","Normal",236000
+"RL",6,1992,1992,"TA","TA","TA","TA","WD ","Normal",147000
+"RL",8,2008,2008,"Gd","TA","TA","TA","WD ","Normal",245350
+"RL",7,2006,2006,"Gd","TA","TA","TA","WD ","Normal",206000
+"RL",7,2009,2009,"TA","TA","TA","TA","WD ","Normal",198900
+"RL",7,2010,2010,"Gd","TA","TA","TA","WD ","Normal",187000
+"RL",7,1990,1990,"TA","TA","TA","TA","WD ","Normal",320000
+"RL",6,1900,1993,"TA","TA","TA","TA","WD ","Normal",138500
+"RL",6,1971,1971,"TA","TA","TA","TA","WD ","Normal",155000
+"RL",5,1996,1996,"TA","Gd","Gd","TA","WD ","Normal",159000
+"RL",7,1997,1998,"TA","TA","TA","TA","WD ","Normal",191000
+"RL",6,1998,1998,"TA","TA","TA","TA","WD ","Normal",200500
+"RL",5,1977,2004,"Gd","Gd","TA","TA","WD ","Normal",150000
+"RL",6,1977,1977,"TA","TA","TA","TA","WD ","Normal",161750
+"RL",5,1976,1976,"TA","TA","TA","TA","WD ","Normal",128200
+"RL",5,1972,1972,"TA","TA","TA","TA","WD ","Normal",127000
+"RL",8,2003,2003,"Gd","TA","TA","TA","WD ","Normal",318000
+"RL",8,2001,2002,"Gd","TA","TA","TA","WD ","Normal",272000
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",237000
+"RL",7,1997,1997,"Gd","TA","TA","TA","WD ","Normal",240000
+"RL",7,1998,1998,"TA","TA","TA","TA","WD ","Normal",224900
+"RM",6,2003,2003,"Gd","TA","TA","TA","WD ","Normal",143750
+"RM",6,2004,2004,"Gd","TA","TA","TA","WD ","Normal",143000
+"RL",8,2003,2003,"Gd","TA","TA","TA","WD ","Normal",232000
+"RL",7,2004,2005,"Gd","TA","TA","TA","WD ","Normal",213000
+"RL",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",185500
+"RL",3,1945,2007,"TA","Gd","TA","TA","ConLD","Normal",84900
+"RL",5,1954,1954,"TA","Gd","TA","TA","Oth","Abnorml",155891
+"RL",5,1965,1965,"TA","TA",NA,NA,"WD ","Normal",100000
+"RL",5,1968,1968,"TA","TA","TA","TA","WD ","Normal",144000
+"RL",4,1948,1950,"TA","TA","TA","Fa","WD ","Abnorml",64000
+"RL",6,1975,1975,"TA","TA","TA","TA","WD ","Normal",125200
+"RL",6,1976,1976,"TA","TA","TA","TA","WD ","Abnorml",107000
+"RL",4,1958,1958,"TA","TA",NA,NA,"WD ","Normal",90000
+"RM",4,2003,2004,"TA","TA","TA","TA","WD ","Normal",140000
+"RL",6,1945,1950,"TA","TA","TA","TA","WD ","Normal",113000
+"RL",4,1941,1950,"TA","Fa","TA","TA","WD ","Normal",80000
+"RL",5,1957,2002,"TA","TA","TA","TA","WD ","Normal",144500
+"RL",5,1924,1999,"TA","TA","TA","TA","WD ","Normal",104000
+"RL",6,1915,1950,"TA","TA","TA","TA","WD ","Normal",128000
+"RL",3,1914,1950,"TA","Fa","TA","Fa","WD ","Normal",58500
+"RL",5,1924,1950,"TA","TA","TA","TA","WD ","Normal",127000
+"RL",6,1939,1950,"TA","TA","TA","TA","WD ","Normal",126000
+"RH",4,1967,1967,"TA","TA",NA,NA,"WD ","Normal",160000
+"RL",5,1931,1950,"TA","TA",NA,NA,"WD ","Normal",100000
+"RL",6,1919,1990,"TA","TA","TA","TA","WD ","Normal",169000
+"RL",7,1941,1985,"Gd","Gd","TA","TA","WD ","Normal",257500
+"RL",5,1950,1991,"TA","Gd","TA","TA","WD ","Normal",215000
+"RL",7,1941,2006,"Ex","Gd","TA","TA","WD ","Normal",266500
+"RL",7,1959,2002,"Gd","Gd","TA","TA","WD ","Normal",335000
+"RL",7,1994,2007,"TA","TA","TA","TA","WD ","Normal",203135
+"RM",8,1989,1989,"Gd","TA","TA","TA","WD ","Normal",185000
+"RM",8,1989,1989,"Gd","TA","TA","TA","WD ","Normal",162500
+"RL",7,1959,1997,"TA","TA","TA","TA","WD ","Normal",289000
+"RM",4,1922,2007,"TA","Gd","TA","TA","WD ","Normal",125500
+"RM",2,1941,1950,"TA","TA","Fa","Fa","ConLw","Normal",82000
+"RM",6,1921,1975,"TA","TA","TA","TA","COD","Normal",110000
+"C (all)",4,1920,1950,"TA","Gd","TA","TA","COD","Abnorml",68400
+"C (all)",4,1900,1950,"TA","TA","TA","TA","WD ","Abnorml",102776
+"C (all)",5,1952,1952,"Fa","TA","TA","TA","WD ","Alloca",55993
+"C (all)",4,1896,1950,"Fa","Fa","TA","TA","WD ","Alloca",50138
+"RM",8,2004,2005,"Gd","TA","TA","TA","WD ","Normal",246000
+"RL",8,1998,1999,"Gd","TA","TA","TA","WD ","Normal",254900
+"RL",6,1977,1977,"TA","TA","TA","TA","WD ","Normal",190000
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",201000
+"RL",6,1976,1976,"TA","TA","TA","TA","WD ","Normal",169900
+"RL",6,1976,1976,"TA","TA","TA","TA","ConLD","Normal",170000
+"RL",5,1948,1950,"TA","TA","TA","TA","WD ","Normal",160000
+"RL",7,2008,2008,"Gd","TA","TA","TA","WD ","Normal",220000
+"RL",7,2009,2010,"Gd","TA","TA","TA","New","Partial",179781
+"RL",5,2006,2007,"TA","TA","TA","TA","WD ","Normal",174000
+"RL",8,2009,2010,"Gd","TA","TA","TA","New","Partial",269500
+"RL",7,2002,2003,"Gd","TA","TA","TA","WD ","Normal",214900
+"RL",8,2002,2002,"Gd","TA","TA","TA","WD ","Normal",202900
+"RL",9,2008,2009,"Ex","TA","TA","TA","WD ","Normal",378500
+"RL",5,1965,1977,"TA","TA","TA","TA","WD ","Normal",169000
+"RL",5,2004,2005,"TA","TA","TA","TA","WD ","Normal",173500
+"RL",6,1971,1971,"TA","TA",NA,NA,"WD ","Normal",139000
+"RL",5,1999,1999,"TA","TA","TA","TA","WD ","Normal",166500
+"RM",4,1973,1973,"TA","TA","TA","TA","WD ","Normal",83500
+"RM",5,1973,1973,"TA","TA","TA","TA","WD ","Normal",119500
+"RM",5,1976,1976,"TA","TA","TA","TA","WD ","Normal",85000
+"RM",4,1970,1970,"TA","TA",NA,NA,"WD ","Normal",76000
+"RM",4,1972,1972,"TA","TA",NA,NA,"WD ","Normal",75500
+"RM",4,1970,1970,"TA","TA",NA,NA,"WD ","Normal",88250
+"RM",4,1972,1972,"TA","TA","TA","TA","WD ","Normal",85500
+"RL",5,1971,2004,"TA","Gd","TA","TA","ConLD","Normal",130000
+"RL",5,1962,1962,"TA","TA","TA","TA","WD ","Normal",157900
+"RL",5,1984,1984,"TA","TA","TA","TA","WD ","Normal",149900
+"RL",5,1985,1986,"TA","Po","TA","Fa","WD ","Normal",159000
+"RL",5,1991,1991,"TA","TA","TA","TA","WD ","Normal",136000
+"RL",5,1969,1969,"TA","TA","TA","TA","WD ","Normal",161000
+"RL",8,1994,1995,"Gd","Gd","TA","TA","WD ","Normal",285000
+"RL",6,1993,1994,"Gd","Gd","TA","TA","WD ","Normal",231000
+"RL",6,1956,1956,"TA","TA","TA","TA","WD ","Normal",124500
+"RL",6,1974,1974,"TA","TA","TA","TA","WD ","Normal",157000
+"RL",8,1972,1995,"Gd","TA","TA","TA","WD ","Normal",345000
+"RL",6,1997,1997,"TA","TA","TA","TA","WD ","Normal",189500
+"RL",8,2003,2003,"Gd","TA","TA","TA","WD ","Normal",270000
+"RL",7,1996,1997,"TA","TA","TA","TA","WD ","Normal",189000
+"RL",9,2006,2007,"Ex","TA","TA","TA","WD ","Normal",377500
+"RL",7,1995,1996,"TA","TA","TA","TA","WD ","Normal",168500
+"RL",8,2004,2005,"Gd","TA","TA","TA","WD ","Normal",375000
+"RL",8,2000,2000,"Gd","TA","TA","TA","WD ","Normal",278000
+"RL",8,1998,1998,"TA","TA","TA","TA","WD ","Normal",240000
+"RL",8,1995,1996,"Gd","TA","TA","TA","WD ","Normal",239500
+"RL",7,1998,1998,"Gd","TA","TA","TA","WD ","Normal",177500
+"RL",7,1998,1998,"TA","TA","TA","TA","WD ","Normal",185000
+"RL",6,1998,1999,"Gd","TA","TA","TA","WD ","Normal",191000
+"RL",6,1993,1994,"Gd","TA","TA","TA","WD ","Normal",178000
+"RL",6,1993,1993,"Ex","Gd","TA","TA","WD ","Normal",185000
+"RL",6,1994,1995,"TA","TA","TA","TA","WD ","Normal",181316
+"RL",6,1993,1993,"TA","TA","TA","TA","WD ","Normal",166000
+"RL",6,1992,1993,"TA","TA","TA","TA","WD ","Normal",178000
+"RL",6,1994,1995,"TA","TA","TA","TA","WD ","Normal",174000
+"RL",6,1992,1992,"TA","TA","TA","TA","WD ","Normal",173000
+"RL",7,1999,1999,"Gd","TA","TA","TA","WD ","Normal",225000
+"RL",7,1990,1990,"TA","TA","TA","TA","WD ","Normal",180500
+"RL",8,1984,1984,"Gd","TA","TA","TA","COD","Abnorml",187500
+"RL",9,2008,2009,"Ex","TA","TA","TA","New","Partial",501837
+"RL",8,2008,2008,"Gd","TA","TA","TA","New","Partial",372500
+"RL",7,2005,2005,"Gd","TA","TA","TA","WD ","Normal",260000
+"RL",5,1977,1977,"TA","TA","TA","TA","WD ","Normal",185000
+"RL",7,1980,1980,"Gd","TA","TA","TA","WD ","Normal",260000
+"RL",6,1979,1998,"TA","Gd","TA","TA","WD ","Normal",181000
+"RL",7,1977,1977,"TA","Gd","TA","TA","WD ","Family",82500
+"RL",6,1977,2000,"Gd","TA","TA","TA","WD ","Normal",215000
+"RL",7,1978,1978,"TA","TA","TA","TA","WD ","Abnorml",154000
+"RL",6,1978,1986,"TA","TA","TA","TA","WD ","Normal",200000
+"RL",7,1980,1991,"TA","TA","TA","TA","WD ","Normal",249000
+"RL",7,1980,1980,"TA","TA","TA","TA","WD ","Normal",187500
+"RL",6,1978,1998,"TA","TA","TA","TA","WD ","Normal",184000
+"RL",8,1981,1981,"Gd","TA","TA","TA","WD ","Normal",278000
+"RL",7,1978,1978,"TA","TA","TA","TA","COD","Abnorml",157000
+"RL",7,1976,1976,"TA","TA","TA","TA","WD ","Family",152000
+"RL",5,1976,1976,"TA","Gd","TA","TA","WD ","Normal",197500
+"FV",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",240900
+"FV",8,2009,2009,"Gd","TA","TA","TA","New","Partial",263435
+"FV",8,2000,2001,"Gd","TA","TA","TA","WD ","Normal",220000
+"FV",8,2002,2002,"Gd","TA","TA","TA","WD ","Normal",235000
+"RL",5,1975,1975,"TA","TA","TA","TA","WD ","Normal",213000
+"RL",6,1974,1974,"TA","TA","TA","TA","WD ","Normal",167900
+"RL",7,1975,1975,"TA","TA","TA","TA","WD ","Normal",158000
+"RL",6,1974,1974,"TA","TA","TA","TA","WD ","Normal",165000
+"RL",6,1972,1972,"TA","TA","TA","TA","COD","Abnorml",158000
+"RL",5,1974,1974,"TA","TA",NA,NA,"WD ","Normal",136000
+"RL",5,1970,1970,"TA","TA","TA","TA","WD ","Normal",148500
+"RL",6,1969,2005,"TA","TA","TA","TA","WD ","Normal",156000
+"RL",5,1970,1970,"TA","TA","TA","TA","COD","Normal",128000
+"RL",5,1971,1971,"TA","TA","TA","TA","WD ","Normal",143000
+"RL",4,1970,1970,"TA","TA","TA","TA","WD ","Abnorml",76500
+"RL",4,1970,1970,"TA","TA","TA","TA","WD ","Normal",120500
+"RL",4,1970,1970,"TA","Gd","TA","TA","WD ","Normal",124500
+"RL",4,1971,1971,"TA","TA","TA","TA","WD ","Abnorml",97000
+"RL",4,1971,2006,"TA","Gd","TA","TA","WD ","Normal",130000
+"RM",6,1973,1973,"TA","TA","TA","TA","WD ","Normal",111000
+"RM",5,1970,1970,"TA","TA","TA","TA","WD ","Normal",125000
+"RM",5,1971,1971,"TA","TA","TA","TA","COD","Abnorml",112000
+"RM",6,1972,1972,"TA","TA","TA","TA","WD ","Normal",97000
+"RM",6,1972,2007,"TA","TA","TA","TA","WD ","Normal",118000
+"RM",5,1972,1972,"TA","TA","TA","TA","WD ","Normal",119500
+"RL",6,1976,1976,"TA","TA","TA","TA","WD ","Normal",143750
+"RL",6,1976,1976,"TA","TA","TA","TA","WD ","Normal",146000
+"RL",6,1976,1976,"TA","TA","TA","TA","WD ","Normal",148500
+"RL",7,1975,1975,"TA","TA","TA","TA","WD ","Normal",123000
+"RL",6,1974,1974,"TA","TA","TA","TA","WD ","Normal",147000
+"RL",6,1977,1977,"TA","TA","TA","TA","WD ","Normal",137900
+"RL",6,1978,1978,"TA","TA","TA","TA","WD ","Normal",147000
+"RL",6,1978,1978,"TA","TA","TA","TA","WD ","Normal",148500
+"RL",6,1978,1978,"Gd","TA","TA","TA","WD ","Normal",138000
+"RL",7,1976,1976,"TA","TA","TA","TA","WD ","Normal",128500
+"RL",5,1967,1967,"TA","TA","TA","TA","WD ","Normal",100000
+"RL",5,1966,2004,"Gd","TA","TA","TA","WD ","Normal",148800
+"RL",10,2006,2007,"Ex","TA","TA","TA","WD ","Normal",337500
+"RL",9,2007,2007,"Ex","TA","TA","TA","WD ","Normal",462000
+"RL",9,2008,2009,"Ex","TA","TA","TA","New","Partial",485000
+"RL",10,2008,2008,"Ex","TA","TA","TA","WD ","Normal",555000
+"RL",9,2006,2007,"Gd","TA","TA","TA","WD ","Normal",325000
+"RL",8,2007,2007,"Gd","TA","TA","TA","WD ","Normal",256300
+"RL",8,2008,2009,"Ex","TA","TA","TA","New","Partial",253293
+"RL",9,2009,2009,"Gd","TA","TA","TA","New","Partial",398800
+"RL",9,2008,2008,"Ex","TA","TA","TA","WD ","Normal",335000
+"RL",9,2008,2008,"Ex","TA","TA","TA","WD ","Normal",404000
+"RL",10,2009,2009,"Ex","TA","TA","TA","New","Partial",402861
+"RL",10,2008,2008,"Ex","TA","TA","TA","ConLI","Normal",451950
+"RL",10,2007,2007,"Ex","TA","TA","TA","WD ","Normal",610000
+"RL",9,2008,2009,"Ex","TA","TA","TA","New","Partial",582933
+"RL",9,2008,2008,"Ex","TA","TA","TA","WD ","Normal",360000
+"RL",8,2004,2005,"Gd","TA","TA","TA","WD ","Normal",296000
+"RL",8,2007,2007,"Gd","TA","TA","TA","WD ","Family",409900
+"RL",8,2006,2006,"Gd","TA","TA","TA","WD ","Normal",255500
+"RL",9,2008,2008,"Ex","TA","TA","TA","ConLI","Normal",335000
+"RL",8,2004,2005,"Gd","TA","TA","TA","WD ","Normal",274900
+"RL",9,2006,2006,"Gd","TA","TA","TA","WD ","Normal",300000
+"RL",9,2008,2008,"Ex","TA","TA","TA","WD ","Normal",324000
+"RL",9,2004,2005,"Gd","TA","TA","TA","WD ","Normal",350000
+"RL",8,2004,2005,"Gd","TA","TA","TA","WD ","Normal",280000
+"RL",8,2003,2004,"Gd","TA","TA","TA","WD ","Normal",284000
+"RL",7,2003,2004,"Gd","TA","TA","TA","WD ","Normal",269500
+"RL",7,2009,2009,"Gd","TA","TA","TA","New","Partial",233170
+"RL",10,2003,2003,"Ex","TA","TA","TA","WD ","Normal",386250
+"RL",9,2003,2003,"Gd","TA","TA","TA","WD ","Normal",445000
+"RL",8,2003,2004,"Gd","TA","TA","TA","WD ","Normal",290000
+"RL",8,2006,2006,"Gd","TA","TA","TA","WD ","Normal",255900
+"RL",6,2005,2005,"Gd","TA","TA","TA","WD ","Normal",213000
+"RL",6,2005,2005,"Gd","TA","TA","TA","WD ","Normal",196000
+"RL",6,2005,2005,"Gd","TA","TA","TA","WD ","Normal",184500
+"RL",7,2007,2008,"Gd","TA","TA","TA","WD ","Normal",212500
+"RL",7,2007,2008,"Gd","TA","TA","TA","WD ","Normal",230000
+"RL",10,2004,2005,"Ex","TA","TA","TA","WD ","Abnorml",552000
+"RL",8,2003,2004,"Gd","TA","TA","TA","WD ","Normal",382500
+"RL",9,2008,2009,"Ex","TA","TA","TA","New","Partial",320000
+"RL",9,2008,2008,"Ex","TA","TA","TA","WD ","Normal",248500
+"RL",8,2002,2003,"Gd","TA","TA","TA","WD ","Normal",286500
+"RL",8,2006,2006,"Gd","TA","TA","TA","WD ","Normal",254000
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",173000
+"RL",7,2003,2004,"Gd","TA","TA","TA","WD ","Normal",173000
+"RL",7,2005,2005,"Gd","TA","TA","TA","WD ","Normal",184000
+"RL",6,2005,2006,"Gd","TA","TA","TA","WD ","Normal",167800
+"RL",6,2005,2005,"Gd","TA","TA","TA","WD ","Normal",174000
+"RL",6,2005,2005,"Gd","TA","TA","TA","WD ","Normal",174000
+"RL",7,2007,2007,"Gd","TA","TA","TA","WD ","Normal",174000
+"RL",7,2007,2007,"Gd","TA","TA","TA","WD ","Normal",175900
+"RL",7,2005,2006,"Gd","TA","TA","TA","WD ","Normal",192500
+"RL",7,2005,2006,"Gd","TA","TA","TA","WD ","Normal",181000
+"RL",7,2005,2006,"Gd","TA","TA","TA","WD ","Normal",180000
+"RL",7,2005,2006,"Gd","TA","TA","TA","WD ","Normal",160200
+"RL",7,2004,2005,"Gd","TA","TA","TA","WD ","Normal",188500
+"RL",6,2002,2002,"Gd","TA","TA","TA","ConLI","Normal",200000
+"RL",7,2004,2005,"Gd","TA","TA","TA","WD ","Normal",170000
+"RL",7,2004,2005,"Gd","TA","TA","TA","WD ","Normal",189500
+"RL",8,2002,2002,"Gd","TA","TA","TA","WD ","Normal",184100
+"RL",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",195500
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",192000
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",178000
+"RL",7,2007,2008,"Gd","TA","TA","TA","ConLw","Normal",207500
+"RL",7,2000,2000,"Gd","TA","TA","TA","WD ","Normal",236000
+"RL",8,2002,2002,"Gd","TA","TA","TA","WD ","Normal",257500
+"RL",6,2000,2000,"Gd","TA","TA","TA","WD ","Normal",244000
+"RL",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",167000
+"RL",6,2000,2000,"TA","TA","TA","TA","WD ","Normal",179000
+"RL",6,2000,2000,"TA","TA","TA","TA","WD ","Normal",190000
+"RL",7,1999,2000,"TA","TA","TA","TA","WD ","Normal",156000
+"RL",7,1999,1999,"Gd","TA","TA","TA","WD ","Normal",245000
+"RL",6,1999,1999,"TA","TA","TA","TA","WD ","Normal",181000
+"RL",7,1999,1999,"Gd","TA","TA","TA","WD ","Normal",214000
+"RL",7,1999,1999,"TA","TA","TA","TA","WD ","Normal",168000
+"RL",8,1999,1999,"Gd","TA","TA","TA","WD ","Normal",337000
+"RL",8,1995,1996,"Gd","TA","TA","TA","WD ","Normal",403000
+"RL",8,2000,2000,"Gd","TA","TA","TA","WD ","Normal",327000
+"RL",8,1998,1998,"Gd","TA","TA","TA","WD ","Normal",340000
+"RL",8,1998,1999,"Gd","TA","TA","TA","WD ","Normal",336000
+"RL",7,1996,1997,"Gd","TA","TA","TA","WD ","Normal",265000
+"RL",8,1994,1995,"Gd","TA","TA","TA","WD ","Normal",315000
+"RL",7,1993,1993,"Gd","TA","TA","TA","WD ","Normal",260000
+"RL",7,1995,1996,"Gd","TA","TA","TA","WD ","Normal",260000
+"RL",8,1993,1994,"Gd","TA","TA","TA","WD ","Normal",263550
+"RL",8,1994,2005,"Gd","TA","TA","TA","WD ","Normal",402000
+"RL",7,1994,1994,"Gd","TA","TA","TA","WD ","Normal",248000
+"RL",8,2008,2009,"Gd","TA","TA","TA","New","Partial",244600
+"RL",8,2008,2008,"Gd","TA","TA","TA","WD ","Normal",275000
+"RL",8,2008,2008,"Gd","TA","TA","TA","WD ","Normal",257500
+"RL",8,2008,2009,"Gd","TA","TA","TA","New","Partial",287090
+"RL",8,2007,2007,"Gd","TA","TA","TA","WD ","Normal",275500
+"RL",8,2006,2006,"Gd","TA","TA","TA","WD ","Normal",245000
+"RL",7,2005,2005,"Gd","TA","TA","TA","WD ","Normal",253000
+"RL",9,2005,2006,"Ex","TA","TA","TA","WD ","Normal",468000
+"FV",7,2009,2009,"TA","TA","TA","TA","New","Partial",252678
+"FV",8,2008,2008,"Gd","TA","TA","TA","WD ","Normal",210000
+"FV",6,2009,2009,"Gd","TA","TA","TA","New","Partial",208300
+"FV",7,2008,2009,"Gd","TA","TA","TA","New","Partial",225000
+"FV",8,2009,2009,"Gd","TA","TA","TA","New","Partial",229456
+"FV",7,2008,2008,"Gd","TA","TA","TA","WD ","Normal",229800
+"FV",9,2007,2008,"Gd","TA","TA","TA","WD ","Normal",250000
+"FV",9,2009,2009,"Ex","TA","TA","TA","New","Partial",370878
+"FV",8,2006,2007,"Gd","TA","TA","TA","WD ","Normal",238500
+"FV",10,2008,2008,"Ex","TA","TA","TA","WD ","Normal",310000
+"FV",8,2006,2006,"Gd","TA","TA","TA","WD ","Normal",270000
+"FV",8,2005,2006,"Gd","TA","TA","TA","WD ","Normal",252000
+"FV",7,2006,2007,"Gd","TA","TA","TA","WD ","Normal",241000
+"FV",8,2008,2009,"Gd","TA","TA","TA","New","Partial",264500
+"FV",7,2006,2007,"Gd","TA","TA","TA","WD ","Normal",291000
+"FV",7,2003,2004,"Gd","TA","TA","TA","WD ","Normal",263000
+"FV",7,2004,2005,"Gd","TA","TA","TA","WD ","Normal",185000
+"FV",7,2003,2004,"Gd","TA","TA","TA","WD ","Normal",234500
+"FV",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",209000
+"RL",7,2007,2007,"Gd","TA","TA","TA","WD ","Normal",159000
+"RL",7,2006,2006,"Gd","TA","TA","TA","WD ","Normal",152000
+"RL",6,2004,2004,"TA","TA",NA,NA,"WD ","Normal",143500
+"RL",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",193000
+"RL",8,2004,2004,"Gd","TA","TA","TA","WD ","Normal",203000
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",184900
+"RL",7,2004,2005,"Gd","TA","TA","TA","WD ","Normal",159000
+"RL",5,2004,2004,"TA","TA",NA,NA,"WD ","Normal",142000
+"RL",5,2003,2004,"TA","TA","TA","TA","WD ","Normal",153000
+"RL",7,2008,2009,"Gd","TA","TA","TA","New","Partial",224243
+"RL",7,1996,1997,"Gd","TA","TA","TA","WD ","Normal",220000
+"RL",8,2005,2006,"Gd","TA","TA","TA","COD","Abnorml",257000
+"RL",7,2001,2001,"Gd","TA","TA","TA","WD ","Normal",189000
+"RL",6,1992,1992,"Gd","Gd","TA","TA","WD ","Normal",171500
+"RL",6,1980,1980,"TA","TA","TA","TA","WD ","Normal",120000
+"RL",6,1990,1991,"Gd","TA","TA","TA","WD ","Normal",145000
+"RL",7,1994,1994,"Gd","TA","TA","TA","WD ","Normal",184000
+"RL",6,1986,1986,"TA","Gd","TA","TA","WD ","Normal",162000
+"RL",6,1981,1981,"TA","TA","TA","TA","WD ","Normal",160000
+"RH",4,1950,1950,"Fa","Fa","TA","TA","WD ","Normal",82000
+"RH",6,1928,1950,"TA","TA","Fa","Fa","WD ","Normal",76000
+"RL",5,1962,1962,"TA","TA","TA","TA","WD ","Normal",110000
+"RL",5,1977,1977,"TA","TA","TA","TA","WD ","Normal",135000
+"RL",5,1961,1961,"TA","TA","TA","TA","WD ","Normal",141000
+"RL",5,1961,1961,"TA","TA","TA","TA","WD ","Normal",122000
+"RL",5,1965,1965,"TA","TA","TA","TA","Oth","Family",124100
+"RL",5,1963,1995,"Gd","Gd","TA","TA","WD ","Normal",129000
+"RL",5,1961,1983,"TA","TA","TA","TA","WD ","Normal",131400
+"RL",5,1965,1965,"TA","TA","TA","TA","WD ","Normal",62383
+"RL",5,1962,1962,"TA","TA","TA","TA","WD ","Normal",123000
+"RL",8,1980,1980,"Gd","Gd","TA","TA","WD ","Normal",275000
+"RL",7,1991,2008,"Gd","Gd","TA","TA","WD ","Normal",235000
+"FV",7,2004,2005,"Gd","TA","TA","TA","WD ","Normal",280750
+"FV",6,2009,2009,"Gd","TA","TA","TA","New","Partial",164500
+"FV",6,2009,2009,"Gd","TA","TA","TA","New","Partial",173733
+"FV",6,2008,2008,"Gd","TA","TA","TA","New","Partial",222000
+"FV",6,2008,2008,"Gd","TA","TA","TA","WD ","Normal",195000
+"FV",6,1999,1999,"TA","TA","TA","TA","WD ","Normal",172500
+"FV",6,2000,2000,"Gd","TA","TA","TA","WD ","Normal",180000
+"FV",7,1999,1999,"Gd","TA","TA","TA","WD ","Normal",156000
+"FV",8,1999,2000,"Gd","TA","TA","TA","WD ","Abnorml",172500
+"RL",8,1977,2008,"Ex","Ex","TA","TA","WD ","Normal",318750
+"RL",8,1981,1981,"Gd","TA","TA","TA","WD ","Normal",211500
+"RL",7,1981,1981,"Gd","TA","TA","TA","WD ","Normal",241600
+"RL",8,1976,1976,"Gd","Gd","TA","TA","WD ","Abnorml",180500
+"RL",4,1976,1993,"TA","TA","TA","TA","WD ","Normal",150000
+"RL",6,1968,1968,"TA","TA","TA","TA","WD ","Normal",154000
+"RL",6,1970,1970,"TA","TA","TA","TA","WD ","Normal",185000
+"RL",6,1968,1968,"TA","TA","TA","TA","WD ","Normal",185750
+"RL",7,1973,1973,"TA","TA","TA","TA","WD ","Normal",200000
+"RL",7,1974,1974,"TA","TA","TA","TA","WD ","Normal",206000
+"RL",6,1972,1972,"TA","TA","TA","TA","WD ","Normal",162000
+"RL",6,1967,1997,"TA","TA","TA","TA","WD ","Normal",256900
+"RL",6,1967,1976,"TA","TA","TA","TA","WD ","Normal",197900
+"RL",5,1969,1969,"TA","TA","TA","TA","WD ","Normal",163000
+"RL",6,1969,1969,"TA","TA","TA","TA","WD ","Abnorml",113000
+"RL",7,1977,1992,"TA","Gd","TA","TA","WD ","Normal",230000
+"RL",6,1977,1977,"TA","TA","TA","TA","WD ","Normal",167900
+"RL",7,1998,1999,"Gd","TA","TA","TA","WD ","Normal",213250
+"RL",8,2001,2001,"Gd","TA","TA","TA","WD ","Normal",227000
+"RL",5,1967,1967,"TA","TA","TA","TA","WD ","Normal",130000
+"RL",5,1967,1967,"TA","TA","TA","TA","COD","Normal",143000
+"RL",5,1965,1965,"TA","TA","TA","TA","WD ","Normal",117500
+"RL",7,1974,1974,"TA","TA","TA","TA","COD","Abnorml",168500
+"RL",6,1971,1971,"TA","TA","TA","TA","WD ","Normal",172500
+"RL",6,1967,1967,"TA","TA","TA","TA","WD ","Normal",161500
+"RL",4,1960,1960,"TA","TA","TA","TA","WD ","Normal",141500
+"RL",5,1959,1959,"TA","TA","TA","TA","WD ","Normal",118000
+"RL",6,1959,1959,"TA","TA","Ex","Ex","WD ","Normal",127500
+"RL",4,1957,1957,"TA","TA","TA","TA","WD ","Normal",140000
+"RL",5,1956,1956,"TA","Gd","TA","TA","WD ","Normal",177625
+"RL",5,1958,1958,"TA","TA","TA","TA","COD","Abnorml",110000
+"RL",6,1964,1964,"TA","TA","TA","TA","WD ","Normal",167000
+"RL",5,1961,1995,"TA","TA","TA","TA","WD ","Normal",153000
+"RL",5,1964,1964,"TA","Gd","TA","TA","COD","Abnorml",145100
+"RL",5,1966,1966,"TA","TA","TA","TA","WD ","Normal",154000
+"RL",5,1965,1965,"TA","Gd","TA","TA","WD ","Normal",177500
+"RL",6,1964,1964,"TA","Gd","TA","TA","WD ","Normal",158000
+"RL",5,1959,1959,"TA","TA","TA","TA","WD ","Normal",124500
+"RL",6,1961,1961,"TA","TA","TA","TA","WD ","Normal",174500
+"RL",5,1955,1955,"TA","TA","TA","TA","WD ","Normal",122000
+"RL",4,1940,1950,"Fa","TA",NA,NA,"WD ","Normal",82500
+"RL",5,1950,1950,"TA","TA","TA","TA","WD ","Normal",110000
+"RL",6,1953,1953,"TA","TA","TA","TA","WD ","Normal",149500
+"RL",6,1967,1967,"Gd","TA","Gd","TA","WD ","Normal",175000
+"RL",6,1953,1953,"TA","TA","TA","TA","WD ","Normal",167000
+"RL",5,1956,1956,"TA","TA","TA","TA","WD ","Normal",128900
+"RL",6,1950,2005,"TA","Gd","TA","TA","WD ","Normal",140000
+"RL",5,1950,2007,"Gd","TA","TA","TA","WD ","Normal",147000
+"RL",5,1967,1967,"TA","TA","TA","TA","WD ","Normal",124000
+"RL",6,1961,1961,"TA","TA","TA","TA","WD ","Normal",187500
+"RL",6,1963,1963,"TA","TA","TA","TA","WD ","Normal",159000
+"RL",6,1966,2008,"TA","Gd","TA","TA","WD ","Normal",256000
+"RL",7,1965,1990,"TA","TA","TA","TA","WD ","Normal",205000
+"RL",6,1968,1968,"TA","Gd","TA","TA","WD ","Normal",193500
+"RL",6,1968,1968,"TA","TA","TA","TA","WD ","Normal",110000
+"RL",4,1920,2007,"TA","Gd","TA","TA","WD ","Normal",104900
+"RL",5,1956,1956,"Gd","TA","TA","TA","WD ","Normal",150000
+"RL",6,1957,1957,"TA","TA","TA","TA","WD ","Normal",156500
+"RL",7,1960,1960,"TA","TA","TA","TA","WD ","Normal",176000
+"RL",6,1959,1998,"Gd","TA","TA","TA","WD ","Normal",149500
+"RL",6,1958,1988,"TA","TA","TA","TA","WD ","Normal",139000
+"RL",6,1958,1998,"TA","TA","TA","TA","WD ","Normal",155000
+"RL",5,1956,1956,"TA","TA","TA","TA","COD","Abnorml",120000
+"RL",5,1955,1955,"TA","TA","TA","TA","WD ","Normal",153000
+"RL",4,1956,1956,"TA","TA","TA","TA","WD ","Family",144000
+"RL",6,1962,1962,"TA","TA","TA","TA","WD ","Normal",176000
+"RL",5,1954,1990,"TA","TA","TA","TA","WD ","Normal",153000
+"RL",5,1958,1958,"TA","TA","TA","Fa","WD ","Normal",135000
+"RL",6,1954,1954,"TA","TA","TA","TA","WD ","Normal",131000
+"RL",5,1953,1953,"TA","TA","TA","TA","WD ","Normal",123000
+"RL",5,1951,1951,"TA","TA","TA","TA","WD ","Normal",126000
+"RL",4,1955,1955,"TA","TA","Fa","Fa","WD ","Normal",115000
+"RL",5,1951,2000,"Gd","TA","TA","TA","WD ","Normal",164900
+"RL",5,1945,1950,"TA","Gd","TA","TA","WD ","Normal",113000
+"RL",5,1952,2005,"Gd","TA","TA","TA","WD ","Normal",145500
+"RL",5,1953,1953,"TA","TA","TA","TA","ConLD","Normal",102900
+"RL",3,1900,1970,"TA","TA","Fa","Fa","WD ","Abnorml",95000
+"RL",7,1948,1999,"TA","TA","TA","TA","WD ","Normal",152500
+"RL",5,1950,1950,"TA","TA","TA","TA","WD ","Normal",129900
+"RL",6,1948,2002,"TA","Gd","TA","TA","WD ","Normal",132000
+"RL",3,1958,1958,"TA","TA","Fa","TA","WD ","Normal",99900
+"RL",5,1916,1987,"TA","TA","Fa","Fa","WD ","Normal",135000
+"RL",5,1939,2006,"TA","Gd","TA","TA","WD ","Normal",149000
+"RL",4,1900,2003,"Gd","Gd","TA","TA","WD ","Normal",114000
+"RL",5,1924,2006,"Gd","TA","Fa","Fa","WD ","Normal",109500
+"RL",5,1925,1950,"TA","TA","TA","TA","WD ","Normal",125000
+"RL",4,1915,1950,"TA","TA","TA","TA","WD ","Normal",142900
+"RL",7,1910,2008,"Gd","Gd","TA","TA","WD ","Normal",156500
+"RL",2,1940,1950,"Fa","TA",NA,NA,"WD ","Normal",59000
+"RL",4,1920,1950,"Fa","TA","TA","TA","WD ","Normal",105000
+"RL",5,1920,1950,"TA","TA","TA","TA","WD ","Normal",106000
+"RL",3,1890,1998,"TA","TA","TA","TA","WD ","Normal",78500
+"RL",6,1969,1969,"TA","TA","TA","TA","WD ","Normal",190000
+"RL",6,1963,1963,"TA","TA","TA","TA","WD ","Normal",154000
+"RL",6,1967,1967,"Fa","TA","TA","TA","WD ","Normal",163000
+"RL",5,1969,1969,"TA","TA","TA","TA","WD ","Normal",200000
+"RL",6,1958,2007,"Gd","Gd","TA","TA","WD ","Normal",143500
+"RL",6,1957,1957,"TA","TA","TA","TA","WD ","Normal",135000
+"RL",5,1957,2000,"TA","Gd","TA","TA","WD ","Normal",153000
+"RL",6,1960,1960,"TA","TA","TA","TA","WD ","Normal",157500
+"RL",6,1958,1958,"TA","TA","TA","TA","WD ","Normal",113500
+"RL",5,1949,1950,"Gd","TA","TA","TA","WD ","Normal",133000
+"RL",3,1950,1950,"TA","TA","TA","TA","WD ","Normal",92900
+"RL",6,1950,1950,"TA","TA","TA","TA","COD","Abnorml",128500
+"RL",4,1949,1950,"TA","TA","TA","TA","WD ","Normal",90000
+"RL",5,1950,1982,"TA","TA","TA","TA","WD ","Normal",138000
+"RL",5,1958,1958,"TA","TA","TA","TA","WD ","Normal",128000
+"RL",5,1958,1965,"TA","TA","TA","TA","COD","Abnorml",139000
+"RL",5,1952,1952,"TA","Gd","TA","TA","WD ","Normal",118900
+"RL",5,1959,1959,"TA","TA","TA","TA","WD ","Normal",138000
+"RL",5,1959,1959,"TA","TA","TA","TA","WD ","Normal",132500
+"RL",4,1949,1996,"TA","TA","TA","TA","WD ","Normal",133500
+"RL",6,1948,1994,"TA","TA","TA","TA","COD","Abnorml",135000
+"RL",6,1964,1964,"TA","TA","TA","TA","WD ","Normal",144750
+"RL",5,1978,1978,"TA","Gd","TA","TA","WD ","Normal",145000
+"RL",6,1963,1963,"TA","TA","TA","TA","WD ","Normal",127000
+"RL",5,1962,1962,"TA","TA","TA","TA","WD ","Normal",109500
+"RM",6,1926,2004,"TA","TA","TA","TA","WD ","Normal",115000
+"RM",5,1910,1981,"TA","TA","TA","TA","WD ","Normal",110000
+"RM",6,1935,1998,"TA","TA","Fa","Fa","WD ","Normal",128900
+"RM",6,1910,1950,"TA","TA","Fa","TA","WD ","Normal",103500
+"RM",5,1941,1950,"TA","TA","TA","TA","WD ","Abnorml",66500
+"RM",5,1910,2003,"TA","Gd","Fa","TA","WD ","Normal",130000
+"RM",5,1910,2002,"Gd","TA",NA,NA,"WD ","Normal",129000
+"RM",5,1939,1950,"TA","TA","TA","TA","WD ","Normal",150000
+"RM",5,1892,1965,"TA","TA","TA","TA","WD ","Normal",107500
+"RM",4,1920,1950,"Fa","TA",NA,NA,"WD ","Normal",94550
+"RM",5,1952,1952,"TA","TA","TA","TA","COD","Normal",124500
+"RM",7,1946,1992,"TA","Gd","TA","TA","WD ","Normal",135000
+"RM",5,1910,1950,"TA","TA",NA,NA,"WD ","Normal",103000
+"RM",4,1953,1953,"Fa","TA","TA","TA","WD ","Normal",93000
+"RM",5,1950,1970,"TA","Ex","TA","TA","WD ","Normal",129500
+"RM",5,1954,1954,"TA","TA","TA","TA","WD ","Normal",93000
+"RM",4,1920,1950,"TA","TA","TA","TA","Oth","Normal",80000
+"RM",2,1940,1950,"TA","Gd","TA","Fa","WD ","Normal",45000
+"RM",3,1910,1950,"TA","TA",NA,NA,"WD ","Abnorml",37900
+"RM",5,1938,1996,"TA","TA","TA","TA","WD ","Normal",91300
+"RM",5,1923,1950,"Gd","TA","TA","TA","WD ","Normal",99500
+"RM",4,1920,2008,"TA","TA",NA,NA,"New","Partial",113000
+"RM",4,1910,1950,"Gd","Gd","TA","TA","WD ","Normal",87500
+"RM",5,1947,1950,"TA","TA","TA","TA","WD ","Normal",110000
+"RM",5,1898,1965,"TA","TA","Fa","Po","WD ","Normal",106000
+"RM",7,1880,2003,"Gd","TA","TA","TA","WD ","Normal",265979
+"RM",6,1900,1950,"TA","TA","TA","TA","WD ","Normal",160000
+"RM",6,1917,2007,"TA","TA","TA","TA","WD ","Normal",119000
+"RM",8,1882,1986,"Gd","Gd","TA","TA","WD ","Normal",168000
+"C (all)",4,1910,1950,"TA","TA",NA,NA,"WD ","Normal",58500
+"RM",7,1920,1988,"TA","Gd","TA","TA","WD ","Normal",143000
+"RM",5,1910,2006,"TA","TA","TA","TA","WD ","Normal",85000
+"RM",5,1890,1996,"TA","TA","TA","TA","WD ","Normal",124900
+"RM",6,1920,1950,"Fa","TA","Fa","TA","ConLI","Family",119000
+"RM",6,1910,2002,"TA","TA","TA","TA","WD ","Normal",146500
+"C (all)",4,1920,1950,"TA","TA",NA,NA,"WD ","Abnorml",34900
+"C (all)",3,1900,1950,"TA","Fa",NA,NA,"WD ","Abnorml",44000
+"RL",5,1923,2004,"TA","TA","TA","TA","WD ","Normal",223500
+"RL",6,1923,1950,"TA","TA","Fa","TA","WD ","Normal",149000
+"RL",7,1925,2007,"Gd","Gd","TA","TA","WD ","Normal",205000
+"RL",5,1930,1982,"TA","TA","TA","TA","WD ","Normal",137000
+"RL",6,1916,1950,"TA","TA","Fa","Po","WD ","Normal",121000
+"RM",4,1936,1950,"TA","TA","TA","TA","WD ","Normal",128000
+"RM",6,1937,2000,"Gd","TA","TA","TA","WD ","Normal",134900
+"RM",5,1925,1997,"TA","TA","TA","TA","WD ","Normal",117000
+"RM",6,1939,1950,"TA","Fa","TA","TA","WD ","Normal",132500
+"RM",5,1924,1950,"TA","TA","TA","TA","WD ","Normal",93000
+"RM",6,1926,2004,"Gd","TA","TA","TA","WD ","Normal",119000
+"RM",5,1924,1950,"TA","TA","TA","TA","WD ","Normal",100000
+"RM",5,1936,1950,"TA","Fa","TA","TA","WD ","Normal",141500
+"RM",4,1935,1995,"TA","TA","TA","TA","WD ","Normal",133000
+"RM",2,1936,1950,"Fa","Fa",NA,NA,"ConLw","Normal",60000
+"RM",5,1931,1993,"TA","TA","Fa","TA","WD ","Normal",105000
+"RM",5,1925,1999,"TA","TA","TA","TA","WD ","Abnorml",115000
+"RM",5,1938,1950,"TA","TA","Fa","TA","WD ","Normal",150000
+"RM",5,1925,1950,"TA","Fa","Fa","TA","WD ","Normal",126500
+"RL",6,1916,1994,"TA","TA","TA","TA","WD ","Normal",214500
+"RL",7,1910,1993,"TA","Gd","TA","TA","WD ","Normal",167500
+"RM",6,1915,1950,"TA","TA","Fa","Fa","WD ","Normal",155000
+"RM",7,1915,2005,"Gd","TA","Fa","Fa","WD ","Normal",155000
+"RM",7,1915,1994,"TA","Gd","TA","TA","WD ","Normal",179900
+"RM",6,1912,1950,"TA","TA",NA,NA,"WD ","Abnorml",104000
+"RM",5,1922,1950,"TA","TA",NA,NA,"WD ","Abnorml",62500
+"RM",6,1927,1950,"TA","TA","TA","TA","WD ","Normal",149000
+"RM",4,1925,1950,"TA","TA","TA","TA","WD ","Normal",103000
+"RM",6,1915,2002,"TA","TA","TA","TA","WD ","Normal",123000
+"RM",7,1902,2000,"TA","Fa",NA,NA,"WD ","Normal",97500
+"RM",6,1927,1950,"TA","Fa","Fa","TA","WD ","Normal",135000
+"RM",4,1923,1950,"TA","Gd",NA,NA,"COD","Abnorml",70000
+"RM",6,1915,1965,"TA","Gd","TA","TA","WD ","Normal",116000
+"RL",4,1946,2001,"TA","Gd","TA","TA","WD ","Normal",88750
+"RL",5,1987,1988,"TA","TA",NA,NA,"WD ","Alloca",179000
+"RL",5,1987,1988,"TA","Gd",NA,NA,"WD ","Alloca",179000
+"RL",5,1978,1978,"TA","TA","TA","Fa","WD ","Normal",159900
+"RL",1,1922,1950,"Fa","Fa",NA,NA,"WD ","Normal",61000
+"RH",6,1925,1950,"TA","Gd","TA","TA","WD ","Normal",103600
+"RL",5,1934,1950,"TA","TA","Po","Po","WD ","Normal",63000
+"RL",5,1963,1999,"TA","TA","TA","TA","WD ","Normal",175000
+"RL",5,1963,1963,"TA","TA","TA","TA","WD ","Normal",139000
+"RL",6,1978,1978,"TA","TA","TA","TA","WD ","Normal",172500
+"RL",5,1967,1967,"TA","TA","TA","TA","WD ","Abnorml",113500
+"RL",5,1967,2004,"TA","TA","TA","TA","WD ","Normal",130000
+"RL",6,1978,1978,"TA","TA","TA","TA","WD ","Normal",149900
+"RL",5,1982,1982,"TA","TA","TA","TA","WD ","Normal",134900
+"RL",5,1982,1982,"TA","TA","TA","TA","WD ","Normal",137000
+"RL",5,1962,1962,"TA","TA","TA","TA","WD ","Normal",139000
+"RL",5,1961,1961,"TA","TA","TA","TA","WD ","Normal",165000
+"RL",6,1960,1960,"TA","TA","TA","TA","COD","Normal",148000
+"RL",5,1956,1956,"TA","TA","TA","TA","WD ","Normal",165000
+"RL",2,1947,1950,"TA","TA",NA,NA,"WD ","Normal",63900
+"RL",4,1957,1989,"TA","TA","TA","TA","WD ","Normal",161500
+"RL",5,1968,2003,"TA","TA","TA","TA","WD ","Partial",143000
+"RL",4,1956,1956,"TA","TA","TA","TA","WD ","Normal",135000
+"RL",4,1940,1950,"TA","TA","TA","TA","WD ","Normal",82500
+"RL",5,1955,1993,"Gd","TA","TA","TA","COD","Normal",190000
+"RL",3,1955,1955,"TA","TA","TA","TA","WD ","Normal",139600
+"RL",4,1954,1954,"TA","TA","Fa","TA","WD ","Normal",122000
+"RL",6,1956,1956,"TA","TA","TA","TA","COD","Normal",127500
+"RL",5,1956,1956,"TA","TA","TA","TA","WD ","Normal",121500
+"RL",5,1958,1958,"TA","Fa","TA","TA","COD","Abnorml",60000
+"RL",6,1946,1950,"TA","TA","TA","TA","WD ","Normal",154400
+"RL",4,1941,1950,"TA","TA","TA","TA","WD ","Normal",113000
+"RL",5,1954,1954,"TA","TA","TA","TA","WD ","Normal",125000
+"RL",4,1957,1957,"TA","Gd","TA","TA","WD ","Normal",84000
+"RL",5,1984,1984,"Gd","TA","TA","TA","WD ","Normal",139500
+"RL",5,1949,2008,"TA","TA","TA","TA","WD ","Normal",131000
+"RL",6,1939,1950,"TA","TA","TA","TA","WD ","Normal",105000
+"RL",4,1940,1950,"TA","TA","Fa","Po","WD ","Normal",108000
+"RL",7,1990,1991,"Gd","TA","TA","TA","WD ","Normal",162000
+"RL",6,1983,1983,"Gd","TA","TA","TA","WD ","Normal",156500
+"RL",8,1983,2009,"Gd","TA","Gd","TA","WD ","Normal",316600
+"RL",7,1990,1991,"Gd","TA","TA","TA","WD ","Normal",271900
+"RL",7,1993,1993,"Gd","TA","TA","TA","WD ","Normal",213000
+"RL",7,1993,1994,"Gd","Gd","TA","TA","WD ","Normal",239900
+"RL",8,1995,1995,"Gd","TA","TA","TA","WD ","Normal",239500
+"RL",5,1880,2007,"Gd","TA","TA","TA","WD ","Normal",131000
+"RL",5,1979,1979,"TA","Fa","TA","TA","WD ","Alloca",118964
+"RL",5,1979,1979,"TA","TA","TA","TA","WD ","Alloca",153337
+"RL",5,1979,1979,"TA","TA","TA","TA","WD ","Alloca",147983
+"RL",5,1979,1979,"TA","TA","TA","TA","WD ","Alloca",118858
+"RL",5,1979,1979,"TA","TA","TA","TA","WD ","Alloca",118858
+"RL",5,1979,1979,"TA","TA","TA","TA","WD ","Alloca",142953
+"RL",5,1979,1979,"TA","TA","TA","TA","WD ","Alloca",148325
+"RL",5,1979,1979,"TA","TA","TA","TA","WD ","Alloca",113722
+"RL",7,2000,2000,"TA","TA","TA","TA","WD ","Normal",269500
+"RL",7,2000,2000,"TA","TA","TA","TA","WD ","Normal",269500
+"RL",7,2000,2000,"TA","TA","TA","TA","WD ","Normal",269500
+"RL",9,2009,2009,"Ex","TA","TA","TA","New","Partial",323262
+"RL",8,2007,2008,"Gd","TA","TA","TA","WD ","Normal",297000
+"RL",8,2008,2008,"Gd","TA","TA","TA","WD ","Normal",295493
+"RL",9,2008,2008,"Ex","TA","TA","TA","WD ","Normal",332000
+"RL",8,2008,2008,"Gd","TA","TA","TA","WD ","Normal",239900
+"RL",8,2007,2007,"Gd","TA","TA","TA","WD ","Normal",212000
+"RL",8,2007,2008,"Gd","TA","TA","TA","WD ","Normal",272500
+"RL",9,2007,2007,"Gd","TA","TA","TA","WD ","Normal",239000
+"RL",7,2006,2006,"Gd","TA","TA","TA","WD ","Abnorml",220000
+"RL",7,2007,2007,"Gd","TA","TA","TA","WD ","Normal",200000
+"RL",8,2008,2008,"Gd","TA","TA","TA","WD ","Normal",221800
+"RL",7,2007,2007,"Gd","TA","TA","TA","WD ","Normal",194500
+"RL",8,2005,2006,"Gd","TA","TA","TA","WD ","Normal",237000
+"RL",6,2005,2006,"Gd","TA","TA","TA","WD ","Normal",173000
+"RL",7,1989,1989,"Gd","TA","TA","TA","WD ","Normal",275000
+"RL",7,1992,1993,"Gd","TA","TA","TA","WD ","Normal",233500
+"RL",5,1967,1967,"TA","TA","TA","TA","WD ","Abnorml",185000
+"RL",5,1996,1996,"TA","Gd","TA","TA","WD ","Normal",152000
+"RL",5,1994,1994,"TA","Gd","TA","TA","WD ","Normal",143000
+"RL",6,1997,1997,"TA","TA","TA","TA","WD ","Normal",231500
+"RL",7,1996,1996,"Gd","TA","TA","TA","ConLw","Normal",212000
+"RL",7,1998,1998,"TA","TA","TA","TA","WD ","Normal",207000
+"RL",5,1994,1995,"TA","TA","TA","TA","WD ","Normal",145000
+"RL",5,1994,1995,"TA","Gd","TA","TA","WD ","Normal",138000
+"RL",7,1998,1998,"TA","TA","TA","TA","WD ","Normal",197900
+"RL",7,1999,1999,"Gd","TA","TA","TA","WD ","Normal",204000
+"RL",7,1999,1999,"Gd","TA","TA","TA","WD ","Normal",192000
+"RL",6,1998,1998,"TA","TA","TA","TA","WD ","Normal",200000
+"RL",7,2002,2002,"Gd","TA","TA","TA","WD ","Normal",195000
+"RL",7,2002,2002,"Gd","TA","TA","TA","WD ","Normal",227000
+"RL",7,2001,2001,"Gd","TA","TA","TA","WD ","Normal",230000
+"RL",7,2001,2002,"Gd","TA","TA","TA","WD ","Normal",187100
+"RL",7,2002,2001,"Gd","TA","TA","TA","WD ","Normal",203000
+"RL",7,2001,2001,"Gd","TA","TA","TA","WD ","Family",201000
+"RL",5,1978,1978,"TA","TA",NA,NA,"WD ","Normal",124000
+"RL",5,1978,1978,"TA","TA","TA","TA","WD ","Normal",140000
+"RL",5,1979,1979,"TA","TA","TA","TA","WD ","Normal",134900
+"RL",5,1977,2008,"TA","TA","TA","TA","WD ","Normal",150500
+"RL",5,1978,2005,"Gd","Gd","TA","TA","WD ","Normal",136500
+"RL",5,1977,1989,"TA","TA","TA","TA","WD ","Normal",143500
+"RL",5,1972,1972,"TA","TA","TA","TA","WD ","Normal",133500
+"RL",5,1972,1972,"TA","TA","TA","TA","WD ","Normal",123000
+"RL",5,1972,2003,"TA","Gd","TA","TA","WD ","Normal",133900
+"RL",5,1972,2007,"TA","TA","TA","TA","WD ","Normal",133000
+"RL",7,2002,2002,"Gd","TA","TA","TA","WD ","Normal",250000
+"RL",8,2003,2003,"Gd","TA","TA","TA","WD ","Normal",254750
+"RL",8,2001,2001,"Gd","TA","TA","TA","WD ","Normal",236500
+"RL",8,2001,2001,"Gd","TA","TA","TA","WD ","Normal",261500
+"RL",9,2000,2000,"Gd","TA","TA","TA","WD ","Normal",313000
+"RL",7,2002,2002,"Gd","TA","TA","TA","WD ","Normal",198500
+"RL",7,2001,2001,"Gd","TA","TA","TA","WD ","Normal",211000
+"RL",8,1999,2000,"Gd","TA","TA","TA","WD ","Normal",220000
+"RL",7,1996,1996,"Gd","TA","TA","TA","WD ","Normal",203000
+"RL",8,2002,2003,"Gd","TA","TA","TA","WD ","Normal",279500
+"RL",7,1997,1998,"Gd","TA","TA","TA","WD ","Normal",210000
+"RL",7,1997,1998,"TA","TA","TA","TA","WD ","Normal",219500
+"RL",7,1996,1996,"Gd","TA","TA","TA","WD ","Normal",191000
+"RL",7,2001,2001,"Gd","TA","TA","TA","WD ","Normal",178000
+"RL",7,2000,2001,"Gd","TA","TA","TA","WD ","Normal",213000
+"RM",6,2003,2004,"Gd","TA","TA","TA","WD ","Normal",144000
+"RM",6,2003,2003,"Gd","TA","TA","TA","WD ","Normal",140000
+"RL",8,2007,2007,"Gd","TA","TA","TA","WD ","Normal",293200
+"RL",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",190000
+"RL",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",190000
+"RL",6,2005,2005,"Gd","TA","TA","TA","WD ","Normal",173500
+"RL",6,2007,2007,"Gd","TA","TA","TA","WD ","Normal",170000
+"RL",4,1949,2003,"TA","TA","TA","TA","WD ","Normal",108000
+"RL",5,1964,1999,"TA","Gd","TA","TA","WD ","Normal",167000
+"RL",4,1938,1958,"TA","TA","Fa","Fa","WD ","Normal",100000
+"RL",7,2003,2003,"Gd","TA","TA","TA","ConLD","Normal",198500
+"RL",6,1977,1977,"TA","TA","TA","TA","WD ","Normal",159500
+"RL",4,1960,1971,"TA","TA","TA","TA","WD ","Normal",127000
+"RL",6,1976,1976,"TA","TA","TA","TA","WD ","Abnorml",125000
+"RL",9,2007,2008,"Ex","TA","TA","TA","WD ","Normal",320000
+"RM",6,2005,2006,"TA","TA","TA","TA","WD ","Normal",145500
+"RL",5,1947,2008,"TA","Ex",NA,NA,"WD ","Normal",118000
+"RL",4,1959,1959,"TA","TA","TA","TA","WD ","Normal",85000
+"RL",5,1950,1950,"TA","TA","TA","TA","WD ","Normal",120000
+"RL",4,1945,1950,"TA","TA","TA","TA","WD ","Normal",98000
+"RL",5,1922,1950,"TA","TA",NA,NA,"WD ","Normal",99900
+"RL",3,1952,1952,"TA","TA","TA","Fa","WD ","Normal",82000
+"RL",5,1959,1959,"TA","TA",NA,NA,"WD ","Normal",119900
+"RL",5,1956,1956,"TA","TA","TA","TA","WD ","Normal",103500
+"RL",4,1956,1956,"TA","TA","TA","TA","COD","Abnorml",112000
+"RL",6,1920,2000,"TA","TA","TA","TA","ConLI","Normal",110000
+"RL",5,1941,1950,"TA","TA","TA","TA","WD ","Normal",122000
+"RL",5,1941,1960,"TA","TA","TA","TA","WD ","Normal",117000
+"RH",5,1938,1950,"TA","TA","TA","TA","WD ","Abnorml",160000
+"RH",5,1932,2000,"TA","TA","TA","TA","WD ","Abnorml",159434
+"RL",2,1920,1950,"TA","TA","TA","TA","WD ","Normal",60000
+"RL",6,1940,1950,"TA","TA","TA","TA","WD ","Normal",139500
+"RL",7,1920,1970,"TA","TA","TA","TA","WD ","Normal",197000
+"RL",6,1935,1950,"TA","TA","Fa","TA","WD ","Normal",105000
+"RL",4,1928,1950,"TA","TA","TA","TA","WD ","Normal",135000
+"RL",6,1916,2000,"Gd","TA","TA","TA","WD ","Normal",147500
+"RL",6,1925,1990,"TA","TA","Fa","TA","WD ","Normal",137450
+"RL",7,1936,2007,"Gd","Gd","TA","TA","WD ","Normal",155000
+"RL",6,1928,1950,"TA","TA","Fa","Fa","WD ","Normal",177000
+"RL",7,1928,1950,"TA","TA","TA","TA","WD ","Normal",145000
+"RL",7,1918,1990,"TA","TA","Fa","TA","WD ","Normal",137000
+"RL",7,1926,2004,"Gd","TA","TA","TA","WD ","Normal",234000
+"RL",5,1940,1950,"TA","TA","TA","TA","WD ","Normal",205000
+"RL",6,1942,1950,"TA","TA","TA","TA","WD ","Normal",177500
+"RL",5,1940,1950,"Gd","Gd","TA","TA","WD ","Normal",160000
+"RL",5,1960,1960,"TA","TA","TA","TA","WD ","Normal",155000
+"RL",5,1921,2006,"TA","Gd","TA","TA","WD ","Normal",163500
+"RL",5,1921,1950,"TA","TA","Fa","TA","WD ","Normal",154900
+"RL",7,1940,1950,"TA","TA","TA","TA","WD ","Normal",205000
+"RL",5,1954,1954,"TA","Gd","TA","TA","WD ","Family",144800
+"RL",7,1941,1950,"TA","TA","TA","TA","WD ","Normal",174500
+"RL",6,1960,1960,"TA","TA","TA","TA","WD ","Normal",193000
+"RL",5,1949,2005,"TA","TA","TA","TA","WD ","Normal",158000
+"RL",6,1950,2004,"TA","Gd","TA","TA","WD ","Family",158500
+"RL",6,1954,1954,"TA","TA","TA","TA","WD ","Normal",224000
+"RM",6,1980,1980,"TA","TA","TA","TA","WD ","Normal",115000
+"RM",6,1980,1992,"TA","Gd","TA","TA","WD ","Normal",137000
+"RM",6,1980,1980,"TA","TA","TA","TA","WD ","Normal",121000
+"RM",6,1980,1980,"TA","TA","TA","TA","WD ","Normal",124000
+"RL",6,1986,1986,"TA","Gd","TA","TA","WD ","Normal",208000
+"RL",7,1971,2009,"Gd","Gd","TA","TA","WD ","Normal",315000
+"RL",6,1988,2007,"Gd","Gd","TA","TA","WD ","Normal",222000
+"RM",5,1920,1997,"TA","Gd","TA","Fa","WD ","Normal",147000
+"RM",5,1900,1993,"TA","TA","TA","TA","WD ","Normal",123000
+"RM",5,1920,1950,"TA","TA","Fa","Fa","WD ","Normal",78000
+"C (all)",3,1915,1982,"Fa","Fa",NA,NA,"ConLD","Abnorml",85000
+"C (all)",4,1925,1950,"TA","TA","TA","TA","WD ","Normal",75000
+"RM",8,2007,2008,"Ex","TA","TA","TA","New","Partial",230000
+"I (all)",2,1910,1950,"Fa","Fa","TA","TA","ConLD","Normal",57625
+"RL",8,2000,2001,"Gd","TA","TA","TA","WD ","Normal",251000
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Abnorml",239686
+"RL",7,2004,2005,"Gd","TA","TA","TA","WD ","Normal",240000
+"RL",6,2001,2002,"TA","TA","TA","TA","WD ","Normal",215000
+"RL",6,1977,1977,"TA","TA","TA","TA","WD ","Normal",156450
+"RL",6,1977,1977,"TA","TA","TA","TA","WD ","Normal",173000
+"RL",5,1977,1977,"TA","TA","TA","TA","COD","Normal",126000
+"RL",7,1990,1991,"TA","TA","TA","TA","WD ","Normal",173000
+"RL",5,1991,1991,"TA","TA","TA","TA","COD","Abnorml",152000
+"RL",6,1958,1958,"TA","TA","TA","TA","COD","Abnorml",137500
+"RL",7,1965,1965,"TA","TA","TA","TA","WD ","Normal",375000
+"RL",9,2007,2008,"Gd","TA","TA","TA","WD ","Normal",315500
+"RL",7,2009,2009,"TA","TA","TA","TA","New","Partial",224500
+"RL",9,2008,2008,"Ex","TA","TA","TA","WD ","Normal",410000
+"RL",9,2008,2008,"Ex","TA","TA","TA","WD ","Normal",316500
+"RL",8,2007,2007,"Gd","TA","TA","TA","WD ","Normal",201000
+"RL",6,1988,1988,"TA","TA","TA","TA","WD ","Normal",175000
+"RL",6,1980,2006,"TA","Gd","TA","TA","WD ","Normal",204000
+"RL",7,1987,1989,"TA","TA","TA","TA","WD ","Normal",213500
+"RL",8,2001,2002,"Gd","TA","TA","TA","WD ","Normal",220000
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Abnorml",170000
+"RL",9,2006,2006,"Ex","TA","TA","TA","WD ","Normal",315000
+"RL",9,2007,2007,"Ex","TA","TA","TA","WD ","Normal",425000
+"RL",5,1968,1968,"TA","TA","TA","TA","WD ","Normal",139500
+"RL",5,1960,2006,"TA","Fa","TA","TA","WD ","Normal",115000
+"RM",6,1998,1998,"TA","TA","TA","TA","WD ","Normal",162000
+"RM",6,1999,1999,"TA","TA","TA","TA","WD ","Normal",165000
+"RM",4,1973,1973,"TA","TA","TA","TA","WD ","Normal",91000
+"RL",5,1968,1968,"TA","TA","TA","TA","WD ","Normal",130000
+"RM",4,1970,2002,"TA","Gd","TA","TA","WD ","Normal",86000
+"RL",5,1969,2000,"TA","TA","TA","TA","WD ","Normal",160000
+"RM",4,1970,1970,"TA","TA","TA","TA","WD ","Normal",80000
+"RM",4,1970,2008,"TA","TA",NA,NA,"WD ","Normal",97000
+"RM",4,1970,1970,"TA","TA","TA","TA","WD ","Normal",88000
+"RL",5,1972,1972,"TA","TA","TA","TA","WD ","Normal",131900
+"RL",6,1993,1996,"TA","Gd","TA","TA","WD ","Normal",131250
+"RL",5,1978,1978,"TA","Gd","TA","TA","WD ","Normal",165500
+"RL",5,1985,1985,"TA","TA",NA,NA,"WD ","Normal",112000
+"RL",5,1992,1993,"TA","TA","TA","TA","WD ","Normal",149000
+"RL",5,1993,1995,"TA","TA","TA","TA","WD ","Normal",143000
+"RL",5,1992,1992,"TA","TA","TA","TA","WD ","Normal",130000
+"RL",6,1977,1977,"TA","TA","TA","TA","WD ","Normal",196000
+"RL",5,1969,1969,"Gd","Ex","TA","TA","WD ","Normal",173000
+"RL",6,1958,2002,"Ex","TA","TA","TA","WD ","Normal",176500
+"RL",6,1970,1970,"TA","TA","TA","TA","WD ","Normal",237500
+"RL",6,1969,1969,"TA","TA","TA","TA","WD ","Normal",206900
+"RL",6,1997,1998,"TA","TA","TA","TA","WD ","Normal",187500
+"RL",6,1995,1996,"TA","TA","TA","TA","WD ","Normal",165000
+"RL",6,1998,1998,"TA","TA","TA","TA","WD ","Normal",195500
+"RL",6,1998,1998,"TA","TA","TA","TA","WD ","Normal",192000
+"RL",6,1996,1996,"TA","TA","TA","TA","WD ","Normal",173000
+"RL",5,1996,1997,"Gd","TA","TA","TA","WD ","Normal",177900
+"RL",7,1996,1997,"TA","TA","TA","TA","WD ","Normal",175000
+"RL",8,2001,2002,"Gd","TA","TA","TA","WD ","Normal",286000
+"RL",8,1997,1997,"Gd","TA","TA","TA","WD ","Normal",247900
+"RL",8,1993,1993,"Gd","TA","TA","TA","WD ","Normal",180000
+"RL",8,1992,1992,"Gd","TA","TA","TA","WD ","Normal",180000
+"RL",6,1997,1998,"TA","TA","TA","TA","WD ","Normal",181000
+"RL",6,1998,1998,"TA","TA","TA","TA","WD ","Family",183000
+"RL",6,1995,1996,"TA","TA","TA","TA","WD ","Normal",188000
+"RL",7,1994,1996,"Gd","TA","TA","TA","WD ","Normal",194500
+"RL",6,1991,1991,"TA","TA","TA","TA","WD ","Normal",185000
+"RL",8,1988,1989,"Gd","TA","TA","TA","WD ","Normal",189000
+"RL",8,1989,1989,"Gd","TA","TA","TA","WD ","Normal",188500
+"RL",8,2005,2005,"Gd","TA","TA","TA","WD ","Normal",355000
+"RL",9,2005,2007,"Gd","TA","TA","TA","WD ","Normal",325000
+"RL",9,2004,2004,"Ex","TA","TA","TA","WD ","Normal",387000
+"RL",6,1952,1952,"TA","TA","TA","TA","WD ","Normal",115000
+"RL",9,2007,2007,"Ex","TA","TA","TA","WD ","Normal",334000
+"RL",6,1950,1950,"TA","TA","TA","TA","WD ","Family",133000
+"RL",7,1986,1991,"TA","Gd","TA","TA","WD ","Normal",215000
+"RL",7,1988,1988,"Gd","TA","TA","TA","WD ","Normal",226500
+"RL",6,1981,1981,"TA","Gd","TA","TA","WD ","Normal",175500
+"RL",7,1983,1983,"Gd","TA","TA","TA","WD ","Normal",181900
+"RL",7,1978,1978,"Gd","Gd","TA","TA","WD ","Normal",235000
+"RL",7,1979,1979,"Gd","TA","TA","TA","WD ","Normal",220000
+"RL",6,1977,1995,"TA","Gd","TA","TA","WD ","Normal",272000
+"RL",6,1976,1976,"TA","TA","TA","TA","WD ","Normal",161000
+"RL",5,1977,1977,"TA","TA","TA","TA","WD ","Abnorml",175000
+"RL",7,1980,1988,"TA","TA","TA","TA","WD ","Normal",185000
+"RL",5,1969,1969,"TA","TA","TA","TA","WD ","Normal",146900
+"RL",7,1978,1978,"Gd","TA","TA","Gd","WD ","Normal",292500
+"RL",6,1976,1976,"TA","TA","TA","TA","COD","Abnorml",180000
+"RL",6,1976,1976,"TA","TA","TA","TA","WD ","Normal",159900
+"RL",7,1976,1976,"TA","TA","TA","TA","WD ","Normal",205000
+"RL",5,1973,2000,"TA","TA","TA","TA","WD ","Normal",157000
+"RL",8,1996,1996,"Gd","TA","TA","TA","WD ","Normal",306000
+"RL",5,1974,1974,"TA","TA","TA","TA","WD ","Normal",133000
+"RL",6,1969,1969,"TA","TA","TA","TA","WD ","Normal",151000
+"RL",4,1969,1969,"TA","TA","TA","TA","COD","Normal",111900
+"RL",5,1971,1971,"TA","TA","TA","TA","WD ","Normal",123000
+"RL",4,1972,1972,"TA","TA","TA","TA","COD","Normal",111250
+"RH",6,1998,1999,"Gd","TA","TA","TA","COD","Abnorml",181000
+"RM",6,1973,1973,"TA","TA","TA","TA","WD ","Normal",103400
+"RM",6,1973,1973,"TA","TA","TA","TA","WD ","Normal",100000
+"RM",6,1972,1972,"TA","TA","TA","TA","WD ","Normal",100500
+"RM",6,1970,1970,"TA","TA","TA","TA","WD ","Normal",106000
+"RM",6,1971,1971,"TA","TA","TA","TA","COD","Abnorml",85400
+"RM",6,1971,1971,"TA","TA","TA","TA","WD ","Normal",89500
+"RM",5,1972,1972,"TA","TA","TA","TA","WD ","Normal",111750
+"RL",6,1977,1977,"TA","TA","TA","TA","COD","Abnorml",140000
+"RL",6,1975,1975,"TA","TA","TA","TA","WD ","Normal",143000
+"RL",7,1977,1977,"TA","TA","TA","TA","WD ","Normal",148500
+"RL",5,1966,1966,"TA","TA","TA","TA","WD ","Normal",110000
+"RL",8,2008,2008,"Ex","TA","TA","TA","New","Partial",394617
+"RL",10,2007,2008,"Ex","TA","TA","TA","New","Partial",426000
+"RL",10,2007,2008,"Ex","TA","TA","TA","New","Partial",385000
+"RL",9,2008,2008,"Ex","TA","TA","TA","New","Partial",446261
+"RL",8,2007,2007,"Gd","TA","TA","TA","New","Partial",317500
+"RL",8,2007,2008,"Gd","TA","TA","TA","New","Partial",372402
+"RL",8,2007,2007,"Gd","TA","TA","TA","WD ","Normal",417500
+"RL",9,2007,2007,"Ex","TA","TA","TA","WD ","Normal",383000
+"RL",9,2006,2006,"Gd","TA","TA","TA","WD ","Abnorml",390000
+"RL",10,2005,2006,"Ex","TA","TA","TA","WD ","Normal",460000
+"RL",9,2005,2005,"Gd","TA","TA","TA","WD ","Normal",379000
+"RL",8,2007,2007,"Ex","TA","TA","TA","WD ","Normal",250000
+"RL",8,2004,2004,"Gd","TA","TA","TA","WD ","Normal",316000
+"RL",10,2003,2003,"Ex","TA","TA","TA","WD ","Normal",615000
+"RL",9,2003,2004,"Gd","TA","TA","TA","WD ","Normal",412500
+"RL",7,2003,2004,"Gd","TA","TA","TA","WD ","Normal",284000
+"RL",8,2003,2004,"Gd","TA","TA","TA","WD ","Normal",284000
+"RL",8,2001,2002,"Gd","TA","TA","TA","WD ","Normal",421250
+"RL",8,2003,2003,"Gd","TA","TA","TA","WD ","Normal",370000
+"RL",9,2008,2008,"Ex","TA","TA","TA","New","Partial",336860
+"RL",9,2008,2008,"Ex","TA","TA","TA","New","Partial",367294
+"RL",7,2005,2005,"Gd","TA","TA","TA","WD ","Normal",192000
+"RL",8,2003,2004,"Ex","TA","TA","TA","WD ","Normal",274000
+"RL",9,2005,2005,"Ex","TA","TA","TA","WD ","Normal",266000
+"RL",9,2007,2008,"Ex","TA","TA","TA","New","Partial",370967
+"RL",8,2006,2007,"Gd","TA","TA","TA","WD ","Normal",234250
+"RL",8,2006,2007,"Gd","TA","TA","TA","WD ","Normal",219500
+"RL",7,2003,2004,"Gd","TA","TA","TA","WD ","Normal",155000
+"RL",7,2003,2004,"Gd","TA","TA","TA","WD ","Normal",154000
+"RM",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",207000
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",195000
+"RM",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",219990
+"RL",7,2005,2006,"Gd","TA","TA","TA","WD ","Normal",191000
+"RL",7,2007,2007,"Gd","TA","TA","TA","WD ","Normal",159895
+"RL",7,2007,2008,"Gd","TA","TA","TA","New","Partial",187687
+"RL",6,2004,2004,"Gd","TA","TA","TA","WD ","Normal",179000
+"RL",6,2004,2004,"TA","TA","TA","TA","WD ","Normal",193000
+"RL",7,2005,2005,"Gd","TA","TA","TA","WD ","Normal",190000
+"RL",6,2005,2005,"TA","TA","TA","TA","WD ","Normal",176000
+"RL",7,2002,2003,"Gd","TA","TA","TA","WD ","Normal",188000
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",213000
+"RL",7,2007,2008,"Gd","TA","TA","TA","New","Partial",217300
+"RL",6,2000,2000,"TA","TA","TA","TA","WD ","Normal",186500
+"RL",7,2000,2001,"Gd","TA","TA","TA","WD ","Normal",226750
+"RL",7,2004,2005,"Gd","TA","TA","TA","WD ","Normal",184000
+"RL",7,2002,2002,"Gd","TA","TA","TA","WD ","Normal",176000
+"RL",7,1999,2000,"Gd","TA","TA","TA","WD ","Normal",225000
+"RL",7,1999,1999,"TA","TA","TA","TA","WD ","Normal",185900
+"RL",8,1997,1997,"Gd","TA","TA","TA","WD ","Normal",284500
+"RL",8,1998,1998,"Gd","TA","TA","TA","WD ","Normal",315000
+"RL",8,2000,2000,"Gd","TA","TA","TA","WD ","Normal",250000
+"RL",9,2000,2000,"Gd","TA","TA","TA","WD ","Normal",291000
+"RL",8,1998,1998,"Gd","TA","TA","TA","WD ","Normal",350000
+"RL",7,1996,1997,"Gd","TA","TA","TA","WD ","Normal",279500
+"RL",8,1995,1995,"Gd","TA","TA","TA","WD ","Normal",290000
+"RL",8,1995,1995,"Gd","Gd","TA","TA","WD ","Normal",350000
+"RL",7,1993,1994,"Gd","TA","TA","TA","WD ","Normal",341000
+"RL",7,1993,1994,"Gd","TA","TA","TA","WD ","Normal",287500
+"RL",7,1994,1994,"Gd","TA","TA","TA","WD ","Normal",271000
+"RL",8,1994,1994,"Gd","TA","TA","TA","WD ","Normal",301500
+"RL",8,2007,2008,"Gd","TA","TA","TA","ConLD","Partial",235128
+"RL",6,2007,2007,"Gd","TA","TA","TA","WD ","Normal",214000
+"RL",8,2006,2006,"Gd","TA","TA","TA","WD ","Normal",232000
+"RL",7,2006,2006,"Gd","TA","TA","TA","WD ","Normal",240000
+"RL",9,2008,2008,"Gd","TA","TA","TA","New","Partial",264132
+"RL",8,2007,2007,"TA","TA","TA","TA","WD ","Normal",245000
+"RL",7,2008,2008,"Gd","TA","TA","TA","New","Partial",227680
+"RL",8,2007,2007,"Gd","TA","TA","TA","WD ","Normal",257000
+"RL",8,2007,2008,"Gd","TA","TA","TA","New","Partial",297900
+"RL",8,2006,2007,"Gd","TA","TA","TA","WD ","Normal",247000
+"FV",8,2007,2008,"Gd","TA","TA","TA","New","Partial",212700
+"FV",7,2007,2008,"Gd","TA","TA","TA","New","Partial",250580
+"FV",7,2007,2008,"Gd","TA","TA","TA","New","Partial",182000
+"FV",7,2005,2005,"Gd","TA","TA","TA","WD ","Normal",226700
+"FV",8,2003,2004,"Gd","TA","TA","TA","WD ","Normal",250000
+"FV",7,2005,2005,"Gd","TA","TA","TA","WD ","Normal",250000
+"FV",8,2007,2008,"Gd","TA","TA","TA","New","Partial",339750
+"FV",7,2007,2007,"Gd","TA","TA","TA","WD ","Normal",205950
+"FV",8,2007,2007,"Gd","TA","TA","TA","WD ","Normal",256000
+"FV",7,2007,2008,"Gd","TA","TA","TA","New","Partial",230348
+"FV",6,2003,2003,"Gd","TA","TA","TA","WD ","Normal",207500
+"RL",7,2004,2005,"TA","TA",NA,NA,"WD ","Normal",141000
+"RL",6,2003,2003,"Gd","TA","TA","TA","WD ","Normal",188000
+"RL",7,2003,2004,"Gd","TA","TA","TA","WD ","Normal",192500
+"RL",6,2005,2006,"TA","TA",NA,NA,"WD ","Normal",146000
+"RL",5,2004,2004,"TA","TA","TA","TA","WD ","Normal",159000
+"RL",6,2003,2004,"TA","TA","TA","TA","WD ","Normal",155000
+"RL",6,2004,2004,"Gd","TA","TA","TA","WD ","Normal",173000
+"RL",7,2007,2007,"Gd","TA","TA","TA","WD ","Normal",170000
+"RL",6,1995,1995,"Gd","TA","TA","TA","WD ","Normal",182000
+"RL",6,1993,1994,"Gd","TA","TA","TA","WD ","Normal",163000
+"RL",6,1994,1998,"TA","TA","TA","TA","WD ","Normal",193500
+"RL",7,1994,1995,"Gd","TA","TA","TA","WD ","Normal",189000
+"RL",6,2001,2001,"Gd","TA","TA","TA","WD ","Normal",190500
+"RL",7,1992,1992,"Gd","TA","TA","TA","WD ","Normal",175000
+"RL",6,1991,1991,"TA","TA","TA","TA","WD ","Normal",179200
+"RL",6,1993,1993,"Gd","TA","TA","TA","WD ","Normal",187000
+"RL",6,1993,1994,"Gd","TA","TA","TA","WD ","Normal",193000
+"RL",6,1993,1993,"Gd","TA","TA","TA","WD ","Normal",153900
+"RL",5,1963,1963,"TA","TA","TA","TA","WD ","Normal",128000
+"RL",5,1962,1962,"TA","TA","TA","TA","WD ","Normal",144000
+"RL",5,1961,2007,"TA","Gd","TA","TA","WD ","Normal",135000
+"RL",5,1968,1968,"TA","TA","TA","TA","WD ","Normal",115000
+"RL",5,1963,1963,"TA","TA","TA","TA","COD","Abnorml",119916
+"RL",6,1961,1996,"TA","Gd","TA","TA","WD ","Normal",142000
+"RL",6,1974,1974,"TA","TA","TA","TA","WD ","Normal",192000
+"RL",5,1972,1972,"TA","Gd","TA","TA","WD ","Normal",140000
+"RL",6,1990,1991,"Gd","TA","TA","TA","WD ","Normal",290000
+"RL",9,1993,1994,"Gd","TA","TA","TA","WD ","Normal",372500
+"FV",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",196000
+"FV",7,2006,2007,"Gd","TA","TA","TA","WD ","Normal",171900
+"FV",7,2004,2005,"Gd","TA","TA","TA","WD ","Normal",178000
+"FV",6,2005,2005,"Gd","TA","TA","TA","WD ","Normal",165000
+"FV",7,2007,2007,"Gd","TA","TA","TA","WD ","Abnorml",146000
+"FV",7,2007,2007,"Gd","TA","TA","TA","WD ","Abnorml",146000
+"FV",7,1999,1999,"TA","TA","TA","TA","WD ","Normal",179400
+"FV",6,1999,1999,"TA","TA","TA","TA","WD ","Normal",172900
+"FV",9,2000,2000,"Gd","TA","TA","TA","WD ","Normal",300000
+"FV",9,2001,2001,"Gd","TA","TA","TA","WD ","Normal",285000
+"FV",9,2001,2001,"Gd","TA","TA","TA","WD ","Normal",290000
+"FV",9,1999,2000,"Gd","TA","TA","TA","WD ","Normal",305000
+"FV",9,1999,2000,"Gd","TA","TA","TA","CWD","Abnorml",328900
+"FV",7,1999,2000,"Gd","TA","TA","TA","WD ","Normal",160000
+"FV",7,1999,2000,"Gd","TA","TA","TA","WD ","Normal",170000
+"FV",7,2001,2001,"TA","TA","TA","TA","WD ","Normal",223000
+"FV",8,1999,1999,"Gd","TA","TA","TA","WD ","Normal",170000
+"FV",8,1999,2000,"Gd","TA","TA","TA","ConLD","Normal",200000
+"FV",10,1998,1999,"Ex","TA","TA","TA","WD ","Normal",345000
+"RL",8,1996,1996,"Gd","TA","TA","TA","WD ","Normal",245500
+"RL",8,1995,1995,"Gd","TA","TA","TA","WD ","Normal",217500
+"RL",8,1993,1993,"Gd","TA","TA","TA","Con","Normal",324000
+"RL",6,1984,1984,"TA","TA","TA","TA","WD ","Normal",162500
+"RL",9,1977,1977,"Gd","Gd","TA","TA","WD ","Family",150000
+"RL",8,1976,2007,"Ex","Ex","TA","TA","WD ","Normal",290000
+"FV",7,2002,2002,"Gd","TA","TA","TA","WD ","Normal",205000
+"RL",7,1970,1970,"TA","TA","TA","TA","WD ","Normal",174000
+"RL",6,1969,1969,"TA","TA","TA","TA","WD ","Normal",183000
+"RL",6,1968,1968,"TA","TA","TA","TA","WD ","Family",150000
+"RL",6,1971,2004,"Gd","Gd","TA","TA","COD","Abnorml",145000
+"RL",7,1967,1967,"TA","TA","TA","TA","WD ","Normal",215000
+"RL",5,1965,1965,"TA","TA","TA","TA","ConLD","Normal",140500
+"RL",6,1974,1997,"TA","TA","TA","TA","WD ","Normal",240000
+"RL",5,1968,1968,"TA","TA","TA","TA","WD ","Normal",141000
+"RL",5,1965,2008,"TA","TA","TA","TA","WD ","Normal",147000
+"RL",5,1965,2005,"Gd","TA","TA","TA","WD ","Normal",135000
+"RL",5,1965,1965,"TA","TA","TA","TA","WD ","Normal",145000
+"RL",5,1965,1965,"TA","TA","TA","TA","WD ","Normal",142600
+"RL",5,1973,1973,"TA","TA","TA","TA","WD ","Normal",135000
+"RL",7,1971,1971,"TA","TA","TA","TA","WD ","Normal",170000
+"RL",8,1976,1996,"Ex","Gd","TA","TA","WD ","Normal",299800
+"RL",6,1974,1974,"Gd","TA","Gd","TA","WD ","Normal",185000
+"RL",6,1966,2000,"TA","TA","TA","TA","WD ","Normal",173000
+"RL",7,1961,2007,"Ex","TA","TA","TA","WD ","Normal",178400
+"RL",7,1968,1968,"TA","TA","TA","TA","WD ","Normal",176000
+"RL",5,1956,1956,"TA","TA","TA","TA","WD ","Normal",98000
+"RL",4,1957,1957,"TA","TA","TA","TA","WD ","Normal",109008
+"RL",4,1956,1956,"TA","TA","TA","TA","WD ","Normal",135750
+"RL",5,1963,1963,"TA","Gd","TA","TA","WD ","Normal",155000
+"RL",6,1964,1964,"TA","TA","TA","TA","WD ","Normal",180500
+"RL",6,1966,1966,"TA","TA","Gd","Gd","WD ","Normal",174900
+"RL",6,1965,1965,"TA","TA","TA","TA","WD ","Normal",140000
+"RL",6,1964,1964,"TA","TA","TA","Gd","WD ","Normal",145000
+"RL",5,1965,1999,"TA","Gd","TA","TA","WD ","Normal",179900
+"RL",6,1964,1964,"TA","TA","TA","TA","WD ","Normal",168500
+"RL",5,1961,1961,"TA","Gd","TA","TA","COD","Abnorml",140000
+"RL",5,1959,2006,"Gd","TA","TA","TA","WD ","Normal",145500
+"RL",6,1959,1959,"Gd","TA","TA","TA","WD ","Normal",142000
+"RL",4,1960,1960,"TA","TA","TA","TA","WD ","Normal",141000
+"RL",5,1960,2000,"TA","TA","TA","TA","WD ","Normal",153000
+"RL",3,1949,1950,"TA","TA","TA","Fa","WD ","Normal",72500
+"RL",3,1935,2003,"Gd","TA",NA,NA,"WD ","Normal",52000
+"RL",5,1939,1950,"TA","TA","Gd","TA","WD ","Normal",118000
+"RL",4,1937,1950,"TA","TA","Fa","TA","WD ","Normal",87000
+"RL",5,1960,1960,"Fa","Fa","TA","TA","WD ","Normal",141500
+"RL",6,1950,1950,"TA","TA","TA","TA","WD ","Abnorml",119000
+"RL",5,1950,2006,"TA","Gd","TA","TA","WD ","Normal",141500
+"RL",6,1955,1996,"TA","TA","TA","TA","WD ","Normal",165500
+"RL",5,1953,1953,"TA","TA","TA","TA","WD ","Normal",112900
+"RL",7,1965,1988,"TA","TA","TA","TA","WD ","Normal",201800
+"RL",6,1961,1961,"TA","TA","TA","TA","COD","Normal",163000
+"RL",5,1961,1961,"TA","TA","TA","TA","WD ","Normal",139950
+"RL",6,1962,2005,"Gd","Gd","TA","TA","COD","Abnorml",174000
+"RL",6,1962,1962,"TA","TA","TA","TA","WD ","Normal",165000
+"RL",6,1966,1999,"Gd","Gd","TA","TA","WD ","Normal",227000
+"RL",5,1955,1955,"TA","TA","TA","TA","WD ","Normal",135000
+"RL",5,1963,1963,"TA","TA","TA","TA","COD","Normal",124000
+"RL",5,1962,1980,"TA","Gd","TA","TA","WD ","Normal",140000
+"RL",5,1957,1957,"TA","TA","TA","TA","WD ","Normal",136500
+"RL",5,1959,1998,"TA","TA","TA","TA","WD ","Normal",185000
+"RL",6,1958,1958,"TA","TA","TA","TA","WD ","Normal",163000
+"RL",6,1958,1958,"TA","TA","TA","TA","WD ","Normal",166800
+"RL",6,1956,1956,"TA","TA","TA","TA","WD ","Normal",139000
+"RL",6,1957,1957,"TA","TA","TA","TA","WD ","Normal",166000
+"RL",6,1958,1958,"TA","Gd","TA","TA","WD ","Normal",136000
+"RL",5,1956,1958,"TA","TA","TA","TA","WD ","Normal",133000
+"RL",5,1952,1952,"TA","TA","TA","TA","WD ","Normal",116000
+"RL",5,1953,1953,"TA","TA","TA","TA","WD ","Normal",137500
+"RL",5,1953,1953,"TA","TA","TA","TA","WD ","Normal",130000
+"RL",6,1957,1957,"TA","TA","TA","TA","WD ","Normal",180000
+"RL",5,1951,1951,"TA","TA","TA","TA","COD","Abnorml",139000
+"RL",5,1953,1953,"TA","TA","TA","TA","WD ","Abnorml",110000
+"RL",5,1957,1982,"TA","TA","TA","TA","WD ","Normal",100000
+"RL",5,1947,1950,"TA","TA","TA","TA","COD","Abnorml",118500
+"RL",5,1957,1957,"TA","TA","TA","TA","WD ","Normal",146000
+"RL",4,1948,1950,"TA","TA","Fa","TA","WD ","Normal",89900
+"RL",5,1925,1950,"TA","Gd","Fa","TA","WD ","Normal",114000
+"RL",5,1945,1950,"TA","TA","TA","TA","WD ","Normal",140000
+"RL",4,1940,2005,"Gd","TA","TA","TA","WD ","Normal",86900
+"RL",5,1922,1950,"TA","TA","Fa","TA","WD ","Normal",139000
+"RL",4,1900,2000,"TA","TA",NA,NA,"WD ","Normal",106250
+"RL",6,1962,1962,"TA","TA","TA","TA","WD ","Normal",171000
+"RL",5,1968,1968,"TA","TA","TA","TA","WD ","Normal",139000
+"RL",7,1958,2001,"TA","TA","TA","TA","WD ","Normal",186000
+"RL",6,1960,1960,"TA","TA","TA","TA","WD ","Normal",157000
+"RL",6,1960,1993,"TA","TA","TA","TA","WD ","Normal",148000
+"RL",7,1960,2007,"TA","TA","TA","TA","WD ","Normal",242000
+"RL",5,1953,1996,"Gd","TA","TA","TA","WD ","Normal",116000
+"RL",5,1951,1951,"TA","TA","TA","TA","WD ","Abnorml",94000
+"RL",5,1950,1950,"TA","TA","TA","TA","WD ","Normal",98300
+"RL",5,1960,1960,"TA","TA","TA","TA","WD ","Normal",127000
+"RL",5,1959,1959,"TA","TA","TA","TA","WD ","Normal",159000
+"RL",5,1962,1962,"TA","TA","TA","TA","WD ","Normal",125900
+"RL",5,1960,1960,"TA","TA","TA","TA","WD ","Normal",155000
+"RL",6,1948,1950,"TA","TA","TA","TA","WD ","Normal",138000
+"RL",6,1954,1954,"TA","TA","TA","TA","WD ","Normal",112500
+"RL",6,1954,1954,"TA","TA","TA","TA","WD ","Normal",105500
+"RL",6,1954,1954,"TA","TA","TA","TA","WD ","Normal",127500
+"RL",5,1961,1961,"TA","TA",NA,NA,"WD ","Abnorml",130000
+"RL",5,1955,1967,"TA","Gd","TA","TA","WD ","Normal",150000
+"RL",5,1954,1954,"TA","TA","TA","TA","WD ","Normal",109500
+"RL",6,1963,1963,"TA","TA","TA","TA","WD ","Normal",140000
+"RL",6,1964,1964,"TA","TA","TA","TA","WD ","Normal",167900
+"RL",5,1963,1963,"TA","TA","TA","TA","COD","Normal",136870
+"RM",6,2008,2008,"TA","TA","TA","TA","WD ","Abnorml",143000
+"RM",5,1925,2004,"TA","TA","TA","TA","WD ","Normal",73000
+"RM",5,1904,2002,"TA","TA","Gd","TA","WD ","Normal",157500
+"RM",5,1948,2005,"TA","TA","TA","TA","WD ","Normal",122600
+"RM",5,1910,2003,"TA","TA","Fa","TA","WD ","Normal",111000
+"RM",6,1920,1950,"Gd","Gd","Fa","TA","WD ","Normal",256000
+"RM",5,1940,1950,"TA","TA","TA","TA","WD ","Normal",64000
+"RM",6,1915,2005,"Gd","TA","Fa","Fa","WD ","Normal",139500
+"RM",4,1910,1996,"TA","TA",NA,NA,"WD ","Normal",118000
+"RM",7,2003,2003,"TA","TA","TA","TA","WD ","Normal",200000
+"RM",4,1940,1985,"TA","Gd","TA","TA","WD ","Normal",119164
+"RM",5,1920,1950,"Fa","Fa","Fa","Fa","WD ","Normal",122250
+"RM",7,1920,2006,"Gd","TA",NA,NA,"WD ","Normal",120000
+"RM",6,1940,1950,"TA","TA","TA","TA","Con","Normal",155000
+"RM",5,1910,1950,"TA","TA","Fa","TA","WD ","Normal",78000
+"RM",5,1890,1996,"TA","TA",NA,NA,"WD ","Normal",95000
+"RM",5,1948,1950,"TA","TA","TA","TA","WD ","Partial",115000
+"RM",5,1948,2005,"TA","TA","TA","TA","WD ","Normal",147000
+"RM",5,1946,1950,"TA","TA","TA","Gd","WD ","Normal",140000
+"RM",2,1946,1950,"TA","Gd","Fa","TA","WD ","Abnorml",46500
+"RM",5,1957,1957,"TA","TA","TA","TA","WD ","Normal",112500
+"RM",4,1954,2000,"TA","TA","Fa","TA","WD ","Normal",107900
+"RM",3,1949,1992,"TA","TA",NA,NA,"WD ","Abnorml",65000
+"RM",7,1880,2002,"TA","TA","TA","TA","WD ","Normal",295000
+"RM",5,1900,2006,"TA","Fa","Fa","Po","WD ","Normal",139500
+"RM",5,1915,1950,"TA","TA","TA","TA","WD ","Normal",153900
+"RM",7,1920,1965,"TA","TA","TA","TA","WD ","Normal",132000
+"RM",5,1916,1950,"TA","TA","Fa","Fa","COD","Abnorml",98000
+"RM",5,1900,2003,"TA","TA","TA","TA","WD ","Normal",114000
+"RM",5,1920,1960,"TA","TA","TA","TA","WD ","Normal",130000
+"RM",6,1917,1950,"TA","TA","Fa","Fa","WD ","Normal",129500
+"RM",5,1905,2005,"Gd","TA",NA,NA,"WD ","Normal",129400
+"RM",7,1928,2005,"TA","Ex","TA","TA","WD ","Normal",161000
+"RM",6,1905,2000,"TA","TA","Gd","TA","WD ","Normal",163000
+"RM",6,1914,2001,"TA","TA",NA,NA,"WD ","Normal",128000
+"RM",8,1872,1987,"TA","Gd",NA,NA,"WD ","Normal",122000
+"RM",7,1926,1950,"TA","TA","TA","TA","WD ","Normal",116900
+"RM",10,1893,2000,"Ex","Ex","Gd","TA","WD ","Normal",325000
+"RM",2,1920,1950,"Fa","Fa","Fa","Po","ConLD","Normal",55000
+"RM",7,1890,1999,"TA","TA","TA","Fa","WD ","Normal",184000
+"RM",5,1959,1959,"TA","TA","TA","TA","WD ","Normal",110000
+"RM",5,1954,1954,"TA","TA","Fa","TA","WD ","Normal",131500
+"RM",5,1956,1956,"TA","TA","TA","TA","WD ","Normal",97000
+"RM",4,1958,2006,"TA","TA","TA","TA","WD ","Normal",115500
+"RL",5,1928,1983,"Gd","Gd","TA","TA","WD ","Normal",138000
+"RM",7,1945,1950,"TA","TA","TA","TA","WD ","Abnorml",108000
+"RM",5,1930,1960,"TA","TA","TA","TA","WD ","Normal",79500
+"RL",5,1935,1950,"TA","TA","TA","TA","WD ","Normal",153000
+"RM",5,1924,1950,"TA","TA",NA,NA,"WD ","Normal",109500
+"RM",5,1941,2006,"TA","Gd","TA","TA","WD ","Normal",124000
+"RM",6,1900,2000,"TA","Gd","Fa","TA","WD ","Normal",106900
+"RM",6,1940,1989,"TA","TA","TA","TA","WD ","Normal",164900
+"RM",5,1924,2003,"TA","Fa","TA","TA","WD ","Normal",119000
+"RM",6,1929,1950,"TA","TA","TA","TA","WD ","Normal",120000
+"RM",6,1937,2000,"TA","Gd","TA","TA","WD ","Normal",157000
+"RM",6,1939,1950,"TA","TA","TA","TA","WD ","Normal",105000
+"RM",6,1926,1950,"TA","TA","Fa","TA","WD ","Normal",113000
+"RM",5,1920,1997,"TA","Gd","Fa","TA","WD ","Normal",115000
+"RM",4,1946,1950,"TA","TA","TA","TA","ConLD","Abnorml",79000
+"RM",4,1929,1950,"TA","TA","TA","TA","WD ","Normal",123000
+"RM",5,1945,1995,"TA","Gd","TA","TA","WD ","Normal",81300
+"RM",5,1930,1992,"TA","TA","TA","TA","WD ","Normal",162900
+"RM",7,1939,1950,"TA","TA","TA","TA","WD ","Normal",150000
+"RM",5,1923,1950,"TA","TA","TA","TA","WD ","Normal",123500
+"RM",7,1931,1950,"TA","TA","Fa","TA","WD ","Abnorml",129900
+"RM",6,1920,1999,"TA","TA","TA","Fa","WD ","Normal",128000
+"RM",4,1927,1950,"TA","TA","Fa","TA","WD ","Normal",68500
+"RM",5,1948,2001,"TA","TA","TA","TA","WD ","Normal",127000
+"RL",6,1923,2000,"TA","TA","TA","TA","WD ","Normal",207000
+"RL",7,1925,1950,"TA","Gd","TA","TA","WD ","Normal",184000
+"RL",6,1915,2004,"TA","Gd","TA","TA","WD ","Normal",162500
+"RL",5,1940,1982,"TA","TA","TA","TA","WD ","Normal",145000
+"RL",6,1918,2000,"TA","Gd","TA","TA","WD ","Normal",130000
+"RM",6,1910,1983,"TA","TA",NA,NA,"WD ","Normal",160000
+"RM",8,1925,1996,"TA","Gd","TA","TA","WD ","Normal",161000
+"RM",6,1910,1950,"Gd","TA","Fa","Fa","WD ","Normal",127500
+"RM",6,1930,1950,"Gd","Gd","TA","TA","WD ","Normal",93850
+"RM",6,1952,1952,"TA","TA","TA","TA","COD","Abnorml",136000
+"RM",6,1938,1958,"TA","TA","TA","TA","COD","Normal",141000
+"RM",5,1915,1978,"TA","Fa","Fa","Fa","WD ","Normal",120000
+"RM",6,1925,1992,"TA","TA","TA","TA","WD ","Normal",127500
+"RM",6,1925,1950,"TA","TA","TA","TA","WD ","Family",127000
+"RM",6,1920,1950,"TA","Fa",NA,NA,"WD ","Normal",89500
+"RM",5,1955,1995,"TA","Gd","TA","TA","WD ","Normal",125000
+"RM",6,1920,1998,"TA","TA",NA,NA,"ConLD","Abnorml",79900
+"RM",5,1912,1991,"TA","TA","TA","TA","ConLD","Family",85000
+"RM",3,1915,1950,"Fa","Fa",NA,NA,"WD ","Normal",82375
+"RM",6,1906,1995,"TA","TA","TA","TA","WD ","Normal",135000
+"RL",5,1947,1993,"Gd","TA","TA","TA","WD ","Abnorml",124000
+"RL",5,1968,1968,"TA","TA","TA","TA","WD ","Normal",134000
+"RL",5,1948,1950,"TA","TA","TA","TA","WD ","Normal",135000
+"RL",4,1959,1959,"TA","TA","TA","TA","WD ","Normal",134432
+"RL",5,1940,1999,"TA","Gd",NA,NA,"WD ","Normal",127500
+"RL",5,1963,1963,"TA","TA","TA","TA","WD ","Abnorml",148000
+"RL",5,1965,1965,"TA","TA","TA","TA","WD ","Normal",129500
+"RL",6,1978,1978,"TA","TA","TA","TA","WD ","Normal",157500
+"RL",5,1966,1966,"TA","TA","TA","TA","WD ","Abnorml",109900
+"RL",5,1967,2005,"TA","Fa","TA","TA","WD ","Normal",145000
+"RL",5,1967,2003,"TA","TA","TA","TA","WD ","Normal",130000
+"RL",6,1978,1978,"TA","TA","TA","TA","WD ","Normal",153000
+"RL",5,1967,1967,"TA","TA","TA","TA","WD ","Normal",120000
+"RL",5,1984,1984,"TA","TA","TA","TA","WD ","Normal",152000
+"RL",4,1969,1969,"TA","TA","Fa","TA","WD ","Alloca",108959
+"RL",5,1920,1950,"TA","TA","TA","TA","WD ","Alloca",95541
+"RL",5,1959,1959,"TA","TA",NA,NA,"WD ","Normal",80000
+"RL",5,1966,2006,"TA","TA","TA","TA","WD ","Normal",149350
+"RL",5,1963,2003,"TA","Gd","TA","TA","WD ","Normal",144900
+"RL",6,1956,1956,"TA","TA","TA","TA","WD ","Normal",185000
+"RL",5,1954,1954,"TA","TA","TA","TA","WD ","Normal",165000
+"RL",6,1960,1975,"TA","TA","TA","TA","WD ","Normal",235000
+"RL",5,1958,1987,"TA","Gd","TA","TA","WD ","Normal",140000
+"RL",5,1940,1997,"TA","TA","TA","TA","WD ","Normal",108000
+"RL",5,1960,1960,"TA","TA","TA","TA","WD ","Abnorml",145000
+"RL",5,1941,1973,"TA","TA","TA","TA","WD ","Normal",152400
+"RL",5,1970,1970,"TA","Gd","TA","TA","WD ","Normal",144000
+"RL",6,1996,1997,"TA","TA","TA","TA","WD ","Normal",173000
+"RL",7,1977,1977,"TA","TA","TA","TA","WD ","Normal",192000
+"RL",7,1979,1979,"TA","TA","TA","TA","WD ","Normal",245000
+"RL",7,1954,2005,"TA","TA","TA","TA","WD ","Normal",241500
+"RL",4,1954,1994,"TA","TA","TA","TA","WD ","Normal",256000
+"RL",6,1959,2006,"TA","TA","TA","TA","WD ","Normal",177000
+"RL",7,1948,1950,"TA","TA","TA","TA","WD ","Normal",125600
+"RL",6,1953,1953,"TA","TA","TA","TA","WD ","Normal",155000
+"RL",6,1908,1997,"TA","TA","Fa","TA","WD ","Normal",240000
+"RL",5,1940,2007,"TA","TA",NA,NA,"WD ","Normal",260000
+"RL",6,1918,1950,"TA","TA","TA","TA","WD ","Normal",185000
+"RL",6,1935,1986,"TA","TA","TA","TA","WD ","Normal",235000
+"RL",5,1956,1956,"TA","TA","TA","TA","WD ","Normal",159900
+"RL",5,1975,1975,"TA","TA",NA,NA,"WD ","Normal",99600
+"RL",6,1962,2001,"Gd","TA","TA","TA","WD ","Normal",134500
+"RL",5,1900,1950,"TA","TA","TA","TA","WD ","Normal",119000
+"RL",5,1910,1991,"TA","TA",NA,NA,"WD ","Normal",107500
+"RL",5,1950,1950,"TA","TA","TA","TA","ConLD","Normal",125000
+"RL",6,1924,1950,"TA","TA",NA,NA,"WD ","Normal",79000
+"RL",5,1941,1950,"TA","TA","TA","Fa","ConLw","Normal",95000
+"RL",7,1990,1990,"TA","TA","TA","TA","WD ","Normal",262280
+"RL",6,1995,2002,"Gd","TA","TA","TA","WD ","Normal",260000
+"RL",7,1994,1994,"Gd","TA","TA","TA","WD ","Normal",226500
+"RL",7,1993,1994,"Gd","TA","TA","TA","WD ","Normal",225000
+"RL",7,1996,1996,"Gd","TA","TA","TA","WD ","Normal",229000
+"RL",7,2007,2007,"Gd","TA","TA","TA","New","Partial",177439
+"RL",8,2007,2007,"Gd","TA","TA","TA","WD ","Normal",248500
+"RL",9,2008,2008,"Gd","TA","Gd","TA","WD ","Abnorml",475000
+"RL",9,2008,2008,"Ex","TA","TA","TA","New","Partial",395039
+"RL",7,1993,1993,"Gd","TA","TA","TA","WD ","Normal",228000
+"RL",8,1995,1995,"Gd","TA","TA","TA","WD ","Normal",225000
+"RL",6,1966,1966,"TA","TA","TA","TA","WD ","Normal",195000
+"RL",6,1997,1997,"TA","TA","TA","TA","WD ","Normal",200000
+"RL",5,1994,1994,"TA","TA","TA","TA","WD ","Normal",155000
+"RL",5,1995,2006,"TA","TA","TA","TA","WD ","Normal",144000
+"RL",5,1994,1995,"TA","TA","TA","TA","WD ","Normal",145000
+"RL",7,1997,1998,"TA","TA","TA","TA","WD ","Normal",226001
+"RL",6,1997,1997,"TA","TA","TA","TA","WD ","Normal",215700
+"RL",7,2000,2000,"Gd","TA","TA","TA","WD ","Normal",207500
+"RL",7,1999,1999,"Gd","TA","TA","TA","WD ","Abnorml",193000
+"RL",7,1998,1999,"TA","TA","TA","TA","WD ","Normal",188000
+"RL",7,1999,2000,"Gd","TA","TA","TA","WD ","Normal",191000
+"RL",7,2002,2002,"Gd","TA","TA","TA","WD ","Normal",221000
+"RL",7,2001,2001,"Gd","TA","TA","TA","WD ","Normal",231500
+"RL",7,2000,2001,"Gd","TA","TA","TA","WD ","Normal",235000
+"RL",7,2001,2002,"Gd","TA","TA","TA","WD ","Normal",223500
+"RL",5,1975,1980,"TA","TA","TA","TA","WD ","Normal",130250
+"RL",5,1977,1977,"Gd","TA","TA","TA","WD ","Normal",149900
+"RL",5,1978,1978,"TA","TA","TA","TA","WD ","Normal",158000
+"RL",6,1978,1978,"TA","TA","TA","Fa","WD ","Normal",147000
+"RL",5,1975,1975,"TA","TA","TA","TA","WD ","Abnorml",143195
+"RL",5,1975,2001,"TA","TA","TA","TA","WD ","Normal",163000
+"RL",5,1975,1975,"TA","TA","TA","TA","WD ","Normal",110000
+"RL",5,1972,1972,"TA","TA","TA","TA","WD ","Normal",127000
+"RL",5,1972,1972,"TA","TA","TA","TA","WD ","Normal",124900
+"RL",8,2002,2002,"Gd","TA","TA","TA","WD ","Normal",230000
+"RL",8,2002,2002,"Gd","TA","TA","TA","WD ","Normal",237000
+"RL",7,2000,2000,"Gd","TA","TA","TA","WD ","Normal",235000
+"RL",7,2001,2001,"Gd","TA","TA","TA","WD ","Normal",230500
+"RL",8,1999,2000,"Gd","TA","TA","TA","WD ","Normal",230000
+"RL",7,1998,1999,"Gd","TA","TA","TA","WD ","Normal",222500
+"RL",8,2001,2002,"Gd","TA","TA","TA","WD ","Normal",287000
+"RL",9,2001,2002,"Gd","TA","TA","TA","WD ","Normal",274000
+"RL",8,2002,2003,"Gd","TA","TA","TA","WD ","Normal",300000
+"RL",8,2002,2002,"Gd","TA","TA","TA","WD ","Normal",255900
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",224900
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",240000
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",183000
+"RL",8,1999,2000,"Gd","TA","TA","TA","WD ","Normal",207000
+"RL",7,1994,1995,"Gd","Gd","TA","TA","WD ","Normal",210000
+"RM",6,2003,2003,"Gd","TA","TA","TA","WD ","Normal",136500
+"RM",6,2004,2004,"Gd","TA","TA","TA","WD ","Normal",145000
+"RL",6,1997,1998,"TA","TA","TA","TA","WD ","Normal",208900
+"RM",6,1997,1998,"TA","Gd","TA","TA","WD ","Abnorml",185000
+"RL",7,2002,2003,"Gd","TA","TA","TA","WD ","Normal",214000
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",208500
+"RL",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",186500
+"RL",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",210000
+"RL",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",185900
+"RL",8,2007,2007,"Gd","TA","TA","TA","WD ","Normal",179900
+"RL",7,2007,2007,"Gd","TA","TA","TA","WD ","Normal",218836
+"RL",7,2007,2007,"Gd","TA","TA","TA","WD ","Normal",193000
+"RL",7,2005,2005,"Gd","TA","TA","TA","WD ","Normal",189000
+"RM",6,2004,2004,"Gd","TA","TA","TA","WD ","Normal",149300
+"RM",6,2004,2004,"Gd","TA","TA","TA","WD ","Normal",141000
+"RM",6,2004,2004,"Gd","TA","TA","TA","WD ","Normal",149000
+"RM",6,2004,2004,"Gd","TA","TA","TA","ConLD","Normal",144500
+"RL",5,1910,1950,"TA","TA",NA,NA,"WD ","Normal",85000
+"RL",5,1900,2003,"TA","TA",NA,NA,"WD ","Normal",145900
+"RL",5,1966,1966,"TA","TA","TA","TA","COD","Abnorml",123000
+"RL",5,1965,1965,"Gd","TA","TA","TA","WD ","Normal",147500
+"RL",5,1976,1976,"TA","TA","Fa","TA","WD ","Family",165000
+"RL",6,1976,1976,"TA","TA","TA","TA","WD ","Normal",135000
+"RL",5,1940,1969,"TA","TA",NA,NA,"WD ","Normal",108000
+"RL",4,1972,1972,"TA","TA","TA","TA","WD ","Normal",137500
+"RL",7,2003,2004,"Gd","TA","TA","TA","WD ","Normal",165400
+"RL",6,1977,1977,"TA","TA","TA","TA","WD ","Normal",147000
+"RL",6,1976,2001,"TA","TA","TA","TA","WD ","Normal",160500
+"RL",4,2005,2005,"TA","TA","TA","TA","WD ","Normal",176000
+"RL",5,1959,1996,"TA","TA","TA","TA","WD ","Normal",284700
+"RL",10,2008,2008,"Ex","TA","TA","TA","New","Partial",160000
+"RM",6,2005,2005,"TA","TA","TA","TA","WD ","Normal",148000
+"RL",4,1955,1955,"TA","TA",NA,NA,"WD ","AdjLand",82000
+"RL",4,1955,1955,"TA","Fa",NA,NA,"WD ","AdjLand",82000
+"RL",4,1955,1955,"TA","TA",NA,NA,"WD ","Normal",118000
+"RL",4,1955,1955,"TA","TA",NA,NA,"WD ","Normal",82500
+"RL",4,1955,1955,"TA","TA",NA,NA,"WD ","Normal",91900
+"RL",5,1938,2007,"TA","TA",NA,NA,"WD ","Family",120000
+"RL",5,1947,1993,"TA","Gd",NA,NA,"WD ","Normal",96000
+"RL",4,1953,1953,"TA","TA","TA","TA","WD ","Normal",99000
+"RL",5,1946,1995,"TA","TA","TA","TA","WD ","Normal",130500
+"RL",4,1954,1972,"TA","TA","TA","TA","WD ","Normal",135000
+"RL",5,1955,1955,"TA","Gd","TA","TA","WD ","Normal",135500
+"RL",4,1954,1954,"TA","TA","TA","TA","WD ","Abnorml",100000
+"RL",4,1923,2008,"TA","TA","TA","TA","WD ","Normal",108000
+"RL",5,1925,1950,"TA","TA",NA,NA,"WD ","Normal",98000
+"RL",3,1914,1950,"TA","TA",NA,NA,"WD ","Normal",67000
+"RL",5,1912,2000,"TA","Fa",NA,NA,"WD ","Normal",135900
+"RH",6,1925,1950,"TA","TA","TA","TA","WD ","Normal",140000
+"RL",5,1939,1997,"TA","TA","TA","TA","WD ","Normal",179500
+"RL",6,1925,1950,"TA","TA","TA","TA","WD ","Normal",136500
+"RL",7,1921,1950,"TA","TA","TA","TA","WD ","Normal",168000
+"RH",5,1911,1950,"TA","TA",NA,NA,"WD ","Abnorml",130000
+"RL",5,1921,1998,"TA","TA","TA","TA","WD ","Normal",189000
+"RL",6,1930,1950,"TA","TA","TA","TA","WD ","Abnorml",161900
+"RL",6,1926,1950,"TA","TA","TA","TA","WD ","Normal",145000
+"RL",6,1922,1994,"TA","TA","TA","TA","WD ","Normal",191000
+"RL",6,1915,1976,"TA","TA","TA","TA","WD ","Normal",177000
+"RL",6,1914,1995,"TA","TA","TA","TA","WD ","Normal",147500
+"RL",6,1930,1950,"TA","TA","Fa","TA","WD ","Normal",91000
+"RL",8,1925,1997,"Gd","Gd","TA","TA","WD ","Normal",231000
+"RL",6,1936,1950,"TA","TA","TA","TA","WD ","Normal",115000
+"RL",6,1923,1950,"TA","TA","TA","TA","WD ","Normal",138000
+"RL",7,1931,2000,"TA","Fa","TA","TA","WD ","Normal",149000
+"RL",6,1934,1995,"TA","TA","TA","TA","WD ","Normal",188700
+"RL",5,1937,1995,"TA","TA","TA","TA","WD ","Normal",198000
+"RL",5,1938,1950,"TA","TA","TA","TA","WD ","Normal",110000
+"RL",6,1951,1951,"TA","Fa","TA","TA","WD ","Normal",104000
+"RL",8,1935,1950,"TA","TA","Fa","TA","WD ","Alloca",257076
+"RL",8,1935,1997,"TA","Gd","TA","TA","WD ","Normal",381000
+"RL",7,1939,2006,"Gd","Gd","TA","TA","WD ","Normal",311500
+"RL",7,1950,2000,"TA","Gd","TA","TA","WD ","Normal",263400
+"RL",5,1956,1956,"TA","TA","TA","TA","WD ","Normal",236500
+"RL",6,1954,2006,"Gd","TA","TA","TA","WD ","Normal",224000
+"RM",6,1980,1980,"TA","TA","TA","TA","WD ","Normal",116500
+"RM",6,1980,1980,"TA","Gd","TA","TA","COD","Normal",151000
+"RM",6,1926,1998,"TA","Gd","TA","TA","WD ","Normal",126000
+"RM",6,1940,2006,"TA","TA","TA","TA","WD ","Normal",120000
+"RM",4,1922,1950,"TA","TA",NA,NA,"WD ","Normal",55000
+"RM",6,1930,2007,"Gd","Gd","TA","TA","WD ","Normal",120500
+"RM",5,1940,1955,"TA","TA","Ex","Ex","WD ","Normal",120500
+"RM",5,1930,1950,"TA","TA",NA,NA,"WD ","Normal",119000
+"RM",5,1967,1967,"Fa","TA","TA","TA","WD ","Normal",126000
+"RM",5,1930,1995,"TA","TA","TA","TA","WD ","Normal",99500
+"RM",5,1958,1958,"TA","TA","TA","TA","WD ","Normal",165500
+"A (agr)",1,1952,1952,"Fa","Po","Fa","Po","WD ","Abnorml",13100
+"C (all)",4,1895,1950,"TA","TA","Fa","TA","WD ","Normal",89000
+"C (all)",4,1920,1950,"TA","Fa","TA","Fa","WD ","Normal",40000
+"C (all)",4,1910,2000,"TA","TA","Po","Fa","WD ","Normal",80900
+"C (all)",3,1935,1950,"Fa","TA","TA","TA","ConLD","Normal",81000
+"C (all)",4,1920,1950,"TA","TA","Fa","Fa","WD ","Normal",65000
+"RM",8,2008,2008,"Ex","TA","TA","TA","New","Partial",392500
+"RM",8,2007,2008,"Ex","TA","TA","TA","New","Partial",294464
+"RM",7,2004,2005,"Gd","TA","TA","TA","WD ","Normal",250000
+"RM",8,2004,2005,"Gd","TA","TA","TA","WD ","Normal",275000
+"RL",7,1996,1997,"Gd","TA","TA","TA","WD ","Normal",300000
+"RL",8,2002,2002,"Gd","TA","TA","TA","WD ","Normal",271000
+"RL",7,1996,1997,"TA","TA","TA","TA","WD ","Normal",213000
+"RL",6,1977,1977,"TA","TA","TA","TA","WD ","Normal",171000
+"RL",6,1977,1977,"TA","TA","TA","TA","WD ","Normal",171500
+"RL",5,1976,1976,"TA","TA","TA","TA","WD ","Abnorml",100000
+"RL",4,1991,1991,"TA","TA","TA","TA","WD ","Normal",228500
+"RL",5,1965,1965,"TA","TA","TA","TA","WD ","Normal",228950
+"RL",7,1986,1986,"Gd","TA","TA","TA","WD ","Normal",241500
+"RL",8,1976,1976,"Gd","TA","TA","TA","COD","Abnorml",287000
+"RL",8,2006,2007,"Gd","TA","TA","TA","WD ","Normal",294000
+"RL",8,2007,2008,"Gd","TA","TA","TA","New","Partial",293077
+"RL",8,2007,2007,"Gd","TA","TA","TA","New","Partial",264966
+"RL",5,2006,2007,"TA","TA","TA","TA","WD ","Normal",172500
+"RL",5,2006,2007,"TA","TA","TA","TA","WD ","Normal",167500
+"RL",7,2008,2008,"Gd","TA","TA","TA","New","Partial",218689
+"RL",6,1989,1989,"TA","TA","TA","TA","WD ","Normal",150000
+"RL",6,1986,1986,"TA","TA","TA","TA","WD ","Normal",184000
+"RL",6,1986,1986,"Gd","Gd","TA","TA","WD ","Normal",180000
+"RL",6,1988,1989,"Gd","TA","TA","TA","WD ","Abnorml",175000
+"RL",8,2003,2003,"Gd","TA","TA","TA","WD ","Normal",232500
+"RL",6,1999,2000,"Gd","TA","TA","TA","WD ","Normal",195000
+"RL",8,2003,2003,"Gd","TA","TA","TA","WD ","Normal",305000
+"RL",8,2007,2007,"Gd","TA","TA","TA","WD ","Normal",298751
+"RL",8,2005,2006,"Gd","TA","TA","TA","WD ","Normal",370000
+"RM",7,1997,1998,"TA","Gd","TA","TA","WD ","Alloca",209200
+"RM",7,1997,1998,"TA","Gd","TA","TA","WD ","Alloca",206300
+"RL",5,2007,2008,"TA","TA",NA,NA,"WD ","Abnorml",146000
+"RM",6,1997,1997,"TA","TA","TA","TA","WD ","Normal",160500
+"RL",4,1964,1964,"TA","TA","TA","TA","ConLD","Normal",173000
+"RM",5,1975,1975,"TA","TA","TA","TA","WD ","Normal",124000
+"RM",5,1976,1976,"TA","TA","TA","TA","WD ","Normal",115000
+"RM",5,1976,1976,"TA","TA","TA","TA","WD ","Normal",129500
+"RM",4,1973,2006,"TA","Gd","TA","TA","WD ","Normal",105000
+"RM",4,1973,1973,"TA","TA","TA","TA","WD ","Normal",94900
+"RL",5,1968,1968,"TA","Gd","TA","TA","WD ","Normal",152500
+"RM",6,1970,2007,"TA","Gd",NA,NA,"WD ","Normal",98000
+"RM",4,1972,1972,"TA","Gd",NA,NA,"WD ","Normal",81000
+"RL",5,1954,1954,"TA","TA","TA","TA","WD ","Normal",113000
+"RL",5,1983,1983,"TA","Gd","TA","TA","WD ","Normal",128500
+"RL",5,1984,1985,"TA","TA","TA","TA","WD ","Normal",119500
+"RL",5,1982,2008,"Gd","Gd","TA","TA","WD ","Normal",130500
+"RL",5,1982,2003,"TA","Gd","TA","TA","WD ","Normal",138000
+"RL",5,1982,2005,"TA","TA","TA","TA","WD ","Normal",134500
+"RL",6,1940,1985,"TA","TA","TA","TA","WD ","Normal",160000
+"RL",5,1984,1984,"TA","TA","TA","TA","WD ","Normal",137500
+"RL",5,1969,1969,"TA","TA","TA","TA","WD ","Normal",172000
+"I (all)",5,1900,1950,"TA","TA","TA","Fa","WD ","Normal",103000
+"RL",6,1971,1971,"TA","TA","TA","TA","WD ","Normal",167300
+"RL",7,1970,1970,"TA","Gd","TA","TA","WD ","Normal",167000
+"RL",7,1973,1973,"TA","Gd","TA","TA","WD ","Normal",244000
+"RL",8,1970,1970,"Gd","Gd","TA","TA","WD ","Normal",268000
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Family",225000
+"RL",6,1995,1996,"TA","TA","TA","TA","WD ","Normal",168000
+"RL",6,1997,1997,"TA","TA","TA","TA","WD ","Normal",177000
+"RL",6,1997,1997,"TA","TA","TA","TA","WD ","Normal",169000
+"RL",6,1997,1997,"TA","TA","TA","TA","WD ","Normal",161500
+"RL",8,2000,2000,"Gd","TA","TA","TA","WD ","Normal",251000
+"RL",6,1994,1994,"TA","TA","TA","TA","WD ","Normal",160000
+"RL",6,1999,2000,"TA","TA","TA","TA","WD ","Abnorml",180000
+"RL",7,1996,1996,"Gd","TA","TA","TA","WD ","Normal",178750
+"RL",7,1995,1996,"TA","TA","TA","TA","WD ","Normal",176000
+"RL",6,1999,2003,"TA","TA","TA","TA","WD ","Normal",204000
+"RL",7,1992,1993,"TA","TA","TA","TA","WD ","Normal",160000
+"RL",7,1991,1992,"Gd","TA","TA","TA","WD ","Normal",160000
+"RL",7,1992,1992,"TA","TA","TA","TA","WD ","Normal",163900
+"RL",6,1993,1994,"TA","TA","TA","TA","WD ","Normal",168000
+"RL",6,1964,1964,"TA","TA","TA","TA","WD ","Alloca",154204
+"RL",8,1986,1986,"Gd","TA","TA","TA","WD ","Normal",170000
+"RL",7,1984,1984,"Gd","TA","TA","TA","WD ","Normal",207500
+"RL",8,1988,1988,"Gd","TA","TA","TA","WD ","Normal",182000
+"RL",8,1990,1990,"Gd","TA","TA","TA","WD ","Normal",212000
+"RL",9,2005,2006,"Gd","TA","TA","TA","WD ","Normal",377426
+"RL",8,2005,2005,"Gd","TA","TA","TA","WD ","Normal",349265
+"RL",9,2006,2007,"Ex","TA","Gd","TA","New","Partial",591587
+"RL",5,1969,1990,"TA","TA","TA","TA","WD ","Normal",155000
+"RL",9,2006,2006,"Gd","TA","TA","TA","WD ","Normal",319900
+"RL",8,2007,2007,"Gd","TA","TA","TA","New","Partial",392000
+"RL",8,2006,2006,"Gd","TA","TA","TA","WD ","Normal",441929
+"RL",10,2006,2007,"Ex","TA","TA","TA","New","Partial",455000
+"RL",6,1981,1981,"Gd","Gd","TA","TA","WD ","Normal",182900
+"RL",6,1984,1984,"TA","TA","TA","TA","COD","Abnorml",174000
+"RL",6,1984,2003,"TA","TA","TA","TA","WD ","Abnorml",178000
+"RL",7,1981,2003,"Gd","TA","TA","TA","WD ","Normal",176000
+"RL",7,1978,1985,"TA","TA","TA","TA","WD ","Normal",213000
+"RL",7,1979,1979,"TA","TA","TA","TA","WD ","Normal",192000
+"RL",7,1977,1977,"TA","TA","TA","TA","WD ","Normal",190000
+"RL",6,1976,1976,"TA","TA","TA","TA","WD ","Normal",195000
+"RL",6,1978,1978,"TA","TA","TA","TA","WD ","Normal",148000
+"RL",6,1984,1984,"TA","TA","TA","TA","WD ","Normal",151500
+"RL",7,1979,1979,"TA","TA","TA","TA","WD ","Normal",197000
+"RL",6,1979,1999,"TA","TA","TA","TA","WD ","Normal",192350
+"RL",5,1969,1969,"TA","TA","TA","TA","WD ","Normal",152000
+"RL",6,1971,1971,"TA","TA","TA","TA","WD ","Normal",170000
+"RL",5,1971,1971,"TA","TA","TA","TA","WD ","Normal",175000
+"RL",6,1968,1968,"Gd","TA","TA","TA","WD ","Normal",175000
+"RL",7,1976,1976,"TA","TA","TA","TA","WD ","Normal",197900
+"RL",7,1976,1976,"TA","TA","TA","TA","WD ","Normal",174000
+"RL",6,1974,1974,"TA","TA","TA","TA","WD ","Normal",178900
+"RL",5,1971,2005,"TA","TA","TA","TA","WD ","Normal",139000
+"RL",6,1971,1971,"TA","TA","TA","TA","WD ","Normal",143250
+"RL",7,1972,2004,"TA","TA","TA","TA","WD ","Normal",184000
+"RL",5,1970,1990,"TA","TA","TA","TA","WD ","Normal",155000
+"RL",5,1970,2002,"TA","TA","TA","Gd","WD ","Normal",133000
+"RL",5,1971,1971,"TA","TA","TA","TA","WD ","Normal",119500
+"RL",4,1971,1971,"TA","TA","TA","TA","WD ","Normal",123000
+"RL",4,1971,1971,"TA","TA","TA","TA","WD ","Normal",110000
+"RL",4,1961,1961,"TA","Gd","Fa","TA","WD ","Normal",128000
+"RL",4,1971,1971,"TA","TA","TA","TA","WD ","Normal",120500
+"RH",7,1998,1998,"TA","TA","TA","TA","WD ","Normal",133000
+"RH",6,2001,2001,"Gd","TA","TA","TA","WD ","Normal",155000
+"RH",6,1997,1998,"Gd","TA","TA","TA","WD ","Normal",177000
+"RM",6,1973,1973,"TA","TA","TA","TA","WD ","Normal",113500
+"RM",6,1973,1973,"TA","TA","TA","TA","WD ","Normal",113000
+"RM",6,1973,1973,"TA","TA","TA","TA","WD ","Normal",113700
+"RM",5,1970,1970,"TA","TA","TA","TA","WD ","Normal",106000
+"RM",5,1971,1971,"TA","TA","TA","TA","WD ","Normal",122500
+"RL",6,1976,1976,"TA","TA","TA","TA","WD ","Normal",128000
+"RL",6,1976,1976,"TA","TA","TA","TA","WD ","Normal",155000
+"RL",7,1978,1978,"TA","TA","TA","TA","WD ","Normal",142500
+"RL",5,1966,1966,"TA","TA","TA","TA","WD ","Normal",129250
+"RL",9,2006,2007,"Ex","TA","TA","TA","New","Partial",356000
+"RL",9,2007,2007,"Ex","TA","TA","TA","New","Partial",314813
+"RL",8,2007,2007,"Ex","TA","TA","TA","New","Partial",318000
+"RL",8,2006,2007,"Gd","TA","TA","TA","New","Partial",322400
+"RL",8,2007,2007,"Gd","TA","TA","TA","New","Partial",318000
+"RL",8,2007,2007,"Gd","TA","TA","TA","New","Partial",345474
+"RL",9,2006,2007,"Ex","TA","TA","TA","New","Partial",415298
+"RL",9,2007,2007,"Ex","TA","TA","TA","New","Partial",492000
+"RL",8,2006,2007,"Gd","TA","TA","TA","New","Partial",338931
+"RL",10,2005,2006,"Ex","TA","TA","TA","WD ","Normal",450000
+"RL",7,2006,2006,"Gd","TA","TA","TA","New","Partial",280000
+"RL",9,2007,2007,"Ex","TA","TA","TA","New","Partial",479069
+"RL",8,2006,2006,"Gd","TA","TA","TA","New","Partial",395000
+"RL",9,2006,2006,"Ex","TA","TA","TA","WD ","Normal",380000
+"RL",8,2006,2006,"Gd","TA","TA","TA","WD ","Normal",250000
+"RL",8,2006,2007,"Gd","TA","TA","TA","New","Partial",440000
+"RL",9,2005,2006,"Gd","TA","TA","TA","WD ","Normal",418000
+"RL",10,2007,2007,"Ex","TA","TA","TA","New","Partial",500067
+"RL",8,2007,2008,"Gd","TA","TA","TA","New","Partial",260116
+"RL",8,2004,2005,"Gd","TA","TA","TA","WD ","Normal",317000
+"RL",8,2007,2007,"Ex","TA","TA","TA","New","Partial",319500
+"RL",8,2007,2007,"Gd","TA","TA","TA","New","Partial",325624
+"RL",9,2006,2006,"Ex","TA","TA","TA","WD ","Normal",372000
+"RL",8,2004,2004,"Gd","TA","TA","TA","WD ","Normal",342000
+"RL",8,2004,2004,"Gd","TA","TA","TA","WD ","Normal",354000
+"RL",8,2003,2003,"Gd","TA","TA","TA","WD ","Normal",350000
+"RL",8,2003,2004,"Gd","TA","TA","TA","WD ","Normal",285000
+"RL",8,2007,2007,"Gd","TA","TA","TA","New","Partial",281500
+"RL",7,2005,2006,"Gd","TA","TA","TA","WD ","Normal",245700
+"RL",8,2005,2005,"Gd","TA","TA","TA","WD ","Normal",232698
+"RL",8,2006,2007,"Gd","TA","TA","TA","New","Partial",250000
+"RL",6,2005,2006,"Gd","TA","TA","TA","WD ","Normal",194700
+"RL",6,2005,2006,"Gd","TA","TA","TA","New","Partial",204000
+"RL",6,2005,2006,"Gd","TA","TA","TA","WD ","Normal",200000
+"RL",6,2005,2006,"Gd","TA","TA","TA","WD ","Normal",207000
+"RL",8,2006,2006,"Gd","TA","TA","TA","WD ","Normal",209500
+"RL",8,2006,2006,"Gd","TA","TA","TA","CWD","Normal",209500
+"RL",8,2006,2006,"Gd","TA","TA","TA","WD ","Normal",202500
+"RL",9,2005,2005,"Ex","TA","TA","TA","WD ","Normal",280000
+"RL",9,2005,2005,"Ex","TA","TA","TA","WD ","Normal",277500
+"RL",9,2007,2007,"Ex","TA","TA","TA","New","Partial",318061
+"RL",8,2006,2006,"Gd","TA","TA","TA","New","Partial",221370
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",200000
+"RL",6,2007,2007,"Gd","TA","TA","TA","New","Partial",181755
+"RL",6,2005,2006,"Gd","TA","TA","TA","WD ","Normal",176000
+"RL",6,2005,2007,"Gd","TA","TA","TA","New","Partial",178900
+"RL",7,2006,2007,"TA","TA","TA","TA","New","Partial",168165
+"RL",6,2006,2006,"Gd","TA","TA","TA","New","Partial",171925
+"RL",6,2006,2007,"Gd","TA","TA","TA","New","Partial",198444
+"RL",6,2005,2005,"TA","TA","TA","TA","WD ","Normal",203000
+"RL",7,2007,2007,"Gd","TA","TA","TA","New","Partial",179540
+"RL",7,2007,2007,"Gd","TA","TA","TA","New","Partial",176485
+"RL",7,2007,2007,"Gd","TA","TA","TA","New","Partial",181134
+"RL",6,2006,2007,"TA","TA","TA","TA","New","Partial",156932
+"RL",6,2007,2007,"Gd","TA","TA","TA","New","Partial",166000
+"RL",7,2007,2007,"Gd","TA","TA","TA","New","Partial",177594
+"RL",7,2007,2007,"Gd","TA","TA","TA","New","Partial",173500
+"RL",7,2006,2007,"Gd","TA","TA","TA","New","Partial",172500
+"RL",7,2006,2007,"Gd","TA","TA","TA","New","Partial",194201
+"RL",8,2003,2003,"Gd","TA","TA","TA","WD ","Normal",226500
+"RL",7,2007,2007,"Gd","TA","TA","TA","New","Partial",185485
+"RL",7,2004,2004,"Gd","TA","TA","TA","WD ","Family",259000
+"RL",7,2004,2005,"Gd","TA","TA","TA","WD ","Normal",188500
+"RL",7,2004,2004,"Gd","TA","TA","TA","WD ","Family",175000
+"RL",7,2004,2005,"Gd","TA","TA","TA","WD ","Normal",215000
+"RL",7,2006,2006,"Gd","TA","TA","TA","New","Partial",206580
+"RL",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",183500
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",165500
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",211000
+"RL",6,2000,2000,"TA","TA","TA","TA","WD ","Abnorml",181000
+"RL",7,2002,2002,"Gd","TA","TA","TA","WD ","Normal",219500
+"RL",6,1999,2000,"TA","TA","TA","TA","WD ","Normal",175000
+"RL",7,2000,2000,"TA","TA","TA","TA","WD ","Normal",170000
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",162000
+"RL",6,2000,2000,"TA","TA","TA","TA","WD ","Normal",187000
+"RL",6,1999,2000,"TA","TA","TA","TA","WD ","Normal",185000
+"RL",10,1996,1996,"Gd","TA","TA","TA","WD ","Abnorml",745000
+"RL",8,1997,1998,"Gd","TA","TA","TA","WD ","Normal",384500
+"RL",8,2000,2000,"Gd","TA","TA","TA","WD ","Normal",248000
+"RL",10,2001,2002,"Ex","TA","TA","TA","WD ","Normal",466500
+"RL",9,1998,1998,"Gd","TA","TA","TA","WD ","Normal",410000
+"RL",8,1998,1999,"Gd","TA","TA","TA","WD ","Normal",322500
+"RL",7,1998,1998,"Gd","TA","TA","TA","WD ","Normal",252000
+"RL",10,1994,1995,"Ex","TA","TA","TA","WD ","Normal",755000
+"RL",7,1996,1997,"Gd","TA","TA","TA","WD ","Normal",269790
+"RL",7,1996,1997,"Gd","TA","TA","TA","WD ","Normal",315750
+"RL",7,1995,1995,"Gd","TA","TA","TA","WD ","Abnorml",290000
+"RL",8,1995,1995,"Gd","TA","TA","TA","WD ","Normal",290000
+"RL",8,1992,1993,"Gd","TA","TA","TA","WD ","Normal",430000
+"RL",8,1992,1993,"Gd","TA","TA","TA","WD ","Normal",263000
+"RL",8,1996,1997,"Gd","Gd","TA","TA","WD ","Normal",330000
+"RL",7,2007,2007,"Gd","TA","TA","TA","New","Partial",213133
+"RL",8,2007,2007,"Gd","TA","TA","TA","New","Partial",260261
+"RL",9,2006,2006,"Ex","TA","TA","TA","WD ","Normal",320000
+"RL",8,2007,2007,"Gd","TA","TA","TA","WD ","Normal",282922
+"RL",8,2006,2006,"Gd","TA","TA","TA","WD ","Family",215000
+"RL",10,2007,2007,"Ex","TA","TA","TA","New","Partial",419005
+"RL",8,2006,2006,"Gd","TA","TA","TA","WD ","Normal",255000
+"RL",8,2006,2007,"Gd","TA","TA","TA","New","Partial",147000
+"RL",7,2007,2007,"Gd","TA","TA","TA","New","Partial",235876
+"RL",7,2007,2007,"Ex","TA","TA","TA","New","Partial",311872
+"RL",7,2007,2007,"Gd","TA","TA","TA","New","Partial",248328
+"RL",8,2006,2006,"Gd","TA","TA","TA","WD ","Normal",227000
+"RL",8,2005,2005,"Gd","TA","TA","TA","WD ","Normal",260000
+"RL",8,2007,2007,"Gd","TA","TA","TA","New","Partial",225000
+"RL",7,2005,2006,"Gd","TA","TA","TA","WD ","Normal",249000
+"RL",8,2004,2005,"Gd","TA","TA","TA","WD ","Normal",307000
+"RL",7,2006,2006,"Gd","TA","TA","TA","WD ","Family",250000
+"RL",8,2006,2006,"Gd","TA","TA","TA","WD ","Normal",221300
+"FV",8,2007,2007,"Gd","TA","TA","TA","New","Partial",208900
+"FV",7,2006,2007,"Gd","TA","TA","TA","New","Partial",210400
+"FV",8,2007,2007,"Gd","TA","TA","TA","New","Partial",255000
+"FV",5,2007,2007,"Gd","TA","TA","TA","New","Partial",212109
+"FV",8,2006,2006,"Gd","TA","TA","TA","WD ","Normal",270000
+"FV",8,2007,2007,"Gd","TA","TA","TA","New","Partial",303477
+"FV",8,2007,2007,"Gd","TA","TA","TA","New","Partial",310013
+"FV",8,2006,2006,"Gd","TA","TA","TA","WD ","Normal",249700
+"FV",7,2007,2007,"Gd","TA","TA","TA","New","Partial",227875
+"FV",8,2007,2007,"Ex","TA","TA","TA","New","Partial",261329
+"FV",8,2006,2006,"Gd","TA","TA","TA","WD ","Normal",253000
+"FV",6,2004,2004,"Gd","TA","TA","TA","WD ","Normal",265000
+"FV",8,2004,2005,"Gd","TA","TA","TA","WD ","Normal",340000
+"RL",6,2006,2007,"TA","TA",NA,NA,"New","Partial",146000
+"RL",7,2006,2006,"Gd","TA",NA,NA,"WD ","Normal",147000
+"RL",5,2003,2004,"Gd","TA","TA","TA","WD ","Normal",149000
+"RL",7,2006,2006,"Gd","TA","TA","TA","WD ","Normal",181000
+"RL",6,1994,1994,"Gd","Gd","TA","TA","WD ","Normal",201000
+"RL",6,1993,1997,"Gd","TA","TA","TA","WD ","Normal",191750
+"RL",7,2000,2001,"TA","TA","TA","TA","WD ","Normal",179000
+"RL",7,1998,1998,"Gd","TA","TA","TA","WD ","Normal",215000
+"RL",6,1992,1992,"Gd","TA","TA","TA","WD ","Normal",179200
+"RL",6,1980,1980,"TA","TA","TA","TA","WD ","Normal",128000
+"RL",5,1983,1983,"TA","TA","TA","Gd","WD ","Normal",144000
+"RH",5,1977,1977,"TA","TA","TA","TA","WD ","Normal",144000
+"RL",5,1977,1977,"TA","TA","TA","TA","WD ","Normal",120750
+"RL",5,1963,1963,"TA","TA","TA","TA","WD ","Normal",132500
+"RL",5,1962,1962,"TA","TA","TA","TA","WD ","Normal",132000
+"RL",5,1962,2001,"TA","Gd","TA","TA","WD ","Normal",132500
+"RL",4,1961,1961,"TA","TA","TA","TA","WD ","Normal",129000
+"RL",5,1962,1962,"TA","Gd","TA","TA","WD ","Normal",143900
+"RL",5,1968,1968,"TA","TA","TA","TA","WD ","Normal",145000
+"RL",5,1961,1961,"TA","TA","TA","TA","WD ","Normal",128500
+"RL",5,1967,1967,"TA","TA","TA","TA","WD ","Normal",125500
+"RL",7,1990,1990,"Gd","TA","TA","TA","WD ","Normal",300000
+"RL",7,1974,2003,"Gd","TA","TA","TA","WD ","Normal",294000
+"RL",5,1974,1974,"TA","TA","TA","TA","WD ","Normal",129000
+"RL",5,1975,1981,"TA","TA","TA","TA","WD ","Normal",171000
+"RL",6,1973,2006,"TA","TA","TA","TA","WD ","Abnorml",147000
+"RL",8,1990,1990,"Gd","TA","Gd","Gd","WD ","Normal",302000
+"RL",8,1992,2000,"Gd","TA","TA","TA","WD ","Normal",285000
+"FV",8,2004,2004,"Gd","TA","TA","TA","WD ","Normal",214000
+"FV",8,2006,2007,"Gd","TA","TA","TA","New","Partial",166000
+"FV",8,2006,2007,"Gd","TA","TA","TA","New","Partial",193800
+"FV",7,2006,2007,"Gd","TA","TA","TA","New","Partial",208900
+"FV",7,2006,2007,"Gd","TA","TA","TA","New","Partial",194000
+"FV",8,2006,2007,"Gd","TA","TA","TA","New","Partial",207500
+"FV",7,2006,2007,"Gd","TA","TA","TA","New","Partial",199900
+"FV",7,2006,2007,"Gd","TA","TA","TA","New","Partial",164700
+"FV",6,1999,1999,"TA","TA","TA","TA","WD ","Normal",176500
+"FV",6,1999,1999,"TA","TA","TA","TA","WD ","Normal",176000
+"FV",6,2000,2000,"Gd","TA","TA","TA","WD ","Normal",168500
+"FV",6,2000,2000,"Gd","TA","TA","TA","WD ","Normal",177000
+"FV",6,2000,2000,"Gd","TA","TA","TA","WD ","Normal",177000
+"FV",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",148800
+"FV",8,1999,2000,"Gd","TA","TA","TA","WD ","Normal",174000
+"FV",7,1997,1998,"Gd","TA","TA","TA","WD ","Normal",239000
+"FV",7,1999,2000,"Gd","TA","TA","TA","COD","Normal",204000
+"FV",8,2003,2004,"Gd","TA","TA","TA","WD ","Normal",301000
+"FV",8,1998,1998,"Gd","Gd","Gd","TA","WD ","Normal",312500
+"RL",8,1994,1995,"Gd","TA","TA","TA","WD ","Normal",279700
+"RL",7,1980,1980,"Gd","TA","Gd","TA","WD ","Normal",255000
+"RL",5,1978,1978,"TA","TA","TA","TA","WD ","Normal",194000
+"RL",5,1976,2004,"Gd","Gd","TA","TA","WD ","Normal",218000
+"RL",8,1978,1998,"Gd","TA","TA","TA","WD ","Normal",213750
+"RL",6,1976,1994,"Gd","Gd","TA","TA","WD ","Normal",187000
+"RL",6,1976,1976,"TA","TA","TA","TA","WD ","Normal",181500
+"RL",8,1981,1981,"Gd","TA","TA","TA","WD ","Normal",373000
+"RL",5,1977,1977,"TA","TA","TA","TA","WD ","Normal",190000
+"FV",7,2001,2001,"Gd","TA","TA","TA","WD ","Normal",226000
+"RL",6,1968,1968,"TA","TA","TA","TA","CWD","Normal",143450
+"RL",6,1970,1970,"TA","TA","TA","TA","WD ","Normal",240050
+"RL",6,1969,1969,"TA","TA","TA","TA","WD ","Normal",162500
+"RL",6,1968,1968,"TA","TA","TA","TA","WD ","Normal",164000
+"RL",7,1972,1987,"TA","TA","TA","TA","WD ","Normal",185000
+"RL",7,1993,1993,"TA","TA","TA","TA","WD ","Normal",188500
+"RL",7,1993,1993,"Gd","TA","TA","TA","WD ","Normal",255000
+"RL",5,1976,1976,"TA","TA","TA","TA","WD ","Normal",136905
+"RL",6,1966,1966,"TA","TA","TA","TA","WD ","Normal",158500
+"RL",7,1973,1973,"TA","TA","TA","TA","WD ","Normal",175500
+"RL",6,1963,1963,"TA","TA","TA","TA","COD","Normal",127000
+"RL",5,1967,1993,"TA","TA","TA","TA","WD ","Normal",127000
+"RL",5,1967,1967,"TA","TA","TA","TA","WD ","Normal",143000
+"RL",5,1965,1965,"TA","TA","TA","TA","WD ","Normal",156000
+"RL",5,1958,1983,"TA","TA","TA","TA","WD ","Normal",144000
+"RL",5,1964,1964,"TA","TA","TA","TA","WD ","Normal",119000
+"RL",4,1964,1964,"TA","TA","TA","TA","WD ","Normal",103000
+"RL",5,1960,1978,"TA","TA","TA","TA","WD ","Normal",139900
+"RL",6,1960,1998,"TA","Gd","TA","TA","WD ","Normal",151500
+"RL",5,1960,1960,"TA","TA","TA","TA","COD","Normal",126500
+"RL",6,1958,1958,"TA","Gd","TA","TA","WD ","Normal",145000
+"RL",5,1958,1985,"TA","TA","TA","TA","WD ","Normal",120000
+"RL",5,1956,1956,"TA","TA","TA","TA","WD ","Normal",124000
+"RL",5,1959,1959,"TA","TA","TA","TA","WD ","Normal",106500
+"RL",5,1961,1961,"TA","TA","TA","TA","CWD","Normal",140500
+"RL",5,1961,1961,"TA","Gd","TA","TA","WD ","Normal",137500
+"RL",5,1960,1960,"TA","TA","TA","TA","WD ","Normal",117600
+"RL",7,1966,1966,"TA","TA","TA","TA","CWD","Normal",163500
+"RL",6,1965,1965,"TA","TA","TA","TA","WD ","Normal",161000
+"RL",6,1964,1991,"TA","TA","TA","TA","CWD","Normal",158000
+"RL",6,1964,1997,"TA","Gd","TA","TA","WD ","Normal",224500
+"RL",6,1964,1964,"TA","TA","TA","TA","WD ","Normal",147000
+"RL",6,1959,1991,"TA","Gd","TA","TA","WD ","Normal",200000
+"RL",6,1960,1987,"TA","TA","TA","TA","WD ","Normal",181900
+"RL",5,1959,2002,"TA","TA","TA","TA","WD ","Normal",150750
+"RL",4,1962,1962,"TA","TA","TA","TA","WD ","Normal",101800
+"RL",6,1950,1950,"TA","TA","TA","TA","WD ","Normal",124000
+"RL",5,1940,1996,"TA","TA","TA","TA","WD ","Normal",138500
+"RL",1,1946,1950,"Fa","Fa",NA,NA,"WD ","Normal",39300
+"RL",3,1946,1950,"Fa","Fa",NA,NA,"WD ","Normal",64500
+"RL",3,1945,1950,"TA","TA",NA,NA,"WD ","Normal",64000
+"RL",5,1958,2000,"TA","TA","TA","TA","COD","Normal",112000
+"RL",6,1964,1978,"TA","TA","TA","TA","WD ","Normal",165000
+"RL",5,1955,1955,"TA","Gd","TA","TA","WD ","Normal",144000
+"RL",5,1948,1950,"TA","TA","TA","Fa","WD ","Normal",137000
+"RL",5,1941,1950,"TA","TA","TA","TA","WD ","Normal",105000
+"RL",5,1942,1995,"TA","TA","TA","TA","WD ","Normal",146500
+"RL",5,1968,1968,"TA","TA","TA","TA","WD ","Normal",126000
+"RL",5,1966,1966,"TA","TA","TA","TA","WD ","Normal",175000
+"RL",6,1961,1961,"TA","TA","TA","TA","WD ","Normal",158500
+"RL",5,1958,1958,"TA","TA","TA","TA","COD","Normal",114500
+"RL",5,1958,1958,"TA","TA","TA","TA","WD ","Normal",144000
+"RL",6,1965,1979,"TA","Gd","TA","TA","WD ","Abnorml",129000
+"RL",6,1957,1999,"TA","TA","TA","TA","WD ","Normal",141000
+"RL",5,1956,1956,"TA","TA","TA","TA","WD ","Normal",131000
+"RL",5,1963,1963,"TA","TA","TA","TA","WD ","Normal",142100
+"RL",5,1958,1992,"TA","TA","TA","TA","WD ","Normal",139000
+"RL",6,1958,1958,"TA","TA","TA","TA","COD","Normal",157900
+"RL",5,1954,2005,"TA","TA","TA","TA","WD ","Normal",139400
+"RL",6,1957,1957,"TA","TA","TA","TA","WD ","Normal",150000
+"RL",5,1960,1960,"TA","TA","TA","TA","WD ","Normal",120000
+"RL",6,1957,1969,"TA","TA","TA","TA","WD ","Normal",174850
+"RL",5,1957,1957,"TA","TA","TA","TA","WD ","Normal",116000
+"RL",5,1956,1956,"TA","TA","TA","TA","WD ","Normal",135000
+"RL",6,1970,1970,"TA","TA","TA","TA","WD ","Normal",163500
+"RL",5,1955,1975,"TA","TA","TA","TA","COD","Normal",130000
+"RL",5,1955,1955,"TA","TA","TA","TA","WD ","Normal",129500
+"RL",5,1953,2006,"TA","Ex","TA","TA","WD ","Normal",142000
+"RL",5,1958,1958,"TA","TA","TA","TA","WD ","Normal",128600
+"RL",6,1952,1952,"TA","TA","TA","TA","WD ","Normal",125000
+"RL",6,1953,1953,"TA","TA","TA","TA","WD ","Normal",136000
+"RL",5,1953,2006,"TA","TA","TA","TA","WD ","Normal",134500
+"RL",5,1956,2003,"TA","Gd","TA","TA","WD ","Normal",127000
+"RL",5,1955,1955,"TA","TA","TA","TA","WD ","Normal",130000
+"RL",4,1955,1955,"TA","TA","TA","TA","WD ","Normal",115000
+"RL",5,1955,1955,"TA","Gd","TA","TA","WD ","Normal",116900
+"RL",5,1956,2000,"TA","TA","TA","TA","WD ","Normal",132000
+"RL",4,1953,1953,"TA","TA","TA","TA","WD ","Normal",153000
+"RL",5,1952,1952,"TA","TA","TA","TA","WD ","Normal",112500
+"RL",4,1890,2006,"Gd","Gd",NA,NA,"WD ","Normal",138000
+"RL",5,1949,2003,"TA","TA","TA","TA","WD ","Normal",135000
+"RL",5,1953,2004,"TA","TA","TA","TA","WD ","Normal",156000
+"RL",5,1935,2007,"TA","TA","TA","TA","WD ","Family",301600
+"RL",5,1940,1950,"TA","TA","TA","TA","WD ","Normal",109000
+"RL",4,1956,1956,"TA","TA",NA,NA,"WD ","Normal",103200
+"RL",4,1925,1993,"TA","TA","TA","TA","WD ","Abnorml",128500
+"RL",4,1927,2007,"TA","TA","Fa","Fa","WD ","Normal",64500
+"RL",5,1895,1999,"TA","Gd",NA,NA,"WD ","Normal",148000
+"RL",5,1920,1950,"TA","TA","Fa","TA","WD ","Abnorml",86000
+"RL",7,1963,1999,"TA","TA","TA","TA","WD ","Normal",172000
+"RL",5,1961,1961,"TA","TA","TA","TA","COD","Abnorml",120000
+"RL",6,1968,1968,"TA","TA","TA","TA","WD ","Normal",128500
+"RL",5,1969,1969,"TA","TA","TA","TA","WD ","Family",135000
+"RL",5,1949,2006,"TA","Gd","TA","TA","WD ","Normal",122900
+"RL",6,1948,1950,"TA","TA","TA","TA","WD ","Normal",119200
+"RL",6,1949,1950,"TA","TA","TA","TA","WD ","Normal",143000
+"RL",5,1950,1950,"TA","TA","TA","TA","WD ","Normal",119000
+"RL",5,1950,1950,"TA","TA","TA","TA","WD ","Normal",102000
+"RL",5,1950,2002,"TA","TA","TA","TA","WD ","Normal",129000
+"RL",5,1960,2002,"TA","TA","TA","TA","WD ","Family",135000
+"RL",5,1959,2003,"TA","TA","TA","TA","WD ","Normal",152000
+"RL",5,1958,1958,"TA","TA","TA","TA","WD ","Normal",140000
+"RL",5,1960,1960,"TA","TA","TA","TA","WD ","Family",152000
+"RL",5,1960,1960,"TA","TA","TA","TA","WD ","Normal",156500
+"RL",5,1961,1961,"TA","TA",NA,NA,"WD ","Normal",141000
+"RL",5,1961,1961,"TA","TA","TA","TA","WD ","Normal",99000
+"RL",6,1964,1993,"TA","TA","TA","TA","WD ","Normal",187000
+"RL",5,1962,1962,"TA","TA","TA","TA","WD ","Normal",169500
+"RL",5,1962,1962,"TA","TA","TA","TA","WD ","Normal",125500
+"RL",5,1962,1962,"TA","TA","TA","TA","WD ","Normal",130000
+"RM",5,1926,1980,"Gd","Gd","TA","TA","WD ","Normal",103000
+"RM",5,1910,2002,"TA","Gd","TA","Gd","WD ","Abnorml",132000
+"RM",6,1927,1950,"TA","TA","TA","TA","WD ","Normal",127500
+"RM",5,1922,1950,"TA","TA","TA","Fa","WD ","Normal",89500
+"RM",5,1980,1980,"TA","TA","TA","TA","WD ","Normal",140000
+"RM",5,1920,1990,"TA","TA","Fa","TA","WD ","Normal",99900
+"RM",4,1885,1995,"TA","TA","Fa","Fa","WD ","Normal",100000
+"RM",5,1940,1950,"TA","TA","TA","TA","WD ","Normal",130000
+"RM",5,1900,2006,"TA","TA","TA","TA","WD ","Normal",135000
+"RM",3,1948,2002,"TA","Gd","TA","TA","WD ","Normal",120000
+"RM",4,1937,2000,"TA","TA","TA","TA","WD ","Alloca",89471
+"RM",4,1900,1950,"TA","TA","Fa","Fa","ConLw","Normal",85000
+"RM",4,1920,1950,"TA","TA","TA","TA","WD ","Normal",108500
+"RM",4,1900,1950,"TA","TA","TA","TA","WD ","Normal",137000
+"RM",5,1945,1997,"TA","Gd",NA,NA,"WD ","Normal",110500
+"RM",5,1923,2006,"Gd","TA","Fa","TA","WD ","Normal",100000
+"RM",8,1910,1999,"Gd","Gd","TA","TA","WD ","Normal",184900
+"RM",6,1927,1950,"TA","TA","TA","TA","WD ","Abnorml",145000
+"RM",5,1925,1994,"TA","TA","TA","Fa","WD ","Normal",125000
+"RM",5,1910,1950,"TA","TA","Fa","Fa","WD ","Normal",114000
+"RM",5,1900,1950,"TA","TA","TA","TA","WD ","Normal",90000
+"RM",6,1910,1990,"TA","TA","TA","TA","WD ","Normal",144100
+"RM",6,1880,1950,"TA","TA","Fa","TA","WD ","Normal",117500
+"RM",5,1930,2005,"TA","Gd","TA","TA","WD ","Partial",124500
+"RM",7,1879,1987,"TA","Gd","TA","TA","WD ","Normal",185000
+"C (all)",6,1910,1998,"TA","TA","TA","TA","WD ","Normal",133900
+"RM",6,1926,2004,"TA","Gd","TA","TA","WD ","Normal",152000
+"RM",5,1948,1973,"TA","TA","TA","TA","COD","Normal",153500
+"RM",7,1890,1998,"TA","Gd","TA","TA","WD ","Normal",159500
+"RM",5,1930,1950,"TA","TA","Fa","Fa","WD ","Normal",87000
+"RM",4,1956,1956,"TA","TA","Fa","TA","WD ","Normal",104500
+"RM",4,1949,2002,"TA","TA","TA","TA","WD ","Normal",110000
+"RL",5,1925,1994,"TA","Gd","Fa","TA","WD ","Normal",136500
+"RM",5,1950,1950,"TA","TA","TA","TA","WD ","Normal",128250
+"RL",5,1920,1950,"TA","Fa","TA","TA","WD ","Normal",144000
+"RL",6,1923,1950,"TA","TA","TA","TA","WD ","Normal",210000
+"RM",5,1939,1998,"TA","Gd","Fa","TA","CWD","Normal",135000
+"RM",6,1939,1950,"TA","TA","TA","TA","WD ","Normal",128000
+"RM",6,1941,1950,"TA","Gd","TA","TA","WD ","Normal",131000
+"RM",5,1939,1950,"Gd","TA","TA","TA","WD ","Normal",113000
+"RM",6,1938,1950,"TA","TA","TA","TA","WD ","Normal",126000
+"RM",5,1939,1952,"TA","Gd","TA","TA","WD ","Normal",132000
+"RM",5,1930,1992,"TA","TA","Fa","TA","WD ","Normal",131750
+"RM",5,1926,1950,"TA","TA","TA","TA","WD ","Normal",132500
+"RM",5,1920,2004,"TA","TA","Fa","Fa","WD ","Normal",137500
+"RM",7,1929,2001,"TA","TA","TA","TA","WD ","Normal",132000
+"RM",6,1931,1950,"TA","TA","TA","TA","WD ","Normal",127500
+"RM",6,1926,1950,"TA","TA","TA","TA","WD ","Normal",102000
+"RM",6,1918,1995,"TA","Gd","TA","TA","WD ","Normal",200000
+"RL",6,1919,1950,"TA","TA","TA","TA","WD ","Normal",180500
+"RL",6,1920,1950,"TA","Gd","TA","TA","WD ","Normal",165000
+"RL",5,1926,1950,"TA","TA","TA","TA","ConLw","Family",90000
+"RL",6,1915,2003,"TA","TA","TA","TA","WD ","Normal",153575
+"RM",7,1929,1990,"TA","TA","TA","TA","WD ","Normal",140000
+"RM",6,1916,1950,"TA","Gd","TA","TA","CWD","Family",136000
+"RM",5,1901,1950,"TA","TA","TA","Fa","WD ","AdjLand",113000
+"RM",5,1901,1950,"TA","TA","TA","TA","WD ","AdjLand",117000
+"RM",7,1931,1950,"TA","Fa","TA","TA","WD ","Normal",169500
+"RM",7,1930,1950,"TA","TA","TA","TA","WD ","Normal",139400
+"RM",6,1963,1963,"TA","TA","TA","TA","WD ","Normal",202500
+"RM",6,1914,2006,"TA","TA",NA,NA,"WD ","Normal",127000
+"RM",6,1937,1950,"TA","Gd","TA","TA","WD ","Normal",141000
+"RM",7,1950,2005,"TA","Ex","TA","TA","WD ","Normal",212300
+"RM",6,1915,1950,"TA","TA","TA","TA","WD ","Normal",161000
+"RM",4,1958,1958,"TA","TA","TA","TA","COD","Abnorml",99500
+"RM",5,1920,1996,"TA","TA","TA","TA","WD ","Normal",101000
+"RM",4,1916,1990,"TA","TA","TA","TA","WD ","Normal",109900
+"RM",5,1941,1950,"TA","TA","TA","TA","WD ","Normal",128500
+"RM",7,1910,1950,"Fa","TA","TA","TA","WD ","Normal",122000
+"RM",5,1930,1950,"TA","Gd",NA,NA,"WD ","Normal",87000
+"RM",4,1910,1950,"Fa","Fa","TA","Fa","COD","Abnorml",50000
+"RL",7,1937,1980,"TA","Gd","TA","TA","WD ","Normal",219000
+"RL",5,1946,1994,"TA","TA",NA,NA,"WD ","Normal",200500
+"RL",5,1940,1950,"TA","TA","TA","TA","WD ","AdjLand",126000
+"RL",5,1942,1979,"TA","TA","TA","TA","WD ","Normal",108500
+"RL",5,1963,1963,"TA","TA","TA","TA","WD ","Normal",130000
+"RL",5,1964,1980,"TA","TA","TA","TA","WD ","Normal",158450
+"RL",4,1964,1964,"TA","TA","TA","TA","WD ","Normal",115400
+"RL",4,1961,1961,"TA","Fa","TA","TA","WD ","Normal",118500
+"RL",5,1964,2001,"Gd","Gd","TA","TA","WD ","Normal",165000
+"RL",5,1966,1966,"TA","TA","TA","TA","WD ","Normal",123000
+"RL",6,1966,1966,"TA","TA","TA","TA","WD ","Normal",129000
+"RL",5,1966,1966,"TA","TA","TA","TA","WD ","Normal",125000
+"RL",5,1968,1968,"TA","TA","TA","TA","WD ","Family",108000
+"RL",5,1971,1990,"TA","TA","TA","TA","WD ","Normal",119900
+"RL",5,1968,1968,"TA","TA","TA","TA","WD ","Normal",115000
+"RL",5,1967,1967,"TA","Gd","TA","TA","WD ","Normal",134500
+"RL",5,1966,1966,"TA","TA","TA","TA","WD ","Normal",127000
+"RL",5,1968,1968,"TA","TA","TA","TA","WD ","Normal",129000
+"RL",6,1977,1977,"TA","TA","TA","TA","WD ","Normal",143500
+"RL",5,1966,1966,"TA","Gd","TA","TA","WD ","Normal",129000
+"RL",5,1956,1998,"TA","TA","TA","TA","WD ","Normal",187000
+"RL",5,1920,1996,"TA","Fa","TA","TA","WD ","Normal",158000
+"RL",5,1918,2007,"TA","Gd","TA","TA","WD ","Normal",112000
+"RL",7,1940,1998,"TA","TA","TA","TA","WD ","Normal",165250
+"RL",6,1954,1995,"TA","TA","TA","TA","WD ","Normal",150000
+"RL",5,1958,1998,"TA","TA","TA","TA","VWD","Normal",137000
+"RL",4,1945,1950,"Fa","TA","Fa","TA","WD ","Normal",89500
+"RL",7,1971,2002,"TA","TA","TA","TA","WD ","Normal",302000
+"RL",6,1984,1984,"TA","TA","TA","TA","WD ","Normal",182000
+"RL",6,1988,1989,"Gd","TA","TA","TA","WD ","Normal",211000
+"RL",5,1948,2005,"TA","Gd","TA","TA","WD ","Normal",216000
+"RL",5,1953,1953,"TA","TA","TA","TA","COD","Normal",130000
+"RL",4,1946,1950,"TA","TA","TA","TA","WD ","Normal",109900
+"RL",6,1954,1994,"TA","Gd","TA","TA","WD ","Normal",255000
+"RL",6,1950,2001,"TA","TA","TA","TA","WD ","Normal",243000
+"RL",6,1954,1954,"TA","TA","TA","TA","WD ","Normal",154000
+"RL",5,1958,1958,"TA","TA","TA","TA","WD ","Normal",118000
+"RL",4,1958,1994,"TA","TA","TA","TA","WD ","Normal",80000
+"RL",4,1977,1977,"TA","TA",NA,NA,"Oth","Abnorml",150000
+"RL",4,1920,2002,"TA","TA",NA,NA,"WD ","Normal",86000
+"RL",5,1984,1984,"Gd","Ex","TA","TA","WD ","Normal",130000
+"RL",5,1951,1951,"TA","TA","TA","TA","WD ","Normal",125000
+"RL",5,1951,1994,"TA","TA","TA","TA","WD ","Normal",136500
+"RL",4,1920,1950,"Fa","Fa","Fa","TA","WD ","Normal",96000
+"RL",5,1957,2006,"TA","TA","TA","TA","WD ","Normal",120000
+"RL",6,1984,1984,"TA","TA","TA","TA","WD ","Normal",228500
+"RL",7,1990,1991,"Gd","TA","TA","TA","WD ","Normal",179900
+"RL",7,1990,1991,"Gd","TA","TA","TA","WD ","Normal",225000
+"RL",7,1986,1987,"Gd","TA","TA","TA","WD ","Normal",301000
+"RL",7,1991,1991,"Gd","TA","TA","TA","WD ","Normal",238000
+"RL",7,1989,1989,"Gd","TA","TA","TA","WD ","Normal",228500
+"RL",7,1994,2001,"Gd","Gd","TA","TA","CWD","Normal",220000
+"RL",7,2007,2007,"Gd","TA","TA","TA","New","Partial",383970
+"RL",8,2006,2007,"Gd","TA","TA","TA","New","Partial",424870
+"RL",8,2007,2007,"Gd","TA","TA","TA","New","Partial",250000
+"RL",8,2006,2007,"Gd","TA","TA","TA","New","Partial",360000
+"RL",7,2006,2007,"Gd","TA","TA","TA","New","Partial",279500
+"RL",7,2007,2007,"Gd","TA","TA","TA","New","Partial",200141
+"RL",8,2007,2007,"Gd","TA","TA","TA","New","Partial",246500
+"RL",8,2007,2007,"Gd","TA","TA","TA","New","Partial",276000
+"RL",7,2005,2007,"Gd","TA","TA","TA","New","Partial",203000
+"RL",7,2006,2006,"Gd","TA","TA","TA","New","Partial",155835
+"RL",7,2006,2006,"Gd","TA","TA","TA","WD ","Normal",194000
+"RL",7,2007,2007,"Gd","TA","TA","TA","New","Partial",195400
+"RL",7,2005,2006,"Gd","TA","TA","TA","WD ","Normal",217000
+"RL",8,2006,2006,"Gd","TA","TA","TA","WD ","Normal",212999
+"RL",7,2005,2006,"Gd","TA","TA","TA","WD ","Normal",175900
+"RL",7,2005,2006,"Gd","TA","TA","TA","WD ","Normal",191000
+"RL",6,2006,2006,"Gd","TA","TA","TA","WD ","Normal",176432
+"RL",7,1988,1989,"Gd","TA","TA","TA","WD ","Normal",277000
+"RL",7,1988,1988,"Gd","TA","TA","TA","WD ","Normal",207000
+"RL",6,1958,2006,"Gd","TA","TA","TA","WD ","Normal",277000
+"RL",6,1992,1992,"Gd","TA","TA","TA","WD ","Normal",240000
+"RL",6,1966,2007,"TA","TA","TA","TA","WD ","Normal",187500
+"RL",8,1976,1976,"Gd","TA","TA","TA","WD ","Normal",279000
+"RL",5,1994,1994,"TA","TA","TA","TA","WD ","Normal",139500
+"RL",5,1994,1994,"TA","TA","TA","TA","WD ","Normal",126000
+"RL",6,1995,1995,"Gd","Gd","TA","TA","WD ","Normal",177500
+"RL",6,1997,2006,"TA","Gd","TA","TA","WD ","Normal",175000
+"RL",6,1998,1998,"TA","TA","TA","TA","WD ","Normal",211000
+"RL",5,1994,1994,"TA","Gd","TA","TA","WD ","Normal",146000
+"RL",5,1996,1996,"TA","TA","TA","TA","WD ","Normal",147900
+"RL",4,1994,1995,"TA","TA",NA,NA,"WD ","Normal",123600
+"RL",6,1997,1997,"TA","Gd","TA","TA","WD ","Normal",204750
+"RL",7,1999,1999,"Gd","TA","TA","TA","WD ","Normal",235500
+"RL",7,1998,1999,"Gd","TA","TA","TA","WD ","Normal",217000
+"RL",7,2001,2001,"Gd","TA","TA","TA","WD ","Normal",190550
+"RL",7,2000,2000,"Gd","TA","TA","TA","WD ","Normal",217500
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",226000
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",180000
+"RL",5,1974,1974,"TA","TA","TA","TA","WD ","Family",131000
+"RL",5,1976,1976,"TA","Gd","TA","TA","WD ","Normal",153500
+"RL",5,1977,1977,"TA","TA","TA","TA","WD ","Normal",160000
+"RL",5,1977,1977,"TA","TA","TA","TA","WD ","Normal",134900
+"RL",5,1977,1977,"TA","TA","TA","TA","WD ","Normal",130000
+"RL",5,1975,1975,"TA","TA","TA","TA","Con","Normal",120000
+"RL",5,1972,1972,"TA","TA","TA","TA","WD ","Normal",112500
+"RL",5,1975,1975,"TA","TA","TA","TA","WD ","Normal",122000
+"RL",5,1972,2000,"TA","TA","Gd","Ex","WD ","Normal",127000
+"RL",4,1972,2006,"TA","Gd","TA","TA","WD ","Normal",117000
+"RL",8,2004,2005,"Gd","TA","TA","TA","WD ","Normal",305900
+"RL",8,2002,2002,"Gd","TA","TA","TA","WD ","Normal",228500
+"RL",7,2000,2000,"Gd","TA","TA","TA","WD ","Normal",270000
+"RL",7,2002,2002,"Gd","TA","TA","TA","WD ","Normal",192000
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",213000
+"RL",7,2002,2002,"Gd","TA","TA","TA","WD ","Normal",200000
+"RL",8,1998,1999,"Gd","TA","TA","TA","WD ","Normal",267000
+"RL",8,1994,1995,"Gd","TA","TA","TA","WD ","Normal",228000
+"RL",8,2001,2001,"Gd","TA","TA","TA","WD ","Normal",275000
+"RL",7,1996,2002,"Gd","TA","TA","TA","WD ","Normal",211000
+"RL",9,2002,2002,"Gd","TA","TA","TA","WD ","Normal",285000
+"RL",8,1995,1996,"Gd","TA","TA","TA","WD ","Normal",240000
+"RM",6,2003,2003,"Gd","TA","TA","TA","WD ","Normal",131500
+"RL",8,1999,2000,"Gd","TA","TA","TA","WD ","Normal",246900
+"RL",7,2003,2004,"Gd","TA","TA","TA","WD ","Normal",219500
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",185000
+"RL",7,2007,2007,"Gd","TA","TA","TA","New","Partial",179400
+"RL",7,2006,2006,"Gd","TA","TA","TA","WD ","Normal",213500
+"RL",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",179600
+"RL",7,2005,2005,"Gd","TA","TA","TA","WD ","Normal",173500
+"RL",6,2006,2007,"Gd","TA","TA","TA","New","Partial",167840
+"RL",7,2006,2006,"Gd","TA","TA","TA","WD ","Normal",168675
+"RL",5,2005,2005,"Gd","TA","TA","TA","WD ","Normal",167000
+"RL",5,1965,1965,"TA","TA","Fa","Fa","WD ","Normal",140000
+"RL",5,1967,1967,"TA","TA","TA","TA","WD ","Abnorml",118500
+"RL",4,1963,1963,"TA","Gd","TA","TA","COD","Normal",110000
+"RL",4,1965,1965,"TA","TA","TA","TA","WD ","Normal",94750
+"RL",5,1925,1950,"TA","Gd","TA","TA","WD ","Normal",122000
+"RL",6,1960,1960,"TA","TA","TA","TA","WD ","Normal",110000
+"RL",6,1990,1990,"TA","Gd",NA,NA,"WD ","Normal",118500
+"RL",6,1976,1976,"TA","Fa","TA","Fa","WD ","Normal",133500
+"RL",6,1976,1976,"TA","Gd","TA","Gd","WD ","Normal",148000
+"RL",5,1979,1979,"TA","TA","TA","Gd","WD ","Normal",141000
+"RL",5,2006,2007,"TA","TA","TA","TA","New","Partial",155000
+"RL",5,2005,2006,"TA","TA","TA","TA","WD ","Normal",157000
+"RL",5,2005,2006,"TA","TA","TA","TA","WD ","Normal",171500
+"RL",10,2008,2009,"Ex","TA","TA","TA","New","Partial",183850
+"RL",10,2007,2008,"Ex","TA","TA","TA","New","Partial",184750
+"RM",6,2005,2005,"TA","TA","TA","TA","WD ","Normal",140000
+"RL",5,1959,2000,"TA","TA","TA","TA","WD ","Normal",131750
+"RL",4,1955,1955,"TA","TA",NA,NA,"WD ","Normal",61500
+"RL",4,1954,1954,"TA","TA","TA","TA","WD ","Normal",111000
+"RL",5,1946,1950,"TA","TA",NA,NA,"WD ","Abnorml",98500
+"RH",3,1931,2006,"TA","TA",NA,NA,"WD ","Normal",79000
+"RL",6,1920,1995,"TA","TA","TA","TA","WD ","Normal",108500
+"RL",4,1954,1954,"TA","TA","TA","TA","WD ","Abnorml",110000
+"RL",4,1910,2000,"TA","TA","Fa","TA","WD ","Normal",112000
+"RL",4,1955,1955,"TA","TA","TA","TA","WD ","Normal",125000
+"RL",4,1955,1955,"TA","TA","TA","TA","COD","Family",79275
+"RL",4,1954,1954,"TA","TA","TA","TA","WD ","Normal",119000
+"RH",6,1914,1995,"Fa","TA",NA,NA,"WD ","Abnorml",200000
+"RL",5,1923,1950,"TA","TA",NA,NA,"WD ","AdjLand",150000
+"RL",6,1923,1996,"TA","Gd","TA","TA","WD ","Normal",165000
+"RL",5,1926,1950,"TA","TA","Po","Po","WD ","Normal",96500
+"RL",5,1926,1950,"TA","TA","TA","TA","WD ","Normal",136500
+"RL",6,1921,2005,"TA","TA","TA","TA","WD ","Normal",146500
+"RL",5,1937,1950,"TA","TA","TA","TA","WD ","Normal",175000
+"RL",7,1930,1995,"TA","TA","TA","TA","WD ","Normal",148500
+"RL",6,1921,1950,"TA","TA","TA","TA","CWD","Normal",141500
+"RL",7,1918,1998,"Gd","TA","TA","TA","WD ","Normal",189950
+"RL",6,1926,1991,"TA","TA","TA","TA","WD ","Normal",135000
+"RL",7,1941,1950,"TA","Gd","TA","TA","WD ","Normal",164000
+"RL",5,1913,2002,"TA","TA","Gd","TA","WD ","Normal",90350
+"RL",5,1910,2003,"TA","TA","TA","TA","WD ","Normal",139000
+"RL",5,1938,1950,"TA","Gd","Fa","TA","WD ","Normal",119750
+"RH",6,1946,1950,"TA","TA","TA","TA","WD ","Normal",145000
+"RH",5,1949,1950,"TA","TA","TA","TA","WD ","Normal",145000
+"RL",7,1927,1992,"TA","TA","TA","TA","WD ","Normal",238000
+"RL",5,1951,1951,"TA","TA","TA","TA","WD ","Normal",153500
+"RL",6,1918,1950,"TA","TA","TA","TA","WD ","Normal",239000
+"RL",8,1934,1998,"TA","TA","TA","TA","WD ","Alloca",359100
+"RL",4,1930,2003,"TA","Gd","Fa","TA","WD ","Normal",188000
+"RL",6,1932,1950,"TA","TA","TA","Fa","WD ","Normal",220000
+"RL",5,1941,1950,"TA","TA","TA","TA","WD ","Normal",140000
+"RL",8,1932,1994,"Gd","TA","TA","TA","WD ","Normal",315000
+"RL",6,1945,2002,"TA","TA","TA","TA","WD ","Normal",259500
+"RL",6,1957,2004,"TA","TA","TA","TA","WD ","Normal",257500
+"RL",7,1940,1984,"TA","TA","TA","TA","CWD","Normal",219500
+"RL",6,1953,1953,"TA","Gd","TA","TA","COD","Abnorml",217000
+"RL",6,1960,1960,"TA","Fa","TA","TA","WD ","Normal",201000
+"RL",6,1968,1968,"TA","TA","TA","TA","CWD","Normal",215000
+"RM",6,1980,1980,"TA","Gd","TA","TA","WD ","Normal",123900
+"RL",4,1995,1996,"TA","TA","TA","TA","WD ","Normal",170000
+"RM",8,1988,1988,"TA","TA","TA","TA","WD ","Normal",200000
+"RL",7,1971,1971,"TA","TA","TA","TA","WD ","Normal",198000
+"RL",6,1957,1975,"Gd","TA","TA","TA","WD ","Alloca",200624
+"RL",8,1986,1986,"Gd","TA","Gd","Gd","WD ","Normal",315000
+"RM",5,1919,2005,"TA","TA",NA,NA,"WD ","Normal",115000
+"RM",6,1940,1950,"TA","TA","TA","TA","WD ","Normal",141000
+"RM",5,1941,1950,"TA","TA","TA","TA","WD ","Normal",87000
+"RM",5,1925,2003,"Gd","Gd",NA,NA,"WD ","Normal",129850
+"RM",4,1939,1950,"TA","TA","TA","TA","WD ","Normal",100000
+"RM",5,1923,1999,"TA","TA","","","WD ","Alloca",150909
+"RM",5,1922,1950,"TA","TA","Fa","Fa","WD ","Normal",75200
+"RM",6,1920,1950,"TA","TA","TA","TA","WD ","Normal",118400
+"RM",5,1920,1950,"TA","Fa","Po","Po","WD ","Abnorml",67000
+"RM",5,1950,1950,"TA","TA","TA","TA","WD ","Normal",152000
+"RM",2,1939,1950,"TA","TA","TA","Fa","WD ","Normal",68104
+"C (all)",5,1895,2006,"TA","Gd",NA,NA,"WD ","Normal",119600
+"C (all)",4,1957,1980,"TA","TA","TA","TA","WD ","Abnorml",140000
+"C (all)",5,1930,2007,"Gd","TA","TA","Po","WD ","Normal",124900
+"RM",8,2006,2007,"Gd","TA","TA","TA","New","Partial",375000
+"RM",8,2006,2007,"Gd","TA","TA","TA","WD ","Family",235000
+"RL",6,1979,1979,"TA","TA","TA","TA","WD ","Normal",183500
+"RL",6,1978,1978,"TA","TA","TA","TA","WD ","Normal",156000
+"RL",6,1983,1983,"TA","Gd","TA","TA","WD ","Normal",134000
+"RL",5,2002,2002,"Gd","TA","TA","TA","WD ","Normal",215000
+"RL",7,2002,2002,"Gd","TA","TA","TA","WD ","Normal",245000
+"RL",7,1991,1992,"TA","TA","TA","TA","WD ","Normal",210000
+"RL",7,1975,1975,"TA","TA","TA","TA","WD ","Normal",148000
+"RL",6,1974,1974,"TA","TA","TA","TA","WD ","Normal",143000
+"RL",7,1987,1987,"Gd","TA","TA","TA","WD ","Normal",244000
+"RM",7,1998,1998,"Gd","TA","TA","TA","WD ","Normal",330000
+"RL",5,1959,1959,"TA","Gd","TA","TA","WD ","Normal",170000
+"RL",6,1958,1995,"TA","Gd","TA","TA","WD ","Normal",257000
+"RL",7,2006,2007,"Gd","TA","TA","TA","New","Partial",231713
+"RL",8,2006,2007,"Gd","TA","TA","TA","New","Partial",267300
+"RL",8,2006,2006,"Gd","TA","TA","TA","WD ","Normal",265900
+"RL",8,2007,2007,"Gd","TA","TA","TA","New","Partial",239000
+"RL",8,2006,2007,"Gd","TA","TA","TA","New","Partial",248900
+"RL",7,1985,1985,"TA","TA","TA","TA","WD ","Normal",174000
+"RL",7,1990,1991,"Gd","Gd","TA","TA","WD ","Normal",187500
+"RL",6,1996,1997,"Gd","TA","TA","TA","WD ","Normal",204000
+"RL",8,2001,2001,"Gd","TA","TA","TA","WD ","Normal",180500
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",187500
+"RL",8,2002,2002,"Gd","TA","TA","TA","WD ","Normal",282000
+"RL",6,1996,1996,"Gd","TA","TA","TA","WD ","Normal",178000
+"RL",8,2002,2003,"Gd","TA","TA","TA","WD ","Normal",270000
+"RL",7,2003,2004,"Gd","TA","TA","TA","WD ","Normal",279900
+"RL",5,1963,1963,"TA","TA","TA","TA","WD ","Normal",186700
+"RL",8,2006,2007,"Gd","TA","TA","TA","New","Partial",283463
+"RL",10,2006,2007,"Ex","TA","TA","TA","New","Partial",392000
+"RL",8,2005,2006,"Gd","TA","TA","TA","WD ","Normal",281213
+"RL",5,2007,2007,"TA","TA",NA,NA,"New","Partial",147000
+"RL",3,1953,1953,"TA","TA","TA","TA","WD ","Normal",130000
+"RM",6,1996,1997,"TA","TA","TA","TA","WD ","Normal",140000
+"RL",4,1963,1963,"TA","TA","TA","TA","WD ","Normal",132250
+"RL",5,1967,1967,"TA","TA","TA","TA","WD ","Normal",143000
+"RL",4,1961,1975,"TA","Gd","TA","TA","WD ","Normal",168000
+"RM",5,1976,1976,"TA","TA","TA","TA","WD ","Normal",129900
+"RM",5,1976,1976,"TA","TA","TA","TA","WD ","Normal",134000
+"RM",4,1972,1972,"TA","TA","TA","TA","WD ","Normal",85500
+"RM",4,1970,1970,"TA","TA","TA","TA","WD ","Normal",106500
+"RM",4,1970,1970,"TA","TA",NA,NA,"WD ","Normal",93900
+"RM",4,1970,1970,"TA","TA","TA","TA","WD ","Normal",75000
+"RM",4,1970,1970,"TA","TA",NA,NA,"WD ","Normal",84500
+"RM",4,1976,1976,"TA","TA","TA","TA","COD","Normal",75190
+"RL",6,1976,1976,"TA","TA","TA","TA","WD ","Normal",146800
+"RL",5,1977,1977,"TA","TA","TA","TA","WD ","Normal",153500
+"RL",6,1977,1977,"TA","TA","TA","TA","WD ","Normal",188000
+"RL",5,1977,1994,"TA","Fa","TA","TA","WD ","Normal",196000
+"RL",5,1977,1977,"TA","TA","TA","TA","WD ","Normal",157000
+"RL",5,1971,1971,"TA","TA",NA,NA,"WD ","Normal",138000
+"RL",5,1970,1970,"TA","Gd","TA","TA","WD ","Normal",129500
+"RL",4,1961,1961,"TA","TA","TA","Fa","COD","Abnorml",80000
+"RL",4,1982,2006,"TA","TA","TA","TA","WD ","Normal",129500
+"RL",5,1976,2003,"TA","TA","TA","TA","WD ","Normal",135000
+"RL",5,1982,1982,"TA","TA","TA","TA","WD ","Normal",124500
+"RL",5,1983,1983,"TA","TA","TA","TA","WD ","Normal",139000
+"RL",5,1991,1992,"TA","TA",NA,NA,"Oth","Abnorml",93500
+"RL",5,1984,1984,"TA","TA","TA","TA","WD ","Normal",124500
+"RL",6,1954,1954,"TA","TA","TA","TA","WD ","Normal",149900
+"RL",6,1956,1956,"TA","Gd","TA","TA","WD ","Normal",157500
+"RL",5,1957,1957,"TA","TA","TA","TA","WD ","Normal",169000
+"RL",6,1957,1957,"TA","TA","TA","TA","WD ","Abnorml",252000
+"RL",7,1969,1969,"TA","Gd","TA","TA","WD ","Normal",192100
+"RL",6,1997,1998,"TA","TA","TA","TA","WD ","Normal",183500
+"RL",7,1997,1997,"TA","TA","TA","TA","WD ","Normal",222000
+"RL",6,1995,1995,"TA","TA","TA","TA","WD ","Normal",170000
+"RL",6,1995,1996,"TA","TA","TA","TA","WD ","Normal",187500
+"RL",6,1996,1996,"TA","TA","TA","TA","WD ","Normal",202000
+"RL",6,1997,1997,"TA","TA","TA","TA","WD ","Normal",185000
+"RL",7,2005,2006,"Gd","TA","TA","TA","New","Partial",320000
+"RL",7,2006,2006,"Gd","TA","TA","TA","New","Partial",240000
+"RL",8,2005,2005,"Gd","TA","TA","TA","WD ","Normal",250000
+"RL",8,2005,2005,"Gd","TA","TA","TA","WD ","Normal",239900
+"RL",7,2005,2006,"Gd","TA","TA","TA","New","Partial",309000
+"RL",7,2006,2006,"Gd","TA","TA","TA","New","Partial",274725
+"RL",8,1994,1994,"Gd","TA","TA","TA","WD ","Normal",270000
+"RL",6,1993,1994,"TA","TA","TA","TA","WD ","Normal",183500
+"RL",6,1993,1994,"TA","TA","TA","TA","WD ","Normal",165600
+"RL",7,1998,1998,"TA","TA","TA","TA","WD ","Normal",176500
+"RL",8,1987,1987,"TA","TA","TA","TA","WD ","Normal",130000
+"RL",7,1987,1987,"Gd","Gd","Gd","TA","WD ","Normal",239000
+"RL",8,1985,1985,"Gd","TA","TA","TA","WD ","Normal",275000
+"RL",9,2005,2006,"Gd","Ex","TA","TA","New","Partial",457347
+"RL",10,2006,2006,"Ex","TA","TA","TA","New","Partial",545224
+"RL",9,2006,2006,"Gd","TA","TA","TA","New","Partial",356383
+"RL",9,2005,2006,"Gd","TA","TA","TA","New","Partial",556581
+"RL",8,2006,2006,"Ex","TA","TA","TA","New","Partial",361919
+"RL",10,2006,2006,"Ex","TA","TA","TA","New","Partial",535000
+"RL",9,2005,2006,"Gd","TA","TA","TA","New","Partial",401179
+"RL",10,2006,2006,"Ex","TA","TA","TA","New","Partial",438780
+"RL",5,1948,1950,"TA","TA","TA","TA","WD ","Normal",169000
+"RL",5,1955,1955,"TA","TA","TA","TA","WD ","Normal",145000
+"RL",9,2005,2005,"Gd","TA","TA","TA","WD ","Normal",318000
+"RL",8,2005,2006,"Gd","TA","TA","TA","New","Partial",319000
+"RL",9,2005,2005,"Ex","TA","TA","TA","WD ","Normal",470000
+"RL",7,1984,1998,"Gd","TA","TA","TA","WD ","Normal",202500
+"RL",7,1988,1988,"Gd","Gd","TA","TA","WD ","Normal",229000
+"RL",7,1977,1994,"TA","TA","TA","TA","WD ","Normal",235000
+"RL",6,1976,1976,"TA","TA","TA","TA","WD ","Normal",190000
+"RL",6,1980,1980,"TA","TA","TA","TA","WD ","Normal",169000
+"RL",7,1988,1988,"TA","TA","TA","TA","WD ","Normal",241500
+"RL",7,1978,1978,"TA","TA","TA","TA","WD ","Normal",188900
+"RL",6,1980,1980,"TA","Gd","TA","TA","WD ","Normal",207500
+"RL",7,1978,1978,"TA","TA","TA","TA","WD ","Normal",250000
+"RL",6,1975,1975,"TA","TA","TA","TA","WD ","Normal",179900
+"RL",7,1976,1976,"Gd","TA","TA","TA","WD ","Normal",172000
+"FV",7,2005,2006,"Gd","TA","TA","TA","New","Partial",294323
+"RL",6,1975,2000,"TA","TA","TA","TA","WD ","Normal",184500
+"RL",5,1975,1975,"TA","TA","TA","TA","WD ","Normal",153500
+"RL",7,1976,1976,"TA","TA","TA","TA","WD ","Normal",162900
+"RL",6,1974,1999,"TA","TA","TA","TA","WD ","Normal",181000
+"RL",6,1974,1974,"TA","TA","TA","TA","WD ","Normal",155000
+"RL",5,1969,1969,"TA","TA","TA","TA","WD ","Abnorml",138800
+"RL",4,1970,1970,"TA","TA","TA","TA","Oth","Abnorml",116050
+"RL",4,1971,1971,"TA","TA",NA,NA,"WD ","Normal",88000
+"RL",4,1971,1971,"TA","TA","TA","TA","WD ","Normal",97500
+"RH",6,2002,2002,"Gd","TA","TA","TA","WD ","Normal",190000
+"RM",6,1973,1973,"TA","TA","TA","TA","WD ","Normal",105500
+"RM",5,1973,1973,"TA","TA","TA","TA","WD ","Normal",125500
+"RM",6,1973,1973,"TA","TA","TA","TA","WD ","Normal",83000
+"RM",6,1972,1972,"TA","TA","TA","TA","WD ","Normal",116000
+"RM",6,1971,1971,"TA","TA",NA,NA,"WD ","Abnorml",91500
+"RM",6,1972,1972,"TA","TA","TA","TA","WD ","Normal",118000
+"RM",6,1972,1972,"TA","TA","TA","TA","WD ","Normal",89000
+"RM",6,1972,1972,"TA","TA","TA","TA","WD ","Normal",108000
+"RM",6,1972,1972,"TA","TA","TA","TA","WD ","Normal",94500
+"RL",6,1975,1975,"TA","TA","TA","TA","WD ","Normal",146300
+"RL",5,1967,1975,"TA","TA","TA","TA","WD ","Normal",145000
+"RL",5,1967,1967,"TA","TA","TA","TA","WD ","Normal",123000
+"RL",7,1976,1976,"TA","TA","TA","TA","WD ","Normal",137500
+"RL",6,1976,1976,"TA","TA","TA","TA","WD ","Normal",144000
+"RL",9,2004,2005,"Gd","TA","TA","TA","WD ","Normal",315000
+"RL",9,2006,2006,"Gd","TA","TA","TA","New","Partial",412083
+"RL",9,2006,2006,"TA","TA","TA","TA","New","Partial",342643
+"RL",8,2004,2004,"Gd","TA","TA","TA","WD ","Normal",252000
+"RL",10,2006,2006,"Ex","TA","TA","TA","New","Partial",465000
+"RL",7,2006,2006,"Gd","TA","TA","TA","New","Partial",293000
+"RL",9,2005,2005,"Ex","TA","TA","TA","WD ","Normal",415000
+"RL",9,2004,2005,"Gd","TA","TA","TA","WD ","Normal",326000
+"RL",8,2005,2006,"Gd","TA","TA","TA","New","Partial",325300
+"RL",8,2004,2005,"Gd","TA","TA","TA","WD ","Normal",309000
+"RL",9,2005,2006,"Gd","TA","TA","TA","New","Partial",300000
+"RL",8,2005,2005,"Gd","TA","TA","TA","WD ","Normal",275500
+"RL",9,2005,2006,"Ex","TA","TA","TA","New","Partial",338500
+"RL",9,2005,2006,"Ex","TA","TA","TA","New","Partial",345000
+"RL",8,2005,2006,"Gd","TA","TA","TA","New","Partial",344133
+"RL",8,2006,2006,"Gd","TA","TA","TA","New","Partial",298236
+"RL",8,2005,2006,"Gd","TA","TA","TA","New","Partial",329900
+"RL",9,2003,2004,"Gd","TA","TA","TA","WD ","Normal",360000
+"RL",8,2006,2006,"Gd","TA","TA","TA","New","Partial",281000
+"RL",9,2005,2006,"Ex","TA","TA","TA","New","Partial",372397
+"RL",9,2004,2005,"Ex","TA","TA","TA","WD ","Normal",378000
+"RL",9,2003,2004,"Gd","TA","TA","TA","WD ","Normal",374000
+"RL",9,2005,2006,"Ex","TA","TA","TA","New","Partial",437154
+"RL",8,2005,2005,"Gd","TA","TA","TA","WD ","Normal",275000
+"RL",8,2004,2004,"Gd","TA","TA","TA","WD ","Normal",279000
+"RL",7,2005,2005,"Gd","TA","TA","TA","WD ","Normal",185850
+"RL",9,2005,2005,"Ex","TA","TA","TA","WD ","Normal",282500
+"RL",7,2005,2006,"Gd","TA","TA","TA","New","Partial",202500
+"RL",7,2005,2006,"Gd","TA","TA","TA","New","Partial",202665
+"RL",9,2006,2006,"Gd","TA","TA","TA","New","Partial",332200
+"RL",9,2006,2006,"Ex","TA","TA","TA","New","Partial",310090
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",171750
+"RL",6,2005,2006,"Gd","TA","TA","TA","New","Partial",169990
+"RL",6,2005,2006,"Gd","TA","TA","TA","New","Partial",170440
+"RL",7,2006,2006,"Gd","TA","TA","TA","New","Partial",169985
+"RL",7,2006,2006,"Gd","TA","TA","TA","New","Partial",179665
+"RL",7,2006,2006,"Gd","TA","TA","TA","New","Partial",219210
+"RL",6,2006,2006,"Gd","TA","TA","TA","New","Partial",174190
+"RL",6,2006,2006,"Gd","TA","TA","TA","New","Partial",172785
+"RL",8,2004,2005,"Gd","TA","TA","TA","New","Partial",258000
+"RL",7,2006,2006,"Gd","TA","TA","TA","New","Partial",185101
+"RL",7,2006,2006,"Gd","TA","TA","TA","New","Partial",210250
+"RL",7,2003,2004,"Gd","TA","TA","TA","WD ","Normal",234000
+"RL",8,2003,2003,"Gd","TA","TA","TA","WD ","Normal",215000
+"RL",7,2002,2002,"Gd","TA","TA","TA","WD ","Normal",246990
+"RM",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",178740
+"RM",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",225000
+"RL",7,2005,2006,"Gd","TA","TA","TA","New","Partial",167240
+"RL",7,2005,2006,"Gd","TA","TA","TA","New","Partial",156820
+"RL",7,2005,2005,"Gd","TA","TA","TA","WD ","Normal",213490
+"RL",8,2006,2006,"Gd","TA","TA","TA","New","Partial",264561
+"RL",7,2006,2006,"Gd","TA","TA","TA","New","Partial",246578
+"RL",5,2005,2005,"Gd","TA","TA","TA","WD ","Normal",192140
+"RL",6,2002,2003,"Gd","TA","TA","TA","WD ","Normal",183200
+"RL",8,2004,2004,"Gd","TA","TA","TA","WD ","Normal",178000
+"RL",7,2004,2005,"Gd","TA","TA","TA","WD ","Normal",201490
+"RL",8,2000,2000,"Gd","TA","TA","TA","WD ","Normal",230500
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",180000
+"RL",6,2000,2000,"TA","TA","TA","TA","WD ","Normal",172400
+"RL",6,2000,2000,"TA","TA","TA","TA","WD ","Normal",215000
+"RL",7,1998,1999,"Gd","TA","TA","TA","WD ","Normal",199900
+"RL",6,2000,2000,"TA","TA","TA","TA","WD ","Normal",173000
+"RL",7,2006,2006,"Gd","TA","TA","TA","New","Partial",287602
+"RL",7,1999,1999,"Gd","TA","TA","TA","WD ","Normal",230000
+"RL",8,1997,1998,"Gd","TA","TA","TA","WD ","Normal",348000
+"RL",8,1998,1998,"Gd","TA","TA","TA","WD ","Normal",286000
+"RL",8,2000,2000,"Gd","TA","TA","TA","WD ","Normal",300000
+"RL",10,1995,1996,"Gd","Gd","TA","TA","WD ","Normal",625000
+"RL",9,2000,2000,"Gd","TA","TA","TA","WD ","Normal",405000
+"RL",8,1998,1998,"Gd","TA","TA","TA","WD ","Normal",280000
+"RL",8,1998,1998,"Gd","TA","TA","TA","WD ","Abnorml",258000
+"RL",8,1995,1995,"Gd","TA","TA","TA","WD ","Normal",350000
+"RL",9,1993,1994,"Gd","Gd","TA","TA","WD ","Normal",584500
+"RL",8,1994,1995,"Gd","TA","TA","TA","WD ","Normal",321000
+"RL",8,1994,1994,"Gd","TA","TA","TA","WD ","Normal",290000
+"RL",8,1993,1993,"Gd","TA","TA","TA","WD ","Normal",315000
+"RL",8,2005,2006,"Gd","TA","TA","TA","New","Partial",252000
+"RL",8,2006,2006,"Gd","TA","TA","TA","New","Partial",336820
+"RL",8,2005,2006,"Gd","TA","TA","TA","New","Partial",423000
+"RL",8,2006,2006,"Gd","TA","TA","TA","New","Partial",290000
+"RL",7,2005,2005,"Gd","TA","TA","TA","WD ","Normal",232000
+"RL",8,2006,2006,"Gd","TA","TA","TA","New","Partial",199000
+"FV",8,2006,2006,"Gd","TA","TA","TA","New","Partial",198600
+"FV",9,2006,2006,"Gd","TA","TA","TA","New","Partial",405749
+"FV",8,2006,2006,"Gd","TA","TA","TA","New","Partial",232600
+"FV",8,2006,2006,"Gd","TA","TA","TA","New","Partial",266000
+"FV",7,2005,2006,"Gd","TA","TA","TA","New","Partial",186500
+"FV",6,2005,2005,"Gd","TA","TA","TA","WD ","Normal",200825
+"FV",7,2006,2006,"Gd","TA","TA","TA","New","Partial",197000
+"FV",6,2006,2006,"Gd","TA","TA","TA","New","Partial",185000
+"FV",7,2005,2005,"Gd","TA","TA","TA","WD ","Normal",176000
+"FV",7,2006,2006,"Gd","TA","TA","TA","New","Partial",187750
+"RL",6,2005,2005,"TA","TA",NA,NA,"WD ","Normal",139500
+"RL",7,2005,2006,"Gd","TA","TA","TA","New","Partial",186800
+"RL",6,2005,2006,"TA","TA",NA,NA,"New","Partial",132000
+"RL",6,2005,2005,"Gd","TA","TA","TA","WD ","Abnorml",142500
+"RL",6,2004,2004,"TA","TA","TA","TA","New","Partial",158000
+"RL",7,2005,2005,"Gd","TA","TA","TA","WD ","Normal",184000
+"RL",7,2005,2005,"Gd","TA","TA","TA","WD ","Normal",184900
+"RL",6,1997,1998,"TA","TA","TA","TA","WD ","Normal",187000
+"RL",6,1992,1992,"Gd","Gd","TA","TA","WD ","Normal",175900
+"RL",6,1992,1993,"Gd","TA","TA","TA","WD ","Family",248500
+"RL",6,1990,1991,"Gd","TA","TA","TA","WD ","Normal",172000
+"RL",6,1991,1991,"Gd","TA","TA","TA","WD ","Normal",151000
+"RL",6,1994,1994,"TA","TA","TA","TA","WD ","Normal",150000
+"RH",4,1966,1966,"TA","TA","TA","TA","WD ","Normal",107000
+"RH",5,1965,1965,"TA","TA","TA","TA","WD ","Abnorml",119900
+"RL",5,1962,1962,"TA","TA","TA","TA","WD ","Normal",129500
+"RM",5,1963,1963,"TA","TA","TA","TA","ConLI","Abnorml",125000
+"RM",6,1977,1977,"TA","Gd","TA","TA","WD ","Normal",119500
+"RL",5,1962,2002,"TA","TA","TA","TA","WD ","Normal",144000
+"RL",6,1977,1995,"TA","TA","TA","TA","WD ","Normal",151000
+"RL",5,1965,1965,"TA","TA","TA","TA","WD ","Normal",126000
+"RL",5,1968,1968,"TA","TA","TA","TA","COD","Normal",116000
+"RL",5,1963,1963,"TA","TA","TA","TA","WD ","Normal",133500
+"RL",5,1965,1965,"TA","TA","TA","TA","WD ","Normal",120875
+"RL",5,1965,1965,"TA","TA","TA","TA","WD ","Normal",137000
+"RL",5,1964,1964,"TA","TA",NA,NA,"WD ","Normal",124000
+"RL",5,1961,1994,"TA","TA","TA","TA","WD ","Normal",135000
+"RL",5,1967,1967,"TA","TA","TA","TA","WD ","Normal",129200
+"RL",7,1974,1974,"Gd","Fa","TA","TA","WD ","Normal",260000
+"RL",8,1991,1992,"Gd","TA","TA","TA","WD ","Normal",260000
+"RL",8,1992,1993,"Gd","TA","TA","TA","WD ","Normal",334000
+"RL",8,1993,1993,"Gd","Gd","TA","TA","WD ","Abnorml",310000
+"RL",7,1992,2000,"Gd","TA","TA","TA","WD ","Normal",268000
+"RL",8,1994,1995,"Gd","TA","TA","TA","WD ","Normal",262000
+"FV",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",176400
+"FV",8,2005,2005,"Gd","TA","TA","TA","WD ","Normal",197000
+"FV",7,2005,2005,"TA","TA","TA","TA","WD ","Normal",151000
+"FV",7,2005,2005,"Gd","TA","TA","TA","WD ","Normal",147400
+"FV",7,2005,2005,"Gd","TA","TA","TA","WD ","Normal",149900
+"FV",7,2005,2005,"Gd","TA","TA","TA","WD ","Abnorml",144152
+"FV",6,2000,2000,"Gd","TA","TA","TA","WD ","Normal",166000
+"FV",7,1999,1999,"Gd","TA","TA","TA","WD ","Normal",183900
+"FV",7,2000,2000,"Gd","TA","TA","TA","WD ","Normal",165000
+"FV",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",139000
+"FV",7,1997,1998,"Gd","TA","TA","TA","WD ","Normal",200000
+"FV",8,2001,2002,"Gd","TA","TA","TA","WD ","Normal",221000
+"RL",8,1995,1996,"Gd","Gd","TA","TA","WD ","Normal",270000
+"RL",6,1977,1977,"Gd","TA","TA","TA","WD ","Normal",165000
+"RL",8,1980,1980,"Gd","TA","TA","TA","WD ","Normal",214000
+"RL",8,1980,1980,"Gd","TA","TA","TA","WD ","Normal",188000
+"RL",8,1980,1980,"Gd","TA","TA","TA","WD ","Normal",190000
+"RL",8,1978,1978,"Gd","TA","TA","TA","WD ","Normal",170000
+"RL",9,1981,1987,"Gd","TA","TA","TA","WD ","Normal",385000
+"RL",5,1972,1972,"TA","TA","TA","TA","WD ","Normal",146500
+"RL",7,1968,1992,"TA","TA","TA","TA","WD ","Normal",170000
+"RL",7,1968,2003,"TA","TA","Gd","TA","WD ","Normal",262500
+"RL",6,1968,1968,"TA","TA","TA","TA","WD ","Normal",179900
+"RL",6,1968,1984,"TA","TA","TA","TA","WD ","Normal",250000
+"RL",6,1972,1972,"TA","TA","TA","TA","WD ","Normal",165150
+"RL",7,1967,1967,"TA","TA","TA","TA","WD ","Normal",164500
+"RL",7,1969,1969,"TA","TA","TA","TA","COD","Normal",140000
+"RL",5,1967,1967,"TA","TA","TA","TA","WD ","Normal",135500
+"RL",5,1968,1968,"TA","TA","TA","TA","WD ","Normal",142000
+"RL",5,1968,1968,"TA","TA","TA","TA","WD ","Normal",155000
+"RL",6,1968,2004,"TA","TA","TA","TA","WD ","Abnorml",157500
+"RL",5,1968,1968,"TA","TA","TA","TA","WD ","Normal",138500
+"RL",5,1968,1968,"TA","TA","TA","TA","WD ","Normal",140000
+"RL",5,1966,1966,"TA","TA","TA","TA","WD ","Normal",124400
+"RL",5,1967,1967,"TA","TA","TA","TA","WD ","Normal",158000
+"RL",5,1965,1998,"TA","TA","TA","TA","WD ","Normal",146000
+"RL",6,1971,1971,"TA","TA","TA","TA","WD ","Normal",190000
+"RL",5,1961,1961,"TA","TA","TA","TA","COD","Normal",136500
+"RL",5,1958,1958,"TA","TA","TA","TA","WD ","Normal",129900
+"RL",5,1959,2005,"TA","TA","TA","TA","WD ","Family",145000
+"RL",6,1965,2000,"TA","Gd","TA","TA","WD ","Abnorml",185900
+"RL",6,1964,1964,"TA","TA","TA","TA","WD ","Normal",160000
+"RL",6,1964,1964,"TA","TA","TA","TA","WD ","Normal",167000
+"RL",5,1964,1964,"TA","TA","TA","TA","WD ","Normal",157500
+"RL",6,1958,1958,"TA","Fa","TA","TA","ConLD","Normal",140000
+"RL",5,1958,1991,"TA","TA","TA","TA","WD ","Abnorml",150000
+"RL",5,1960,1960,"TA","TA","TA","TA","WD ","Normal",151500
+"RL",6,1934,1950,"TA","TA","TA","TA","WD ","Normal",129800
+"RL",5,1954,1954,"TA","TA","TA","TA","WD ","Normal",137000
+"RL",5,1947,1950,"TA","TA","TA","TA","WD ","Normal",137000
+"RL",4,1946,1950,"TA","TA","TA","TA","WD ","Abnorml",121600
+"RL",4,1923,1958,"TA","TA",NA,NA,"WD ","Normal",85500
+"RL",4,1926,1953,"TA","Gd","TA","TA","WD ","Normal",79900
+"RL",5,1908,1991,"TA","TA","TA","TA","WD ","Normal",127000
+"RL",5,1961,1990,"TA","TA","TA","TA","WD ","Normal",161000
+"RL",5,1952,1952,"TA","Gd","TA","TA","WD ","Partial",146500
+"RL",5,1951,1951,"TA","TA","TA","TA","WD ","Normal",135000
+"RL",5,1951,1951,"TA","TA","TA","TA","WD ","Normal",137900
+"RL",6,1941,1950,"TA","TA","TA","TA","WD ","Normal",133000
+"RL",5,1949,1973,"TA","TA","TA","TA","WD ","Normal",137000
+"RL",5,1954,1975,"TA","Gd","TA","TA","WD ","Normal",121000
+"RL",5,1967,1967,"TA","TA","TA","TA","WD ","Normal",119000
+"RL",6,1964,1964,"TA","TA","TA","TA","WD ","Normal",172000
+"RL",5,1961,1961,"TA","TA","TA","TA","WD ","Abnorml",98600
+"RL",7,1966,1966,"TA","TA","TA","TA","WD ","Normal",226000
+"RL",5,1954,1954,"TA","TA","TA","TA","WD ","Family",118000
+"RL",8,1918,1990,"Gd","Gd","TA","TA","WD ","Abnorml",235000
+"RL",6,1963,1963,"TA","TA","TA","TA","WD ","Normal",135000
+"RL",5,1962,1962,"TA","TA","TA","TA","WD ","Normal",132500
+"RL",5,1959,1959,"TA","Gd","TA","TA","WD ","Normal",143000
+"RL",5,1957,1957,"TA","TA","TA","TA","WD ","Normal",132000
+"RL",6,1960,1960,"TA","TA","TA","TA","WD ","Normal",145250
+"RL",6,1958,1958,"TA","TA","TA","TA","WD ","Normal",162000
+"RL",5,1956,1956,"TA","TA","TA","TA","WD ","Normal",148000
+"RL",5,1957,1957,"TA","TA","TA","TA","WD ","Normal",141000
+"RL",6,1956,1994,"TA","TA","TA","TA","WD ","Normal",153000
+"RL",5,1957,1996,"TA","TA","TA","TA","WD ","Normal",134450
+"RL",5,1979,1979,"TA","TA","TA","TA","WD ","Normal",135960
+"RL",6,1954,2000,"TA","Gd","TA","TA","WD ","Abnorml",156000
+"RL",6,1954,1954,"TA","TA","TA","TA","WD ","Normal",140000
+"RL",5,1952,2003,"TA","TA","TA","TA","WD ","Normal",139500
+"RL",6,1951,1951,"TA","TA","TA","TA","WD ","Normal",155000
+"RL",5,1956,1956,"TA","TA","TA","TA","WD ","Normal",127000
+"RL",5,1956,1956,"TA","TA","TA","TA","WD ","Normal",133500
+"RL",5,1955,1955,"TA","TA","TA","TA","WD ","Normal",125000
+"RL",5,1951,1991,"TA","TA","TA","TA","WD ","Normal",142000
+"RL",7,1941,1963,"Gd","TA","TA","TA","COD","Abnorml",167000
+"RL",5,1956,2001,"TA","TA","TA","TA","WD ","Normal",159000
+"RL",5,1925,1975,"TA","Fa","TA","TA","WD ","Normal",180000
+"RL",6,1947,1950,"TA","TA","TA","TA","WD ","Normal",127000
+"RL",6,1924,1950,"TA","Gd","TA","TA","COD","Normal",112000
+"RL",3,1930,2001,"TA","Gd","Fa","Fa","WD ","Normal",99800
+"RL",5,1954,2000,"TA","Gd","TA","TA","WD ","Normal",117000
+"RL",5,1921,1968,"TA","TA","TA","TA","WD ","Abnorml",108480
+"RL",3,1929,1950,"TA","Fa","Fa","TA","WD ","Normal",68000
+"RL",4,1900,1998,"TA","Gd","Fa","TA","WD ","Normal",86900
+"RL",5,1920,1950,"TA","TA","TA","TA","WD ","Normal",120000
+"RL",6,1915,1950,"TA","Ex","TA","TA","WD ","Normal",155500
+"RL",4,1910,1950,"TA","TA","Fa","TA","COD","Abnorml",80000
+"RL",3,1915,1950,"TA","TA","TA","TA","WD ","Family",105000
+"RL",5,1900,1970,"TA","Fa","TA","Fa","ConLD","Normal",160000
+"RL",5,1936,1989,"TA","TA","TA","TA","WD ","Normal",170000
+"RL",6,1965,1965,"TA","TA","TA","TA","WD ","Abnorml",160000
+"RL",5,1966,1966,"TA","TA","TA","TA","WD ","Normal",159950
+"RL",6,1963,1963,"TA","TA","TA","TA","WD ","Normal",165000
+"RL",6,1962,1981,"TA","TA","TA","TA","WD ","Normal",159000
+"RL",6,1962,1985,"TA","TA","TA","TA","WD ","Normal",147000
+"RL",5,1964,1964,"TA","TA","TA","TA","WD ","Abnorml",115000
+"RL",6,1959,1959,"TA","TA","TA","TA","WD ","Normal",159500
+"RL",6,1959,1959,"TA","TA","TA","TA","WD ","Abnorml",120000
+"RL",5,1957,1957,"TA","TA","TA","TA","WD ","Normal",129900
+"RL",6,1961,1992,"TA","TA","TA","TA","WD ","Normal",183000
+"RL",7,1959,1959,"TA","TA","TA","TA","WD ","Normal",157500
+"RL",7,1962,1998,"TA","TA","TA","TA","WD ","Normal",277500
+"RL",5,1957,1997,"TA","TA","TA","TA","WD ","Normal",207500
+"RL",4,1950,1950,"TA","TA","Fa","TA","WD ","Normal",147500
+"RL",4,1949,1950,"TA","TA",NA,NA,"WD ","Abnorml",135000
+"RL",5,1950,1950,"TA","TA","TA","TA","WD ","Normal",109500
+"RL",4,1950,1950,"TA","TA","TA","TA","WD ","Normal",109900
+"RL",5,1959,1959,"TA","TA","TA","TA","WD ","Normal",133700
+"RL",3,1950,1950,"TA","TA","TA","Fa","WD ","Normal",81400
+"RL",3,1949,1950,"TA","TA","TA","TA","WD ","Normal",87500
+"RL",3,1950,1950,"TA","TA","TA","TA","WD ","Normal",93500
+"RL",5,1960,1960,"TA","TA",NA,NA,"WD ","Normal",119000
+"RL",5,1959,1959,"TA","TA","TA","TA","WD ","Normal",141000
+"RL",5,1961,1961,"TA","TA","TA","TA","WD ","Normal",146000
+"RL",6,1966,1966,"TA","TA","TA","TA","WD ","Normal",155000
+"RL",5,1962,1962,"TA","TA","TA","TA","WD ","Normal",134500
+"RL",7,1962,1962,"TA","TA","TA","TA","WD ","Normal",120000
+"RL",5,1962,1962,"TA","TA","TA","TA","WD ","Normal",105000
+"RL",5,1962,1962,"TA","TA",NA,NA,"WD ","Normal",124000
+"RM",5,1900,2005,"Gd","Gd","TA","TA","WD ","Normal",169000
+"RM",4,1925,1950,"TA","TA","TA","TA","WD ","Family",107000
+"RM",5,1948,1950,"TA","TA","TA","TA","WD ","Normal",135000
+"RM",4,1920,1980,"TA","TA","Fa","Fa","WD ","Normal",111500
+"RM",6,1900,2004,"TA","TA","TA","TA","WD ","Normal",156500
+"RM",7,1925,1990,"TA","TA","Fa","TA","WD ","Normal",178000
+"RM",7,1900,1970,"TA","TA","TA","TA","WD ","Normal",139900
+"RM",7,1930,1950,"TA","TA","Fa","TA","WD ","Normal",105000
+"RM",6,1930,2005,"TA","TA","Fa","Fa","WD ","Normal",110000
+"RM",4,1900,1950,"Gd","TA","TA","TA","WD ","Normal",111500
+"RM",6,1924,1950,"TA","TA","TA","TA","COD","Abnorml",108000
+"RM",5,1925,1950,"TA","TA","TA","TA","WD ","Normal",111500
+"RM",5,1880,1991,"TA","TA","Fa","Po","WD ","Abnorml",124000
+"RM",4,1950,1950,"TA","TA","TA","TA","COD","Normal",105000
+"RM",6,1920,1950,"TA","TA","TA","TA","WD ","Normal",116000
+"RM",3,1905,1950,"TA","TA","TA","TA","WD ","Normal",96900
+"RM",5,1955,1955,"TA","TA","TA","TA","WD ","Normal",135500
+"RM",5,1924,1950,"TA","Gd","TA","TA","WD ","Normal",139000
+"RM",3,1921,1950,"TA","TA","Fa","TA","WD ","Normal",61500
+"RM",6,1945,1950,"TA","TA","Fa","TA","WD ","Normal",120000
+"RM",3,1955,2005,"TA","Gd","Fa","TA","WD ","Normal",126175
+"RM",3,1920,1950,"TA","TA","TA","Fa","WD ","Normal",64000
+"RM",6,1910,1950,"TA","Fa","Po","Po","WD ","Normal",137000
+"RM",4,1900,1950,"TA","TA","Fa","Fa","WD ","Normal",87000
+"RM",7,1914,1970,"TA","TA","TA","TA","WD ","Normal",163000
+"RM",7,1910,2005,"TA","TA","Fa","TA","WD ","Normal",155000
+"RM",5,1900,1950,"TA","TA","Fa","TA","WD ","Normal",79000
+"RM",7,1916,1950,"TA","TA","TA","TA","ConLw","Normal",144000
+"RM",6,1910,1993,"TA","TA","TA","Fa","WD ","Normal",114504
+"RM",7,1920,1950,"TA","TA","TA","TA","WD ","Normal",157000
+"RM",6,1923,1950,"TA","TA","Fa","Fa","WD ","Family",125000
+"RM",10,1892,1993,"Gd","Gd","Ex","TA","WD ","Normal",475000
+"RM",5,1920,1950,"TA","TA",NA,NA,"WD ","Normal",93500
+"RM",5,1958,1958,"TA","TA","TA","TA","WD ","Normal",125000
+"C (all)",3,1918,1950,"Fa","Fa",NA,NA,"ConLD","Normal",64500
+"RL",4,1941,1950,"TA","TA",NA,NA,"WD ","Abnorml",100000
+"RL",6,1939,1950,"TA","TA","TA","TA","WD ","Normal",140200
+"RL",6,1924,1996,"TA","TA","Fa","TA","WD ","Normal",202500
+"RM",6,1947,1950,"TA","Gd","TA","TA","WD ","Normal",159000
+"RM",5,1939,1950,"TA","TA","TA","TA","WD ","Normal",119900
+"RM",6,1934,1950,"TA","TA","TA","TA","WD ","Normal",114500
+"RM",5,1936,1950,"TA","TA","Fa","TA","WD ","Normal",115000
+"RM",3,1930,1950,"Gd","TA","Fa","Po","ConLI","Abnorml",75000
+"RM",5,1925,1950,"TA","TA","TA","TA","WD ","Abnorml",88000
+"RM",4,1947,1950,"TA","TA",NA,NA,"WD ","Normal",80500
+"RM",5,1928,1950,"TA","TA","TA","TA","WD ","Family",149000
+"RM",5,1930,1984,"TA","Gd","Fa","TA","WD ","Normal",110000
+"RM",6,1925,1980,"TA","Gd","TA","TA","WD ","Normal",110500
+"RM",5,1921,1950,"TA","TA","TA","TA","WD ","Normal",89000
+"RM",5,1922,1950,"TA","TA","TA","TA","WD ","Normal",113000
+"RL",5,1925,1950,"TA","TA","Fa","Fa","WD ","Normal",109000
+"RM",6,1962,1962,"TA","TA","TA","TA","WD ","Normal",220000
+"RL",4,1970,1970,"TA","TA","TA","TA","WD ","Normal",129000
+"RM",6,1910,2003,"TA","Gd","Fa","TA","WD ","Normal",117000
+"RM",4,1941,1950,"TA","TA",NA,NA,"WD ","Normal",52500
+"RM",4,1924,1950,"TA","TA","Fa","Fa","WD ","Abnorml",107000
+"RM",5,1910,2004,"Fa","Gd","TA","TA","WD ","Normal",116500
+"RM",5,1919,1950,"TA","TA",NA,NA,"WD ","Abnorml",72000
+"RM",6,1937,1950,"TA","TA","TA","TA","WD ","Normal",119500
+"RM",5,1938,1995,"TA","TA","TA","TA","WD ","Normal",125500
+"RM",3,1922,1950,"TA","TA","TA","Fa","WD ","Normal",91000
+"RM",6,1935,1982,"TA","Fa",NA,NA,"WD ","Normal",84500
+"RM",6,1930,1950,"TA","TA","TA","TA","ConLI","Family",90000
+"RL",5,1951,1951,"TA","Fa","TA","TA","WD ","Normal",137500
+"RL",6,1964,1964,"TA","TA","TA","TA","WD ","Normal",150000
+"RL",5,1950,1950,"TA","TA","TA","TA","WD ","Normal",131000
+"RL",5,1958,1958,"TA","TA","TA","TA","WD ","Abnorml",130000
+"RL",5,1935,1950,"TA","TA","TA","TA","WD ","Normal",125000
+"RL",5,1936,1950,"TA","TA","TA","TA","WD ","Normal",80000
+"RL",7,2004,2004,"TA","TA","TA","TA","WD ","Normal",157000
+"RL",4,1963,1979,"TA","TA","TA","TA","WD ","Normal",148000
+"RL",4,1967,1967,"TA","TA","TA","TA","WD ","Normal",90000
+"RL",6,1963,2003,"TA","TA","TA","TA","WD ","Normal",154500
+"RL",5,1967,1967,"TA","TA","TA","TA","WD ","Normal",153600
+"RL",5,1966,1966,"TA","TA","TA","TA","WD ","Abnorml",164500
+"RL",6,1964,1964,"TA","Gd","TA","TA","WD ","Normal",132000
+"RL",5,1966,1966,"TA","TA","TA","TA","WD ","Abnorml",142500
+"RL",5,1968,1968,"TA","TA","TA","TA","WD ","Normal",158000
+"RL",6,1978,1978,"TA","TA","TA","TA","WD ","Normal",149500
+"RL",5,1967,1967,"TA","TA","TA","TA","WD ","Normal",165000
+"RL",5,1968,1993,"TA","TA","TA","TA","WD ","Normal",180000
+"RL",6,1978,1978,"TA","TA","TA","TA","WD ","Normal",160500
+"RL",5,1977,1977,"TA","TA","TA","TA","WD ","Normal",156500
+"RL",5,1977,1977,"TA","TA","TA","TA","WD ","Normal",157000
+"RL",5,1958,1958,"Gd","Gd","TA","TA","WD ","Normal",172500
+"RL",5,1957,2000,"TA","TA","TA","TA","WD ","Normal",155000
+"RL",5,1955,1974,"TA","TA","TA","TA","WD ","Abnorml",170000
+"RL",5,1924,1950,"TA","TA","Fa","Fa","WD ","Normal",105000
+"RL",4,1965,2001,"TA","Gd","TA","TA","WD ","Normal",145000
+"RL",5,1956,1987,"TA","TA","TA","TA","WD ","Normal",168000
+"RL",7,1967,1967,"TA","TA","TA","TA","WD ","Normal",278000
+"RL",5,1963,1963,"TA","TA","TA","TA","WD ","Normal",164000
+"RL",7,1953,1953,"Gd","TA","TA","TA","WD ","Normal",225000
+"RL",5,1971,1972,"TA","TA","TA","TA","WD ","Normal",130000
+"RL",5,1974,1974,"TA","TA","TA","TA","WD ","Normal",142500
+"RL",7,1980,1981,"Gd","TA","Gd","TA","WD ","Normal",148400
+"RL",7,1986,1986,"TA","TA","TA","TA","WD ","Abnorml",190000
+"RL",4,1954,1954,"TA","Gd","TA","TA","WD ","Normal",146000
+"RL",5,1942,1950,"TA","TA","TA","TA","WD ","Family",128000
+"RL",5,1948,2002,"TA","Gd","TA","TA","WD ","Normal",225000
+"RL",6,1966,1966,"Gd","Gd","Gd","Gd","WD ","Alloca",274970
+"RL",6,1928,1950,"TA","TA","TA","TA","WD ","Normal",235000
+"RL",6,1935,1990,"TA","TA","TA","TA","WD ","Normal",415000
+"RL",5,1962,1962,"TA","TA","TA","TA","WD ","Normal",182000
+"RL",5,1952,2002,"TA","TA","TA","TA","WD ","Normal",135000
+"RL",5,1955,1999,"TA","TA","TA","TA","WD ","Normal",137000
+"RL",6,1954,1972,"TA","TA","TA","TA","WD ","Normal",136900
+"RL",6,1953,1953,"TA","TA","Fa","TA","WD ","Normal",149900
+"RL",5,1952,1952,"TA","TA","TA","TA","WD ","Normal",123500
+"RL",5,1954,1954,"TA","TA",NA,NA,"WD ","Normal",93000
+"RL",5,1948,1950,"TA","TA","TA","TA","WD ","Normal",91500
+"RL",6,1985,1985,"Gd","TA","TA","TA","WD ","Normal",180000
+"RL",6,1989,1989,"Gd","TA","TA","TA","WD ","Abnorml",209000
+"RL",8,1993,1994,"Gd","TA","TA","TA","WD ","Normal",215000
+"RL",6,1993,1993,"Gd","Gd","TA","TA","WD ","Normal",224500
+"RL",7,2005,2006,"Gd","TA","TA","TA","New","Partial",229800
+"RL",7,2005,2005,"Gd","TA","TA","TA","WD ","Abnorml",183600
+"RL",7,2006,2006,"Gd","TA","TA","TA","New","Partial",194000
+"RL",7,2006,2006,"Gd","TA","TA","TA","New","Partial",193879
+"RL",7,2005,2006,"Gd","TA","TA","TA","New","Partial",221500
+"RL",7,2006,2006,"Gd","TA","TA","TA","New","Partial",204900
+"RL",7,2006,2006,"Gd","TA","TA","TA","New","Partial",239799
+"RL",6,2006,2006,"Gd","TA","TA","TA","New","Partial",233555
+"RL",7,2005,2005,"Gd","TA","TA","TA","WD ","Normal",260000
+"RL",8,2005,2006,"Gd","TA","TA","TA","New","Partial",294900
+"RL",7,2005,2006,"Gd","TA","TA","TA","New","Partial",209700
+"RL",7,2005,2005,"Gd","TA","TA","TA","WD ","Normal",225000
+"RL",7,2005,2005,"Gd","TA","TA","TA","WD ","Normal",181000
+"RL",8,1992,1992,"Gd","TA","TA","TA","WD ","Abnorml",220000
+"RL",5,1964,1964,"TA","Gd","TA","TA","WD ","Normal",190000
+"RL",6,1969,1969,"TA","TA","TA","TA","WD ","Normal",180000
+"RL",7,1975,1975,"TA","TA","TA","TA","WD ","Normal",280000
+"RL",6,1968,1968,"TA","Fa","TA","TA","COD","Abnorml",158900
+"RL",5,1996,1996,"Gd","TA","TA","TA","WD ","Normal",148000
+"RL",5,1996,1996,"TA","Gd","TA","TA","WD ","Normal",145000
+"RL",6,1995,1995,"Gd","TA","TA","TA","WD ","Normal",187000
+"RL",7,1998,1998,"TA","TA","TA","TA","WD ","Normal",193000
+"RL",5,1995,1995,"TA","TA","TA","TA","WD ","Normal",156000
+"RL",7,2000,2000,"Gd","TA","TA","TA","WD ","Normal",235000
+"RL",6,1997,1997,"TA","Gd","TA","TA","WD ","Normal",217000
+"RL",7,1999,1999,"Gd","TA","TA","TA","WD ","Normal",214000
+"RL",7,1999,1999,"Gd","TA","TA","TA","WD ","Normal",196000
+"RL",7,1999,2000,"Gd","TA","TA","TA","WD ","Normal",217000
+"RL",7,2002,2002,"Gd","TA","TA","TA","WD ","Normal",200000
+"RL",7,2002,2002,"Gd","TA","TA","TA","WD ","Normal",192500
+"RL",7,2001,2002,"Gd","TA","TA","TA","WD ","Normal",205000
+"RL",5,1976,1976,"TA","TA","TA","TA","WD ","Normal",132500
+"RL",6,1977,1977,"TA","TA","TA","TA","WD ","Normal",157500
+"RL",6,1978,1978,"TA","TA","Fa","TA","WD ","Normal",174000
+"RL",5,1969,1969,"TA","TA","TA","TA","WD ","Normal",128500
+"RL",5,1972,1972,"TA","Gd","TA","TA","WD ","Normal",128500
+"RL",5,1972,1972,"TA","TA","TA","TA","WD ","Abnorml",149900
+"RL",5,1972,1972,"TA","TA","TA","TA","WD ","Normal",119900
+"RH",6,1993,1994,"TA","TA","TA","TA","WD ","Normal",137000
+"RL",8,2002,2002,"Gd","TA","TA","TA","WD ","Normal",255000
+"RL",7,2002,2002,"Gd","TA","TA","TA","WD ","Normal",222000
+"RL",6,1999,1999,"TA","TA","TA","TA","WD ","Normal",214000
+"RL",8,2002,2002,"Gd","TA","TA","TA","WD ","Normal",220000
+"RL",8,2001,2002,"Gd","TA","TA","TA","WD ","Normal",275000
+"RL",7,2002,2002,"Gd","TA","TA","TA","WD ","Normal",197000
+"RL",7,2002,2002,"Gd","TA","TA","TA","WD ","Normal",230000
+"RL",8,1999,1999,"Gd","TA","TA","TA","WD ","Normal",268500
+"RL",7,1996,1997,"Gd","TA","TA","TA","WD ","Normal",210900
+"RL",7,1998,1998,"TA","TA","TA","TA","WD ","Normal",227000
+"RL",7,1995,1996,"Gd","Gd","TA","TA","WD ","Normal",237000
+"RL",7,1998,1998,"TA","TA","TA","TA","WD ","Normal",274300
+"RL",7,2004,2005,"Gd","TA","TA","TA","WD ","Normal",216837
+"RM",6,2003,2003,"Gd","TA","TA","TA","WD ","Normal",133000
+"RM",6,2004,2004,"Gd","TA","TA","TA","WD ","Normal",155900
+"RL",8,2006,2006,"Gd","TA","Gd","TA","New","Partial",233230
+"RL",7,2003,2003,"Gd","TA","TA","TA","WD ","Normal",207000
+"RL",7,2004,2005,"Gd","TA","TA","TA","WD ","Normal",195000
+"RL",6,2003,2003,"Gd","TA","TA","TA","WD ","Normal",200000
+"RL",7,2006,2006,"Gd","TA","TA","TA","New","Partial",203160
+"RL",7,2005,2005,"Gd","TA","TA","TA","WD ","Normal",195800
+"RL",7,2005,2006,"Gd","TA","TA","TA","New","Partial",212900
+"RL",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",196500
+"RL",7,2005,2006,"Gd","TA","TA","TA","New","Partial",198000
+"RL",6,2005,2006,"TA","TA","TA","TA","New","Partial",173900
+"RL",6,2005,2006,"Gd","TA","TA","TA","New","Partial",163990
+"RL",7,2005,2005,"Gd","TA","TA","TA","New","Partial",164990
+"RL",4,1910,2000,"TA","Gd","TA","TA","WD ","Normal",98000
+"RL",5,1959,1959,"TA","TA","TA","TA","WD ","Normal",149900
+"RL",4,1951,1951,"TA","TA","TA","TA","COD","Normal",102000
+"RL",6,1975,1975,"TA","TA",NA,NA,"WD ","AdjLand",127500
+"RL",6,1975,1975,"TA","TA",NA,NA,"WD ","AdjLand",127500
+"RL",5,1969,1969,"TA","TA","TA","TA","WD ","Abnorml",119900
+"RL",7,2003,2004,"Gd","TA","TA","TA","WD ","Normal",196500
+"RL",6,2002,2002,"TA","TA",NA,NA,"WD ","Normal",117250
+"RL",7,2003,2005,"Gd","TA","TA","TA","ConLD","Normal",229000
+"RM",5,2005,2005,"TA","TA","TA","TA","WD ","Normal",145000
+"RM",6,2005,2006,"TA","TA","TA","TA","New","Partial",140000
+"RM",6,2005,2006,"TA","TA","TA","TA","New","Partial",142500
+"RM",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",134000
+"RM",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",130000
+"RM",6,2004,2006,"Gd","TA","TA","TA","WD ","Normal",130000
+"RM",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",137500
+"RM",7,2004,2004,"Gd","TA","TA","TA","WD ","Normal",130000
+"RL",4,1948,1950,"TA","Gd","TA","Po","WD ","Normal",97900
+"RL",6,1915,1950,"TA","Fa","TA","TA","WD ","AdjLand",92000
+"RL",4,1924,1950,"TA","TA","Fa","TA","WD ","AdjLand",107000
+"RL",5,1910,1996,"TA","Fa",NA,NA,"WD ","AdjLand",81000
+"RL",5,1924,1950,"TA","Gd","TA","TA","WD ","Normal",104900
+"RL",5,1955,1990,"TA","TA","TA","TA","WD ","Normal",115000
+"RL",4,1954,1968,"TA","TA","TA","TA","WD ","Abnorml",125000
+"RL",5,1918,1950,"TA","TA","TA","TA","WD ","Normal",116000
+"RL",4,1922,1950,"TA","TA",NA,NA,"COD","Abnorml",83000
+"RL",4,1912,1950,"Gd","TA","TA","Gd","WD ","Normal",118500
+"RL",2,1922,1955,"TA","TA","Fa","Fa","ConLD","Normal",35000
+"RL",4,1910,1993,"TA","TA","TA","Fa","WD ","Normal",121000
+"RH",5,1916,1995,"TA","TA",NA,NA,"WD ","Normal",160000
+"RL",6,1940,2000,"TA","TA","TA","TA","WD ","Normal",140000
+"RL",5,1938,1950,"TA","TA","Fa","TA","WD ","Normal",137000
+"RH",6,1945,1950,"TA","TA","TA","TA","WD ","Abnorml",128000
+"RL",7,1926,1997,"TA","TA","TA","TA","WD ","Normal",160000
+"RL",5,1914,1950,"TA","TA","Fa","Fa","WD ","Normal",138887
+"RL",6,1920,1950,"TA","TA","TA","TA","WD ","Normal",149000
+"RL",5,1926,1950,"TA","Fa",NA,NA,"WD ","Normal",102000
+"RL",7,1919,1950,"TA","TA","Fa","TA","WD ","Abnorml",167000
+"RL",7,1920,1950,"TA","TA","Fa","TA","WD ","Normal",200100
+"RL",5,1939,1950,"TA","TA","TA","TA","WD ","Normal",131000
+"RL",5,1941,1950,"TA","TA","TA","TA","WD ","Normal",112000
+"RL",7,1915,1970,"TA","TA","TA","TA","WD ","Abnorml",140000
+"RL",6,1920,1950,"TA","TA","TA","TA","WD ","Normal",195000
+"RL",8,1929,1950,"TA","TA","TA","TA","WD ","Normal",230000
+"RL",5,1940,1950,"TA","TA","TA","TA","WD ","Normal",194000
+"RL",4,1922,1950,"TA","TA","TA","Fa","WD ","Normal",137500
+"RL",7,1936,1987,"Gd","TA","Fa","TA","WD ","Normal",250000
+"RL",7,1929,1950,"Gd","Gd","TA","TA","WD ","Normal",218000
+"RL",6,1932,1950,"TA","TA","TA","TA","WD ","Normal",239000
+"RL",7,1932,1990,"TA","TA","TA","TA","WD ","Normal",199500
+"RL",6,1930,1959,"TA","TA","Fa","TA","WD ","Normal",210000
+"RL",6,1956,2004,"TA","TA","TA","TA","WD ","Abnorml",230000
+"RL",5,1977,1977,"TA","TA","TA","TA","WD ","Normal",217500
+"RL",5,1950,1963,"TA","Gd","TA","TA","WD ","Normal",257000
+"RL",5,1953,1953,"TA","TA","TA","TA","WD ","Normal",157000
+"RL",6,1969,1969,"Gd","Gd","TA","TA","WD ","Normal",223000
+"RM",5,1942,1950,"TA","TA","TA","TA","WD ","AdjLand",102000
+"RM",6,1926,1950,"TA","TA","TA","TA","WD ","Normal",145400
+"RM",4,1925,1950,"TA","TA",NA,NA,"WD ","Normal",72000
+"RM",4,1925,1950,"TA","TA","TA","TA","WD ","Normal",85000
+"RM",4,1936,1950,"TA","TA","TA","TA","WD ","Abnorml",106500
+"RM",6,1957,1957,"TA","TA","TA","TA","WD ","Normal",139000
+"C (all)",4,1920,1950,"TA","TA","TA","TA","COD","Normal",108000
+"C (all)",3,1945,1950,"TA","TA",NA,NA,"WD ","Abnorml",51689
+"C (all)",2,1949,1950,"TA","TA","TA","TA","WD ","Abnorml",35311
+"C (all)",5,1951,1951,"Fa","Fa",NA,NA,"WD ","Abnorml",115000
+"C (all)",3,1916,1950,"TA","TA",NA,NA,"WD ","Normal",78000
+"RM",8,2005,2006,"Gd","TA","TA","TA","New","Partial",375000
+"RM",8,2004,2005,"Gd","TA","TA","TA","WD ","Normal",300000
+"RL",6,1979,1979,"TA","TA","TA","TA","WD ","Normal",242500
+"RL",6,1978,1978,"TA","TA","TA","TA","WD ","Normal",145000
+"RL",8,2001,2001,"Gd","TA","TA","TA","WD ","Normal",209000
+"RL",6,1977,1977,"TA","TA","TA","TA","WD ","Normal",135000
+"RL",6,1975,1975,"TA","TA","TA","TA","WD ","Normal",148000
+"RL",7,1988,1989,"TA","TA","TA","TA","WD ","Family",171000
+"RL",7,1989,1990,"Gd","TA","TA","TA","WD ","Normal",335000
+"RM",7,1986,1986,"Gd","TA","TA","TA","WD ","Normal",230000
+"RL",6,1958,1958,"TA","TA","TA","TA","WD ","Alloca",250764
+"RL",8,1981,1981,"Gd","TA","TA","TA","WD ","Normal",228000
+"RL",6,1987,1987,"TA","TA","TA","TA","WD ","Normal",176000
+"RL",7,1990,1990,"TA","TA","Gd","Gd","WD ","Normal",180000
+"RL",7,1990,1991,"TA","TA","TA","TA","WD ","Normal",250000
+"RL",6,2000,2000,"Gd","TA","TA","TA","WD ","Normal",202000
+"RL",8,2002,2002,"Gd","TA","TA","TA","WD ","Normal",312500
+"RL",8,2005,2006,"Gd","TA","TA","TA","New","Partial",320000
+"RL",8,2005,2006,"Gd","TA","TA","TA","New","Partial",369900
+"RL",9,2005,2006,"Ex","TA","TA","TA","New","Partial",359900
+"A (agr)",1,1951,1951,"TA","Fa","Fa","TA","WD ","Normal",81500
+"RM",7,1997,1997,"TA","Gd","TA","TA","WD ","Normal",215000
+"RM",6,1998,1998,"TA","TA","TA","TA","WD ","Normal",164000
+"RM",6,1998,1998,"TA","Gd","TA","TA","WD ","Normal",153500
+"RL",5,2006,2006,"TA","TA",NA,NA,"WD ","Abnorml",84500
+"RM",5,1977,1977,"TA","TA","TA","TA","WD ","Normal",104500
+"RM",5,1977,1977,"TA","TA","TA","TA","WD ","Normal",127000
+"RM",6,1973,1973,"TA","TA","TA","TA","WD ","Normal",151400
+"RL",5,1968,2003,"TA","TA","TA","TA","WD ","Normal",126500
+"RL",5,1970,1970,"TA","TA","TA","TA","WD ","Normal",146500
+"RM",4,1970,1970,"TA","TA",NA,NA,"WD ","Normal",73000
+"RM",4,1972,1972,"TA","TA","TA","Fa","WD ","Normal",79400
+"RL",5,1969,1979,"TA","TA","TA","TA","WD ","Normal",140000
+"RM",5,1970,1970,"TA","TA",NA,NA,"WD ","Abnorml",92000
+"RM",4,1970,1970,"TA","TA","TA","TA","WD ","Abnorml",87550
+"RM",4,1970,1970,"TA","TA",NA,NA,"WD ","Normal",79500
+"RM",4,1970,1970,"TA","TA",NA,NA,"WD ","Normal",90500
+"RM",4,1970,1970,"TA","TA","TA","TA","WD ","Abnorml",71000
+"RL",6,1976,1976,"TA","TA","TA","TA","WD ","Normal",150900
+"RL",5,1976,1976,"TA","TA","TA","TA","WD ","Family",188000
+"RL",5,1977,1977,"TA","TA","TA","TA","WD ","Normal",160000
+"RL",5,1960,1996,"TA","TA","TA","TA","WD ","Abnorml",131000
+"RL",6,1984,1984,"TA","TA","TA","TA","WD ","Normal",142500
+"RL",5,1983,1983,"TA","TA","TA","TA","WD ","Normal",131000
+"RL",5,1992,1992,"TA","TA",NA,NA,"WD ","Normal",132000
+"RL",5,1974,1975,"TA","TA","TA","TA","WD ","Normal",170000
+"RL",7,1993,1994,"TA","TA","TA","TA","WD ","Normal",188000
